@@ -1,697 +1,672 @@
-﻿city,name,amenity,shop
-Tanta,فتح الله جملة ماركت,,supermarket
-Tanta,Carrefour,,supermarket
-Tanta,Unknown,,clothes
-Tanta,موديلز,,clothes
-Tanta,عم طلاح,restaurant,
-Tanta,Unknown,cafe,
-Tanta,Hamodi Store,,clothes
-Tanta,صيدلية الدكتورة آية راضى,pharmacy,
-Tanta,Aly,cafe,
-Tanta,فتح الله - إعمار مول,,supermarket
-Tanta,Unknown,pharmacy,
-Tanta,صيدلية الدكتور احمد حسن,pharmacy,
-Tanta,ابو دشيش,restaurant,
-Tanta,Lapip Lounge,cafe,
-Tanta,نور الدين,,supermarket
-Mansoura,Maxim,cafe,
-Mansoura,البارون,restaurant,
-Mansoura,دجاج كنتكى,restaurant,
-Mansoura,ماكدونالدز,restaurant,
-Mansoura,تكا,restaurant,
-Mansoura,بيتزا هت,restaurant,
-Mansoura,Metro Market,,supermarket
-Mansoura,فرنش فرايز,restaurant,
-Mansoura,Buffalo Burger,restaurant,
-Mansoura,دومينوز بيتزا,restaurant,
-Mansoura,Mobinil,,mobile_phone
-Mansoura,Mo'men,restaurant,
-Mansoura,Dafodil,,clothes
-Mansoura,الخان,restaurant,
-Mansoura,مؤمن,restaurant,
-Mansoura,Vodafone,,mobile_phone
-Mansoura,Gardino Cafe,cafe,
-Mansoura,كابتشينو,restaurant,
-Mansoura,Terranova,,clothes
-Mansoura,Spectra Restaurant & Cafe,cafe,
-Mansoura,Pinci,cafe,
-Mansoura,Cat Mobie,,mobile_phone
-Mansoura,Mobile Shop,,mobile_phone
-Mansoura,Cavalo,,clothes
-Mansoura,I2 Stores,,mobile_phone
-Mansoura,صيدلية وادى النيل,pharmacy,
-Mansoura,علاء الدين,restaurant,
-Mansoura,Caj,,clothes
-Mansoura,بيانو بيانو,,clothes
-Mansoura,صيدلية سراج الدين,pharmacy,
-Mansoura,رابحة,,clothes
-Mansoura,صيدليات العزبى,pharmacy,
-Mansoura,Viola,,clothes
-Mansoura,Cacao,,clothes
-Mansoura,Harby,,clothes
-Mansoura,وكالة المنصورة,,supermarket
-Mansoura,صيدلية الطرشوبى,pharmacy,
-Mansoura,كشرى الحجاز,restaurant,
-Mansoura,مطاعم البغل الكبرى,restaurant,
-Mansoura,كوفى شوب الحرافيش,cafe,
-Mansoura,قطونيل فيجا,,clothes
-Mansoura,اولاد رجب,,supermarket
-Mansoura,نجوم التوحيد والنور,,clothes
-Mansoura,سنتر الملكة,,clothes
-Mansoura,ديتكس,,clothes
-Mansoura,الشرقاوى,,supermarket
-Mansoura,ابو شريف,,clothes
-Mansoura,حسن محمد حسن,,clothes
-Mansoura,كلاسيك,,clothes
-Mansoura,صيدلية د. حمدى,pharmacy,
-Mansoura,الصالح ايوب,,supermarket
-Mansoura,كشرى زيزو,restaurant,
-Mansoura,فتح الله جملة ماركت,,supermarket
-Mansoura,رمضان الكبابجى الوحيد,restaurant,
-Mansoura,ولعتين,restaurant,
-Mansoura,صيدلية البسطويسى,pharmacy,
-Mansoura,مركز النصر الرياضى,,clothes
-Mansoura,البيت التركى,,clothes
-Mansoura,Aswaq Al-Mona,,supermarket
-Mansoura,Etisalat,,mobile_phone
-Mansoura,Wekalet El-Mansoura,,supermarket
-Mansoura,Al Sabahy,restaurant,
-Mansoura,Cook Door,restaurant,
-Mansoura,KFC,fast_food,
-Mansoura,Istacuza,restaurant,
-Mansoura,Wekalet El Mansoura,,supermarket
-Mansoura,Panadora,restaurant,
-Mansoura,Cappuccino,restaurant,
-Mansoura,Omar Afandy,,clothes
-Mansoura,New Born,,clothes
-Mansoura,Ravin,,clothes
-Mansoura,Wagdy Galal,,clothes
-Mansoura,Pyramisa,cafe,
-Mansoura,Awadalla Market,,supermarket
-Mansoura,Unknown,,supermarket
-Mansoura,Unknown,pharmacy,
-Mansoura,كافيه اندريا,cafe,
-Mansoura,مقهى البتراوي,cafe,
-Mansoura,Al Dewan,restaurant,
-Mansoura,المحمدي,restaurant,
-Mansoura,Elghaly,cafe,
-Mansoura,Opaa,cafe,
-Mansoura,Coffee Shop Company,cafe,
-Mansoura,Al Nakhil,restaurant,
-Mansoura,كاتشب,restaurant,
-Mansoura,المالكي,restaurant,
-Mansoura,أهل الشام,restaurant,
-Mansoura,Lava,restaurant,
-Mansoura,Chicks,restaurant,
-Mansoura,Ivano,cafe,
-Mansoura,Ahl Alsham,restaurant,
-Mansoura,مطاعم البغل الكبري,restaurant,
-Mansoura,Maqlet al-Estad,,supermarket
-Mansoura,Carrefour Mart,,supermarket
-Mansoura,Cofee Shop Company,cafe,
-Mansoura,Pizza Hut,restaurant,
-Mansoura,Caporia,restaurant,
-Mansoura,Cheif Yousry,restaurant,
-Mansoura,Tarshoby,pharmacy,
-Mansoura,Al Mohamdy,restaurant,
-Mansoura,Al Ta'lab,restaurant,
-Mansoura,Metro,,supermarket
-Mansoura,Sally,pharmacy,
-Mansoura,Manhaten,cafe,
-Mansoura,WE,,mobile_phone
-Mansoura,Wekalet Abo Raya,,supermarket
-Mansoura,Fattoma,restaurant,
-Mansoura,زيزو,restaurant,
-Mansoura,مول الشوا الجديد,,clothes
-Mansoura,كافيه عاطف,cafe,
-Mansoura,Khalifa,pharmacy,
-Mansoura,Hello,cafe,
-Mansoura,محمصات نور الصباح,,supermarket
-Mansoura,القيطى العطار,,supermarket
-Mansoura,اشرف حسنى جمله,,supermarket
-Mansoura,هيثم محمود جمله,,supermarket
-Mansoura,شركة تبارك جمله,,supermarket
-Mansoura,ڤيڤيدو كافي,cafe,
-Mansoura,RAVA,,clothes
-Mansoura,فطاطري الدمياطي,restaurant,
-Mansoura,فيكس كلاب-خدمة الجوال,,mobile_phone
-Mansoura,سوبر ماركت الصعيدي,,supermarket
-Mansoura,Kansas Fried Chicken,fast_food,
-Mansoura,عم سمير فرع المنصورة,restaurant,
-Mansoura,Unknown,cafe,
-Zagazig,إيمان عبد الجواد,pharmacy,
-Zagazig,فرع اورانج,,mobile_phone
-Zagazig,كابتن هيما,cafe,
-Zagazig,كشري التحرير,restaurant,
-Zagazig,فرندا كافيه,cafe,
-Zagazig,عربية ماكولات وفول,restaurant,
-Zagazig,ساعة لقلبك,cafe,
-Zagazig,بيترا اسكندرية,restaurant,
-Zagazig,مطعم جمعه كريب,restaurant,
-Zagazig,Unknown,restaurant,
-Zagazig,ماكدونالدز,restaurant,
-Zagazig,الأصيل,restaurant,
-Zagazig,سوبرماركت ابو احمد,,supermarket
-Zagazig,الإسراء,,supermarket
-Zagazig,Gallery Cafe,cafe,
-Zagazig,Dores,,clothes
-Zagazig,أبوجمعه جمله | AboGomaa Gomla,,supermarket
-Zagazig,بيتزا اسكندرية,restaurant,
-Zagazig,ريماس لاند,restaurant,
-Mahalla,صيدلية ميرفت زكريا كامل,pharmacy,
-Mahalla,مطاعم البغل الكبرى,fast_food,
-Mahalla,كافيتريا الزعيم,cafe,
-Mahalla,كافيتريا ماسبيرو,cafe,
-Mahalla,سوبر ماركت اولاد رجب,,supermarket
-Mahalla,Unknown,,mobile_phone
-Mahalla,Spazio,restaurant,
-Mahalla,Pizza Hut Delivery,fast_food,
-Mahalla,Unknown,,supermarket
-Mahalla,روكيت للملابس الرجالي,,clothes
-Mahalla,مطعم تظبيطه,restaurant,
-Mahalla,سنتر سامح جمعه,,clothes
-Mahalla,صيدلية علاء الطحان,pharmacy,
-Damanhur,OL A SENORITA,,clothes
-Damanhur,قهوة حجناية,cafe,
-Kafr El Sheikh,جملة الهادى حماده عبد السلام,,supermarket
-Kafr El Sheikh,واحة مندي ابو صالح,restaurant,
-Kafr El Sheikh,اي ام اس نمبر وان,,clothes
-Kafr El Sheikh,Circle,cafe,
-Kafr El Sheikh,أبو رحيم,fast_food,
-Kafr El Sheikh,قهوة كوبري محلة موسى,cafe,
-Kafr El Sheikh,دكان جمال,,supermarket
-Kafr El Sheikh,مبروك النمس,,supermarket
-Kafr El Sheikh,ماضي,,clothes
-Kafr El Sheikh,قهوة العثمانية,cafe,
-Kafr El Sheikh,صيدلية الجمهورية,pharmacy,
-Kafr El Sheikh,دكان عايدة,,supermarket
-Kafr El Sheikh,Unknown,,supermarket
-Shebin El Kom,نادى التجاريين,cafe,
-Shebin El Kom,توينتي فور سيفن بلس,,clothes
-Shebin El Kom,قهوة باب الخلق,cafe,
-Shebin El Kom,مطعم مولانا,restaurant,
-Shebin El Kom,الشيخ احمد,restaurant,
-Alexandria,Carrefour Alexandria,,supermarket
-Alexandria,Tekka Grill,restaurant,
-Alexandria,سوق السمك,restaurant,
-Alexandria,Unknown,cafe,
-Alexandria,Carlos Café,cafe,
-Alexandria,Unknown,restaurant,
-Alexandria,Mocca,cafe,
-Alexandria,ماكدونالدز,fast_food,
-Alexandria,صيدليه كريمه المراسي,pharmacy,
-Alexandria,الديب مول,,supermarket
-Alexandria,فول وفلافل أبو عوض,fast_food,
-Alexandria,صيدليه د. أمنيه عنتر,pharmacy,
-Alexandria,أحمد محمد فول,restaurant,
-Alexandria,Cafe FAROS,cafe,
-Alexandria,El Kobissi King of Mango & Strawberry,cafe,
-Alexandria,La'CASA,cafe,
-Alexandria,Pizza Hut,restaurant,
-Alexandria,Shahrzad Cafe,cafe,
-Alexandria,ستوديو مصر,restaurant,
-Alexandria,لبانيرو,restaurant,
-Alexandria,Corcovado (Jungle),restaurant,
-Alexandria,Combo Court,restaurant,
-Alexandria,Jeeda’s,restaurant,
-Alexandria,فطير العمدة,restaurant,
-Alexandria,نور كافيه,cafe,
-Alexandria,همبكة كافيه,cafe,
-Alexandria,مطعم سورى,restaurant,
-Alexandria,عصير مكة,fast_food,
-Alexandria,Carrefour,,supermarket
-Alexandria,Leila,cafe,
-Alexandria,Ole,restaurant,
-Alexandria,Roastery,restaurant,
-Alexandria,Unknown,pharmacy,
-Alexandria,Saint Geni,pharmacy,
-Alexandria,Teatro Eskendria,cafe,
-Alexandria,اتصالات,,mobile_phone
-Alexandria,فتح الله جملة ماركت - جناكليس,,supermarket
-Alexandria,جاد,fast_food,
-Alexandria,زهران ماركت,,supermarket
-Alexandria,اونباشي لار,restaurant,
-Alexandria,ابو رياض السوري,restaurant,
-Alexandria,بيتزا كوين,fast_food,
-Alexandria,Gleem Court,fast_food,
-Alexandria,مصراوي ماركت,,supermarket
-Alexandria,قدورة,restaurant,
-Alexandria,السمان,cafe,
-Alexandria,قهوة فاروق,cafe,
-Alexandria,لاتينو Latino,restaurant,
-Alexandria,Abou Rabeea,fast_food,
-Alexandria,دجاج كنتاكي,fast_food,
-Alexandria,Costa,cafe,
-Alexandria,007 Coffee Shop,cafe,
-Alexandria,Unknown,fast_food,
-Alexandria,بوكسر,,clothes
-Alexandria,اليكس ماركت جرين,,supermarket
-Alexandria,اليكس ماركت زين العابدين,,supermarket
-Alexandria,Marciano Café & Restaurant,restaurant,
-Alexandria,خليل,pharmacy,
-Alexandria,كيخة كوفي,cafe,
-Alexandria,كافتيريا ساعة صفا,cafe,
-Alexandria,أسواق فتح الله للجملة,,supermarket
-Alexandria,مقهى الفيشاوي,cafe,
-Alexandria,اليكس ماركت - شركة الاسكندرية للمجمعات الاستهلاكية,,supermarket
-Alexandria,اليكس ماركت,,supermarket
-Alexandria,صيدلية بخيت,pharmacy,
-Alexandria,صيدلية خليل,pharmacy,
-Alexandria,صيدلية رشدي,pharmacy,
-Alexandria,صيدلية نيو جوانيدس,pharmacy,
-Alexandria,Vodafone,,mobile_phone
-Alexandria,مطعم كسح,restaurant,
-Alexandria,مقهى جمال معوض,cafe,
-Alexandria,برشلونة,cafe,
-Alexandria,Set El Hawalem,,clothes
-Alexandria,مترو,,supermarket
-Alexandria,صيدلية العزبي,pharmacy,
-Alexandria,كافيه أسوان,cafe,
-Alexandria,Délices,cafe,
-Alexandria,Brazilian Coffee Stores,cafe,
-Alexandria,Tawn Coffe Shop,restaurant,
-Alexandria,Sea Gull Restaurant,restaurant,
-Alexandria,صيدلية الفتح,pharmacy,
-Alexandria,صيدلية هند الطيبي,pharmacy,
-Alexandria,أليكس ماركت,,supermarket
-Alexandria,صيدلية د. كمال محيي الدين,pharmacy,
-Alexandria,DAIJA women's wear,,clothes
-Alexandria,صيدلية د. يسري عبد المجيد,pharmacy,
-Alexandria,صيدلية عبد الرحمن,pharmacy,
-Alexandria,دايلي ماركت,,supermarket
-Alexandria,صيدلية الهلال,pharmacy,
-Alexandria,صيدليات د. أسامة الطيبي,pharmacy,
-Alexandria,Eat & Treat,fast_food,
-Alexandria,جار,restaurant,
-Alexandria,صيدلية د. عبد الحكيم,pharmacy,
-Alexandria,elfallah liver,fast_food,
-Alexandria,Swiss milks,restaurant,
-Alexandria,كلارك,,clothes
-Alexandria,صيدلية سعد زغلول,pharmacy,
-Alexandria,صيدلية أبو زيادة,pharmacy,
-Alexandria,مشويات أبو كمال,fast_food,
-Alexandria,ابو ناصر,restaurant,
-Alexandria,بيت الجماة,,supermarket
-Alexandria,Trianon,cafe,
-Alexandria,Kadoura,restaurant,
-Alexandria,سوق ليبيا,,supermarket
-Alexandria,جاد,restaurant,
-Alexandria,كاركي,fast_food,
-Alexandria,Unknown,,supermarket
-Alexandria,Hussein & Ali Hussein,restaurant,
-Alexandria,أولاد خميس,,supermarket
-Alexandria,د/ خالد عبد الحيم,pharmacy,
-Alexandria,ألبان الأمانة,,supermarket
-Alexandria,العم زغلول,restaurant,
-Alexandria,Unknown,,clothes
-Alexandria,قهوة خفاجي,cafe,
-Alexandria,Calithea,restaurant,
-Alexandria,Waves,restaurant,
-Alexandria,اسماك شعبان,restaurant,
-Alexandria,Cilantro,cafe,
-Alexandria,Potasta,cafe,
-Alexandria,سيدرا,restaurant,
-Alexandria,Favore,,clothes
-Alexandria,الحسين,cafe,
-Alexandria,الحُسين,cafe,
-Alexandria,جزارة محمد حامد,restaurant,
-Alexandria,المدهش ابو الشمس,restaurant,
-Alexandria,Gleem Bay,restaurant,
-Alexandria,Old street,restaurant,
-Alexandria,عظمة,restaurant,
-Alexandria,صيدلية اميرة خاطر,pharmacy,
-Alexandria,ابو على,,clothes
-Alexandria,Misslele,,clothes
-Alexandria,فلوش,,clothes
-Alexandria,المعتز,,clothes
-Alexandria,Mix Brands,,clothes
-Alexandria,Amigo,,clothes
-Alexandria,Bonbon,,clothes
-Alexandria,Gamal,,clothes
-Alexandria,The Truck,fast_food,
-Alexandria,Alessandra Coffee,cafe,
-Alexandria,د. هدى حامد,pharmacy,
-Alexandria,Ecuador Coffee,cafe,
-Alexandria,البطالسة,pharmacy,
-Alexandria,صيدلية السلطان حسين,pharmacy,
-Alexandria,Papa John's,fast_food,
-Alexandria,رحمة كيمو,fast_food,
-Alexandria,L’Apéro,restaurant,
-Alexandria,اسطنبول,pharmacy,
-Alexandria,المعلم,fast_food,
-Alexandria,Unknown,,mobile_phone
-Alexandria,Défilé,,clothes
-Alexandria,Athineos,cafe,
-Alexandria,Dream 2000,,mobile_phone
-Alexandria,Totex,,clothes
-Alexandria,Jeans Life,,clothes
-Alexandria,My Queen,,clothes
-Alexandria,Bazooka,fast_food,
-Alexandria,Believe,,clothes
-Alexandria,Mermaid,restaurant,
-Alexandria,Mega,,clothes
-Alexandria,Marilyn Monroe,,clothes
-Alexandria,Chez Gaby au Ritrovo,restaurant,
-Alexandria,Torino,,clothes
-Alexandria,محروس,,clothes
-Alexandria,Café de la Paix,cafe,
-Alexandria,كافيتريا المدينة,cafe,
-Alexandria,كبدة عم أمين,fast_food,
-Alexandria,قصر الفيشاوى,cafe,
-Alexandria,The Chocolate Factory,cafe,
-Alexandria,محفوظ,pharmacy,
-Alexandria,Cowboy,,clothes
-Alexandria,Aswan,cafe,
-Alexandria,Sterla,,clothes
-Alexandria,Bonjour,,clothes
-Alexandria,Name It,,clothes
-Alexandria,Melody,,clothes
-Alexandria,حباتر,cafe,
-Alexandria,جملة ماركت,,supermarket
-Alexandria,Triplo C,cafe,
-Alexandria,Malibu,cafe,
-Alexandria,Tie House,,clothes
-Alexandria,Guitar,,clothes
-Alexandria,Madora,,clothes
-Alexandria,لا شيكا,,clothes
-Alexandria,بيتزا ستيشن,fast_food,
-Alexandria,سي فوليا,restaurant,
-Alexandria,Jamboojo seafood - چامبوچو,restaurant,
-Alexandria,أسماك آل بندق,restaurant,
-Alexandria,Hossam tex,,clothes
-Alexandria,Kindrz,,clothes
-Alexandria,فيكا,cafe,
-Alexandria,وهبه,fast_food,
-Alexandria,Bizarre,,clothes
-Alexandria,Orphanides Pharmacy,pharmacy,
-Alexandria,Papyon,,clothes
-Alexandria,Paolo Rossini,,clothes
-Alexandria,سيف,pharmacy,
-Alexandria,Gomla Market,,supermarket
-Alexandria,Klexy,,clothes
-Alexandria,Senior,,clothes
-Alexandria,Rozaki,,clothes
-Alexandria,Versatshi,,clothes
-Alexandria,Solo,,clothes
-Alexandria,Alex,,clothes
-Alexandria,Bon & Chic,,clothes
-Alexandria,بوجى,,clothes
-Alexandria,ڤينوس,,clothes
-Alexandria,Lyonnais 2000,,clothes
-Alexandria,الصفوة,cafe,
-Alexandria,عبايات حذقته,,clothes
-Alexandria,الشيخ,,clothes
-Alexandria,Anoosh,,clothes
-Alexandria,Class,,clothes
-Alexandria,طايع اخوان,,clothes
-Alexandria,فريدة,,clothes
-Alexandria,د/ غلاب,pharmacy,
-Alexandria,مكتبة المغربى الاسلامية,,clothes
-Alexandria,Versay,,clothes
-Alexandria,ليل,cafe,
-Alexandria,Elite,restaurant,
-Alexandria,Carina,,clothes
-Alexandria,فيروز,restaurant,
-Alexandria,Sara,,clothes
-Alexandria,الفيشاوى,cafe,
-Alexandria,Rose,,clothes
-Alexandria,Diab,cafe,
-Alexandria,فوكاتشاريا,restaurant,
-Alexandria,أندريه,cafe,
-Alexandria,Cavalli,cafe,
-Alexandria,Fruit Valley,fast_food,
-Alexandria,Rich,,clothes
-Alexandria,شيكوريل,cafe,
-Alexandria,تاڤرنا,restaurant,
-Alexandria,بوفيه مصر,cafe,
-Alexandria,Trend,fast_food,
-Alexandria,Mowafy,,clothes
-Alexandria,Silversun,,clothes
-Alexandria,برلنت,,clothes
-Alexandria,Pick’N Go,cafe,
-Alexandria,طارق خالد,,clothes
-Alexandria,Ship Master,,clothes
-Alexandria,مينرڤا,,clothes
-Alexandria,بروفيل,,clothes
-Alexandria,بهجة,restaurant,
-Alexandria,Pink,,clothes
-Alexandria,كشرى ع السخن,restaurant,
-Alexandria,ابو طير,restaurant,
-Alexandria,Solang,,clothes
-Alexandria,Sudan,,clothes
-Alexandria,عمر افندى,,clothes
-Alexandria,El-Bob,,clothes
-Alexandria,هاني,,supermarket
-Alexandria,الأدهم,cafe,
-Alexandria,سلطنة صفر,cafe,
-Alexandria,بينو,cafe,
-Alexandria,ستاربكس,cafe,
-Alexandria,عصير ملوك,fast_food,
-Alexandria,المدهش,fast_food,
-Alexandria,Holmes,fast_food,
-Alexandria,أدمو,,clothes
-Alexandria,شاورميزر,fast_food,
-Alexandria,ابن الباشا,fast_food,
-Alexandria,طعم حكاية,fast_food,
-Alexandria,Soula,cafe,
-Alexandria,Queen,,clothes
-Alexandria,سلسلة,cafe,
-Alexandria,Oak Bay,restaurant,
-Alexandria,فول محمد احمد,fast_food,
-Alexandria,Conge,,clothes
-Alexandria,مليون,,clothes
-Alexandria,Magi,,clothes
-Alexandria,ڤينيسيا,,clothes
-Alexandria,مطعم بقالي,fast_food,
-Alexandria,Etisalat,,mobile_phone
-Alexandria,عمر الخيام,cafe,
-Alexandria,الاوتوبيس,fast_food,
-Alexandria,Hepsi,,clothes
-Alexandria,عربية فول الجوازات,fast_food,
-Alexandria,الشفعى,,clothes
-Alexandria,د. خالد,pharmacy,
-Alexandria,ابو الحسن,,supermarket
-Alexandria,دكتور أحمد شلبى,pharmacy,
-Alexandria,Spender,,clothes
-Alexandria,Omar,,clothes
-Alexandria,عروس البحر,restaurant,
-Alexandria,Eagle,,clothes
-Alexandria,Carpin,,clothes
-Alexandria,il Punto,restaurant,
-Alexandria,Jil,,clothes
-Alexandria,ابو علاء,cafe,
-Alexandria,Lava,cafe,
-Alexandria,El Badry,,mobile_phone
-Alexandria,Lorando,,clothes
-Alexandria,Open,,clothes
-Alexandria,Zizo,fast_food,
-Alexandria,صيدلية بروناى,pharmacy,
-Alexandria,سان سابا,pharmacy,
-Alexandria,الحمبالي,cafe,
-Alexandria,La Poire,cafe,
-Alexandria,Napoli,cafe,
-Alexandria,راقودة,restaurant,
-Alexandria,مقهى روبوستا,cafe,
-Alexandria,ألبان سويسرا,restaurant,
-Alexandria,القهوة اليونانية,cafe,
-Alexandria,Gomla,,supermarket
-Alexandria,Circle K,cafe,
-Alexandria,السوده,cafe,
-Alexandria,Croissant D’Alexia,cafe,
-Alexandria,Karamel Sham,restaurant,
-Alexandria,Harrods,,clothes
-Alexandria,داليا,,clothes
-Alexandria,Rou,,clothes
-Alexandria,زهو,restaurant,
-Alexandria,كافية المدينة المنورة,cafe,
-Alexandria,الملكى,cafe,
-Alexandria,Chi Chi,cafe,
-Alexandria,Afrodit,,clothes
-Alexandria,Juice Corner,fast_food,
-Alexandria,Premark.s,,clothes
-Alexandria,عوف,,clothes
-Alexandria,Shick,,clothes
-Alexandria,Papadola,restaurant,
-Alexandria,El Kabten,,clothes
-Alexandria,الكابتن,,mobile_phone
-Alexandria,Aldeeb Scarf,,clothes
-Alexandria,Spice Girls,,clothes
-Alexandria,Waddy,,clothes
-Alexandria,X.Ford,,clothes
-Alexandria,Alfagr,,clothes
-Alexandria,Mavi,,clothes
-Alexandria,Brand,,clothes
-Alexandria,مصطفى سالم,,mobile_phone
-Alexandria,أكسفورد,pharmacy,
-Alexandria,شهد درويش ٢,,clothes
-Alexandria,عالم الرياضه,,clothes
-Alexandria,Amal Wool,,clothes
-Alexandria,Alfy`s,cafe,
-Alexandria,El Sabrouty,,clothes
-Alexandria,رمضان,pharmacy,
-Alexandria,بهيج,fast_food,
-Alexandria,النصر,restaurant,
-Alexandria,مصطفى جاد,fast_food,
-Alexandria,العزبى,pharmacy,
-Alexandria,Baggi,,clothes
-Alexandria,ابو عوف,,clothes
-Alexandria,البان وادى النيل,cafe,
-Alexandria,رغيف كبده,restaurant,
-Alexandria,Mody More,,clothes
-Alexandria,أولاد ظاظا,cafe,
-Alexandria,Tigter,,clothes
-Alexandria,Sharm Fashion,,clothes
-Alexandria,كشرى عزوز,fast_food,
-Alexandria,كبدة الحرش,fast_food,
-Alexandria,المدينة,pharmacy,
-Alexandria,الراية الدمشقية,fast_food,
-Alexandria,كير,pharmacy,
-Alexandria,Kaffeine,cafe,
-Alexandria,Momo,fast_food,
-Alexandria,Patty & Puffy,fast_food,
-Alexandria,فؤاد أحمد,pharmacy,
-Alexandria,Cafe Express,cafe,
-Alexandria,تبارك فارم,restaurant,
-Alexandria,أولاد ضيف,cafe,
-Alexandria,Shawerma Elreem,fast_food,
-Alexandria,بورصة المحطة,cafe,
-Alexandria,Tota,,mobile_phone
-Alexandria,رياحين,cafe,
-Alexandria,Town Team,,clothes
-Alexandria,Danger Gucci,,clothes
-Alexandria,Hegab,,clothes
-Alexandria,Diamond,restaurant,
-Alexandria,Günaydın,cafe,
-Alexandria,Buffalo Burger,fast_food,
-Alexandria,Fathalla Market,,supermarket
-Alexandria,البركة,fast_food,
-Alexandria,Pizza Roma,fast_food,
-Alexandria,Family Market,,supermarket
-Alexandria,Runway,restaurant,
-Alexandria,5 Roosters,fast_food,
-Alexandria,Murano,restaurant,
-Alexandria,رويش,restaurant,
-Alexandria,Embratora,,clothes
-Alexandria,Baudrot,restaurant,
-Alexandria,Sofianopoulo,cafe,
-Alexandria,روما,cafe,
-Alexandria,كشري أنا المعلم,fast_food,
-Alexandria,أيوب,pharmacy,
-Alexandria,Orange,,mobile_phone
-Alexandria,صيدلية محطة مصر,pharmacy,
-Alexandria,قدم الخير,cafe,
-Alexandria,الحسن,cafe,
-Alexandria,الجزار,fast_food,
-Alexandria,City Cafe,cafe,
-Alexandria,مشرف,pharmacy,
-Alexandria,بطاطى,cafe,
-Alexandria,Capito,,clothes
-Alexandria,دانكن دونتس,fast_food,
-Alexandria,كرسبي كريم,fast_food,
-Alexandria,Pick & Cut,restaurant,
-Alexandria,علي الرايق سوري,restaurant,
-Alexandria,Shawarma,restaurant,
-Alexandria,Falafel,restaurant,
-Alexandria,٦ اكتوبر,cafe,
-Alexandria,شارع الكشري,restaurant,
-Alexandria,السلطان,cafe,
-Alexandria,La Chica,,clothes
-Alexandria,قرية ماليزيا,restaurant,
-Alexandria,Zarda,cafe,
-Alexandria,Pick'N Go,cafe,
-Alexandria,مسمط الفاروق ( حمو فاروق ),restaurant,
-Alexandria,The Alexandria Deli,cafe,
-Alexandria,اشرف الماني مشويات,fast_food,
-Alexandria,Pryzm,,clothes
-Alexandria,مطعم الكني فروق,restaurant,
-Alexandria,البان البوهي,,supermarket
-Alexandria,قهوة الخولى,cafe,
-Alexandria,بورتو المحروسه,cafe,
-Alexandria,سى يو,restaurant,
-Alexandria,صيدليه دكتور شريف رفيق,pharmacy,
-Alexandria,Maria,restaurant,
-Alexandria,Kansas Fried Chicken,fast_food,
-Alexandria,النادى البحرى اليونانى,restaurant,
-Alexandria,كرم الشام,fast_food,
-Alexandria,Sarai Market,,supermarket
-Alexandria,كازينو الشاطبى,cafe,
-Alexandria,Faculty of fine arts Cafe,cafe,
-Alexandria,AL kometra,cafe,
-Alexandria,أبو الطيب,pharmacy,
-Alexandria,Mugs Estate,cafe,
-Alexandria,سكرية,cafe,
-Alexandria,فلوكة,cafe,
-Alexandria,Ob-La-Di,cafe,
-Alexandria,Cilantro,restaurant,
-Alexandria,ابو عميرة,,clothes
-Alexandria,صيدليات دوائي,pharmacy,
-Alexandria,Luna Park,restaurant,
-Alexandria,أليكس ماركت - فرع تانيس,,supermarket
-Alexandria,كازيون ماركت,,supermarket
-Alexandria,صيدلية الدلتا,pharmacy,
-Alexandria,صيدلية فارحي,pharmacy,
-Alexandria,صيدلية د. أشرف نوار,pharmacy,
-Alexandria,DEMO store,,clothes
-Alexandria,ماكدونالدز,restaurant,
-Alexandria,ليجند,,clothes
-Alexandria,الحنين,fast_food,
-Alexandria,Panorama,cafe,
-Alexandria,نادي الجالية,restaurant,
-Assiut,Unknown,fast_food,
-Assiut,Pronto,restaurant,
-Assiut,Unknown,pharmacy,
-Assiut,Unknown,restaurant,
-Assiut,كافتريا الجامعة,cafe,
-Assiut,قهوة البحار مندي,cafe,
-Assiut,محل كشري,restaurant,
-Assiut,فطاطري الزعيم وحواوشي,restaurant,
-Assiut,ساندوتش الأزهر,restaurant,
-Assiut,سيلينترو,cafe,
-Assiut,كشري ابو عمار,restaurant,
-Assiut,صيدلية عبد المعتمد,pharmacy,
-Assiut,الشبراوي,restaurant,
-Assiut,سوناتا كافيه,cafe,
-Assiut,خير زمان ماركت,,supermarket
-Assiut,Ziad cafe & Monster Playstation,cafe,
-Assiut,وافلز الحاره,cafe,
-Assiut,كشري المدينة ٢,fast_food,
-Assiut,Unknown,cafe,
-Assiut,Unknown,,supermarket
-Assiut,pizza,fast_food,
-Assiut,Double Chickana,fast_food,
-Assiut,professional clothing,,clothes
-Assiut,Kayan,restaurant,
-Assiut,Apache Chicken,fast_food,
-Assiut,Unknown,,clothes
-Assiut,LC WAIKIKI,,clothes
-Assiut,Heart Attack,fast_food,
-Assiut,Jory Fashion,,clothes
-Assiut,Cottonil,,clothes
-Assiut,Kamouna,fast_food,
-Assiut,Grand Plaza,,clothes
-Port Said,قهوه فوليه,cafe,
-Port Said,Unknown,restaurant,
-Port Said,Vodafone,,mobile_phone
-Port Said,Gianola,cafe,
-Port Said,Unknown,cafe,
-Port Said,Beetle Vintage,cafe,
-Port Said,فيش فيش,restaurant,
-Port Said,اسماك محسن -فرع الزهور,restaurant,
-Port Said,مطعم شروق,fast_food,
-Port Said,Elite,cafe,
-Port Said,صيدليه ابو الغيط,pharmacy,
-Port Said,معصرة عجوة,fast_food,
-Port Said,يتزا بينو,restaurant,
-Port Said,Diva Store,,clothes
-Port Said,Porto Pizza,restaurant,
-Port Said,دوناتس كافيه,cafe,
-Port Said,سلورة,fast_food,
-Port Said,ابو مؤمن,restaurant,
-Port Said,كافيه سينترال بيرك,restaurant,
-Port Said,صيدليه الطحان,pharmacy,
-Port Said,صيدلية أنصار السنة المحمدية,pharmacy,
-Port Said,اكتف ابو علاء,,clothes
-Port Said,محمد واحمد,pharmacy,
-Port Said,القمر السورى,fast_food,
-Port Said,Beg pizza,restaurant,
-Port Said,elite,cafe,
+﻿Id Business,Business Name,Category,City
+1,فتح الله جملة ماركت,supermarket,Tanta
+2,carrefour,supermarket,Tanta
+3,موديلز,clothes,Tanta
+4,عم طلاح,restaurant,Tanta
+5,hamodi store,clothes,Tanta
+6,صيدلية الدكتورة آية راضى,pharmacy,Tanta
+7,aly,cafe,Tanta
+8,فتح الله - إعمار مول,supermarket,Tanta
+9,صيدلية الدكتور احمد حسن,pharmacy,Tanta
+10,ابو دشيش,restaurant,Tanta
+11,lapip lounge,cafe,Tanta
+12,نور الدين,supermarket,Tanta
+13,maxim,cafe,Mansoura
+14,البارون,restaurant,Mansoura
+15,kfc,restaurant,Mansoura
+16,mcdonald's,restaurant,Mansoura
+17,تكا,restaurant,Mansoura
+18,pizza hut,restaurant,Mansoura
+19,metro market,supermarket,Mansoura
+20,فرنش فرايز,restaurant,Mansoura
+21,buffalo burger,restaurant,Mansoura
+22,دومينوز بيتزا,restaurant,Mansoura
+23,mobinil,mobile_phone,Mansoura
+24,mo'men,restaurant,Mansoura
+25,dafodil,clothes,Mansoura
+26,الخان,restaurant,Mansoura
+27,مؤمن,restaurant,Mansoura
+28,vodafone,mobile_phone,Mansoura
+29,gardino cafe,cafe,Mansoura
+30,كابتشينو,restaurant,Mansoura
+31,terranova,clothes,Mansoura
+32,spectra restaurant & cafe,cafe,Mansoura
+33,pinci,cafe,Mansoura
+34,cat mobie,mobile_phone,Mansoura
+35,mobile shop,mobile_phone,Mansoura
+36,cavalo,clothes,Mansoura
+37,i2 stores,mobile_phone,Mansoura
+38,صيدلية وادى النيل,pharmacy,Mansoura
+39,علاء الدين,restaurant,Mansoura
+40,caj,clothes,Mansoura
+41,بيانو بيانو,clothes,Mansoura
+42,صيدلية سراج الدين,pharmacy,Mansoura
+43,رابحة,clothes,Mansoura
+44,صيدليات العزبى,pharmacy,Mansoura
+45,viola,clothes,Mansoura
+46,cacao,clothes,Mansoura
+47,harby,clothes,Mansoura
+48,وكالة المنصورة,supermarket,Mansoura
+49,صيدلية الطرشوبى,pharmacy,Mansoura
+50,كشرى الحجاز,restaurant,Mansoura
+51,مطاعم البغل الكبرى,restaurant,Mansoura
+52,كوفى شوب الحرافيش,cafe,Mansoura
+53,قطونيل فيجا,clothes,Mansoura
+54,اولاد رجب,supermarket,Mansoura
+55,نجوم التوحيد والنور,clothes,Mansoura
+56,سنتر الملكة,clothes,Mansoura
+57,ديتكس,clothes,Mansoura
+58,الشرقاوى,supermarket,Mansoura
+59,ابو شريف,clothes,Mansoura
+60,حسن محمد حسن,clothes,Mansoura
+61,كلاسيك,clothes,Mansoura
+62,صيدلية د. حمدى,pharmacy,Mansoura
+63,الصالح ايوب,supermarket,Mansoura
+64,كشرى زيزو,restaurant,Mansoura
+65,فتح الله جملة ماركت,supermarket,Mansoura
+66,رمضان الكبابجى الوحيد,restaurant,Mansoura
+67,ولعتين,restaurant,Mansoura
+68,صيدلية البسطويسى,pharmacy,Mansoura
+69,مركز النصر الرياضى,clothes,Mansoura
+70,البيت التركى,clothes,Mansoura
+71,aswaq al-mona,supermarket,Mansoura
+72,etisalat,mobile_phone,Mansoura
+73,wekalet el-mansoura,supermarket,Mansoura
+74,al sabahy,restaurant,Mansoura
+75,cook door,restaurant,Mansoura
+76,kfc,fast_food,Mansoura
+77,istacuza,restaurant,Mansoura
+78,wekalet el mansoura,supermarket,Mansoura
+79,panadora,restaurant,Mansoura
+80,cappuccino,restaurant,Mansoura
+81,omar afandy,clothes,Mansoura
+82,new born,clothes,Mansoura
+83,ravin,clothes,Mansoura
+84,wagdy galal,clothes,Mansoura
+85,pyramisa,cafe,Mansoura
+86,awadalla market,supermarket,Mansoura
+87,كافيه اندريا,cafe,Mansoura
+88,مقهى البتراوي,cafe,Mansoura
+89,al dewan,restaurant,Mansoura
+90,المحمدي,restaurant,Mansoura
+91,elghaly,cafe,Mansoura
+92,opaa,cafe,Mansoura
+93,coffee shop company,cafe,Mansoura
+94,al nakhil,restaurant,Mansoura
+95,كاتشب,restaurant,Mansoura
+96,المالكي,restaurant,Mansoura
+97,أهل الشام,restaurant,Mansoura
+98,lava,restaurant,Mansoura
+99,chicks,restaurant,Mansoura
+100,ivano,cafe,Mansoura
+101,ahl alsham,restaurant,Mansoura
+102,مطاعم البغل الكبري,restaurant,Mansoura
+103,maqlet al-estad,supermarket,Mansoura
+104,carrefour mart,supermarket,Mansoura
+105,cofee shop company,cafe,Mansoura
+106,pizza hut,restaurant,Mansoura
+107,caporia,restaurant,Mansoura
+108,cheif yousry,restaurant,Mansoura
+109,tarshoby,pharmacy,Mansoura
+110,al mohamdy,restaurant,Mansoura
+111,al ta'lab,restaurant,Mansoura
+112,metro,supermarket,Mansoura
+113,sally,pharmacy,Mansoura
+114,manhaten,cafe,Mansoura
+115,we,mobile_phone,Mansoura
+116,wekalet abo raya,supermarket,Mansoura
+117,fattoma,restaurant,Mansoura
+118,زيزو,restaurant,Mansoura
+119,مول الشوا الجديد,clothes,Mansoura
+120,كافيه عاطف,cafe,Mansoura
+121,khalifa,pharmacy,Mansoura
+122,hello,cafe,Mansoura
+123,محمصات نور الصباح,supermarket,Mansoura
+124,القيطى العطار,supermarket,Mansoura
+125,اشرف حسنى جمله,supermarket,Mansoura
+126,هيثم محمود جمله,supermarket,Mansoura
+127,شركة تبارك جمله,supermarket,Mansoura
+128,ڤيڤيدو كافي,cafe,Mansoura
+129,rava,clothes,Mansoura
+130,فطاطري الدمياطي,restaurant,Mansoura
+131,فيكس كلاب-خدمة الجوال,mobile_phone,Mansoura
+132,سوبر ماركت الصعيدي,supermarket,Mansoura
+133,kansas fried chicken,fast_food,Mansoura
+134,عم سمير فرع المنصورة,restaurant,Mansoura
+135,إيمان عبد الجواد,pharmacy,Zagazig
+136,فرع اورانج,mobile_phone,Zagazig
+137,كابتن هيما,cafe,Zagazig
+138,كشري التحرير,restaurant,Zagazig
+139,فرندا كافيه,cafe,Zagazig
+140,عربية ماكولات وفول,restaurant,Zagazig
+141,ساعة لقلبك,cafe,Zagazig
+142,بيترا اسكندرية,restaurant,Zagazig
+143,مطعم جمعه كريب,restaurant,Zagazig
+144,mcdonald's,restaurant,Zagazig
+145,الأصيل,restaurant,Zagazig
+146,سوبرماركت ابو احمد,supermarket,Zagazig
+147,الإسراء,supermarket,Zagazig
+148,gallery cafe,cafe,Zagazig
+149,dores,clothes,Zagazig
+150,أبوجمعه جمله | abogomaa gomla,supermarket,Zagazig
+151,بيتزا اسكندرية,restaurant,Zagazig
+152,ريماس لاند,restaurant,Zagazig
+153,صيدلية ميرفت زكريا كامل,pharmacy,Mahalla
+154,مطاعم البغل الكبرى,fast_food,Mahalla
+155,كافيتريا الزعيم,cafe,Mahalla
+156,كافيتريا ماسبيرو,cafe,Mahalla
+157,سوبر ماركت اولاد رجب,supermarket,Mahalla
+158,spazio,restaurant,Mahalla
+159,pizza hut delivery,fast_food,Mahalla
+160,روكيت للملابس الرجالي,clothes,Mahalla
+161,مطعم تظبيطه,restaurant,Mahalla
+162,سنتر سامح جمعه,clothes,Mahalla
+163,صيدلية علاء الطحان,pharmacy,Mahalla
+164,ol a senorita,clothes,Damanhur
+165,قهوة حجناية,cafe,Damanhur
+166,جملة الهادى حماده عبد السلام,supermarket,Kafr El Sheikh
+167,واحة مندي ابو صالح,restaurant,Kafr El Sheikh
+168,اي ام اس نمبر وان,clothes,Kafr El Sheikh
+169,circle,cafe,Kafr El Sheikh
+170,أبو رحيم,fast_food,Kafr El Sheikh
+171,قهوة كوبري محلة موسى,cafe,Kafr El Sheikh
+172,دكان جمال,supermarket,Kafr El Sheikh
+173,مبروك النمس,supermarket,Kafr El Sheikh
+174,ماضي,clothes,Kafr El Sheikh
+175,قهوة العثمانية,cafe,Kafr El Sheikh
+176,صيدلية الجمهورية,pharmacy,Kafr El Sheikh
+177,دكان عايدة,supermarket,Kafr El Sheikh
+178,نادى التجاريين,cafe,Shebin El Kom
+179,توينتي فور سيفن بلس,clothes,Shebin El Kom
+180,قهوة باب الخلق,cafe,Shebin El Kom
+181,مطعم مولانا,restaurant,Shebin El Kom
+182,الشيخ احمد,restaurant,Shebin El Kom
+183,carrefour alexandria,supermarket,Alexandria
+184,tekka grill,restaurant,Alexandria
+185,سوق السمك,restaurant,Alexandria
+186,carlos café,cafe,Alexandria
+187,mocca,cafe,Alexandria
+188,mcdonald's,fast_food,Alexandria
+189,صيدليه كريمه المراسي,pharmacy,Alexandria
+190,الديب مول,supermarket,Alexandria
+191,فول وفلافل أبو عوض,fast_food,Alexandria
+192,صيدليه د. أمنيه عنتر,pharmacy,Alexandria
+193,أحمد محمد فول,restaurant,Alexandria
+194,cafe faros,cafe,Alexandria
+195,el kobissi king of mango & strawberry,cafe,Alexandria
+196,la'casa,cafe,Alexandria
+197,pizza hut,restaurant,Alexandria
+198,shahrzad cafe,cafe,Alexandria
+199,ستوديو مصر,restaurant,Alexandria
+200,لبانيرو,restaurant,Alexandria
+201,corcovado (jungle),restaurant,Alexandria
+202,combo court,restaurant,Alexandria
+203,jeeda’s,restaurant,Alexandria
+204,فطير العمدة,restaurant,Alexandria
+205,نور كافيه,cafe,Alexandria
+206,همبكة كافيه,cafe,Alexandria
+207,مطعم سورى,restaurant,Alexandria
+208,عصير مكة,fast_food,Alexandria
+209,carrefour,supermarket,Alexandria
+210,leila,cafe,Alexandria
+211,ole,restaurant,Alexandria
+212,roastery,restaurant,Alexandria
+213,saint geni,pharmacy,Alexandria
+214,teatro eskendria,cafe,Alexandria
+215,اتصالات,mobile_phone,Alexandria
+216,فتح الله جملة ماركت - جناكليس,supermarket,Alexandria
+217,جاد,fast_food,Alexandria
+218,زهران ماركت,supermarket,Alexandria
+219,اونباشي لار,restaurant,Alexandria
+220,ابو رياض السوري,restaurant,Alexandria
+221,بيتزا كوين,fast_food,Alexandria
+222,gleem court,fast_food,Alexandria
+223,مصراوي ماركت,supermarket,Alexandria
+224,قدورة,restaurant,Alexandria
+225,السمان,cafe,Alexandria
+226,قهوة فاروق,cafe,Alexandria
+227,لاتينو latino,restaurant,Alexandria
+228,abou rabeea,fast_food,Alexandria
+229,kfc,fast_food,Alexandria
+230,costa,cafe,Alexandria
+231,007 coffee shop,cafe,Alexandria
+232,بوكسر,clothes,Alexandria
+233,اليكس ماركت جرين,supermarket,Alexandria
+234,اليكس ماركت زين العابدين,supermarket,Alexandria
+235,marciano café & restaurant,restaurant,Alexandria
+236,خليل,pharmacy,Alexandria
+237,كيخة كوفي,cafe,Alexandria
+238,كافتيريا ساعة صفا,cafe,Alexandria
+239,أسواق فتح الله للجملة,supermarket,Alexandria
+240,مقهى الفيشاوي,cafe,Alexandria
+241,اليكس ماركت - شركة الاسكندرية للمجمعات الاستهلاكية,supermarket,Alexandria
+242,اليكس ماركت,supermarket,Alexandria
+243,صيدلية بخيت,pharmacy,Alexandria
+244,صيدلية خليل,pharmacy,Alexandria
+245,صيدلية رشدي,pharmacy,Alexandria
+246,صيدلية نيو جوانيدس,pharmacy,Alexandria
+247,vodafone,mobile_phone,Alexandria
+248,مطعم كسح,restaurant,Alexandria
+249,مقهى جمال معوض,cafe,Alexandria
+250,برشلونة,cafe,Alexandria
+251,set el hawalem,clothes,Alexandria
+252,مترو,supermarket,Alexandria
+253,صيدلية العزبي,pharmacy,Alexandria
+254,كافيه أسوان,cafe,Alexandria
+255,délices,cafe,Alexandria
+256,brazilian coffee stores,cafe,Alexandria
+257,tawn coffe shop,restaurant,Alexandria
+258,sea gull restaurant,restaurant,Alexandria
+259,صيدلية الفتح,pharmacy,Alexandria
+260,صيدلية هند الطيبي,pharmacy,Alexandria
+261,أليكس ماركت,supermarket,Alexandria
+262,صيدلية د. كمال محيي الدين,pharmacy,Alexandria
+263,daija women's wear,clothes,Alexandria
+264,صيدلية د. يسري عبد المجيد,pharmacy,Alexandria
+265,صيدلية عبد الرحمن,pharmacy,Alexandria
+266,دايلي ماركت,supermarket,Alexandria
+267,صيدلية الهلال,pharmacy,Alexandria
+268,صيدليات د. أسامة الطيبي,pharmacy,Alexandria
+269,eat & treat,fast_food,Alexandria
+270,جار,restaurant,Alexandria
+271,صيدلية د. عبد الحكيم,pharmacy,Alexandria
+272,elfallah liver,fast_food,Alexandria
+273,swiss milks,restaurant,Alexandria
+274,كلارك,clothes,Alexandria
+275,صيدلية سعد زغلول,pharmacy,Alexandria
+276,صيدلية أبو زيادة,pharmacy,Alexandria
+277,مشويات أبو كمال,fast_food,Alexandria
+278,ابو ناصر,restaurant,Alexandria
+279,بيت الجماة,supermarket,Alexandria
+280,trianon,cafe,Alexandria
+281,kadoura,restaurant,Alexandria
+282,سوق ليبيا,supermarket,Alexandria
+283,جاد,restaurant,Alexandria
+284,كاركي,fast_food,Alexandria
+285,hussein & ali hussein,restaurant,Alexandria
+286,أولاد خميس,supermarket,Alexandria
+287,د/ خالد عبد الحيم,pharmacy,Alexandria
+288,ألبان الأمانة,supermarket,Alexandria
+289,العم زغلول,restaurant,Alexandria
+290,قهوة خفاجي,cafe,Alexandria
+291,calithea,restaurant,Alexandria
+292,waves,restaurant,Alexandria
+293,اسماك شعبان,restaurant,Alexandria
+294,cilantro,cafe,Alexandria
+295,potasta,cafe,Alexandria
+296,سيدرا,restaurant,Alexandria
+297,favore,clothes,Alexandria
+298,الحسين,cafe,Alexandria
+299,الحُسين,cafe,Alexandria
+300,جزارة محمد حامد,restaurant,Alexandria
+301,المدهش ابو الشمس,restaurant,Alexandria
+302,gleem bay,restaurant,Alexandria
+303,old street,restaurant,Alexandria
+304,عظمة,restaurant,Alexandria
+305,صيدلية اميرة خاطر,pharmacy,Alexandria
+306,ابو على,clothes,Alexandria
+307,misslele,clothes,Alexandria
+308,فلوش,clothes,Alexandria
+309,المعتز,clothes,Alexandria
+310,mix brands,clothes,Alexandria
+311,amigo,clothes,Alexandria
+312,bonbon,clothes,Alexandria
+313,gamal,clothes,Alexandria
+314,the truck,fast_food,Alexandria
+315,alessandra coffee,cafe,Alexandria
+316,د. هدى حامد,pharmacy,Alexandria
+317,ecuador coffee,cafe,Alexandria
+318,البطالسة,pharmacy,Alexandria
+319,صيدلية السلطان حسين,pharmacy,Alexandria
+320,papa john's,fast_food,Alexandria
+321,رحمة كيمو,fast_food,Alexandria
+322,l’apéro,restaurant,Alexandria
+323,اسطنبول,pharmacy,Alexandria
+324,المعلم,fast_food,Alexandria
+325,défilé,clothes,Alexandria
+326,athineos,cafe,Alexandria
+327,dream 2000,mobile_phone,Alexandria
+328,totex,clothes,Alexandria
+329,jeans life,clothes,Alexandria
+330,my queen,clothes,Alexandria
+331,bazooka,fast_food,Alexandria
+332,believe,clothes,Alexandria
+333,mermaid,restaurant,Alexandria
+334,mega,clothes,Alexandria
+335,marilyn monroe,clothes,Alexandria
+336,chez gaby au ritrovo,restaurant,Alexandria
+337,torino,clothes,Alexandria
+338,محروس,clothes,Alexandria
+339,café de la paix,cafe,Alexandria
+340,كافيتريا المدينة,cafe,Alexandria
+341,كبدة عم أمين,fast_food,Alexandria
+342,قصر الفيشاوى,cafe,Alexandria
+343,the chocolate factory,cafe,Alexandria
+344,محفوظ,pharmacy,Alexandria
+345,cowboy,clothes,Alexandria
+346,aswan,cafe,Alexandria
+347,sterla,clothes,Alexandria
+348,bonjour,clothes,Alexandria
+349,name it,clothes,Alexandria
+350,melody,clothes,Alexandria
+351,حباتر,cafe,Alexandria
+352,جملة ماركت,supermarket,Alexandria
+353,triplo c,cafe,Alexandria
+354,malibu,cafe,Alexandria
+355,tie house,clothes,Alexandria
+356,guitar,clothes,Alexandria
+357,madora,clothes,Alexandria
+358,لا شيكا,clothes,Alexandria
+359,بيتزا ستيشن,fast_food,Alexandria
+360,سي فوليا,restaurant,Alexandria
+361,jamboojo seafood - چامبوچو,restaurant,Alexandria
+362,أسماك آل بندق,restaurant,Alexandria
+363,hossam tex,clothes,Alexandria
+364,kindrz,clothes,Alexandria
+365,فيكا,cafe,Alexandria
+366,وهبه,fast_food,Alexandria
+367,bizarre,clothes,Alexandria
+368,orphanides pharmacy,pharmacy,Alexandria
+369,papyon,clothes,Alexandria
+370,paolo rossini,clothes,Alexandria
+371,سيف,pharmacy,Alexandria
+372,gomla market,supermarket,Alexandria
+373,klexy,clothes,Alexandria
+374,senior,clothes,Alexandria
+375,rozaki,clothes,Alexandria
+376,versatshi,clothes,Alexandria
+377,solo,clothes,Alexandria
+378,alex,clothes,Alexandria
+379,bon & chic,clothes,Alexandria
+380,بوجى,clothes,Alexandria
+381,ڤينوس,clothes,Alexandria
+382,lyonnais 2000,clothes,Alexandria
+383,الصفوة,cafe,Alexandria
+384,عبايات حذقته,clothes,Alexandria
+385,الشيخ,clothes,Alexandria
+386,anoosh,clothes,Alexandria
+387,class,clothes,Alexandria
+388,طايع اخوان,clothes,Alexandria
+389,فريدة,clothes,Alexandria
+390,د/ غلاب,pharmacy,Alexandria
+391,مكتبة المغربى الاسلامية,clothes,Alexandria
+392,versay,clothes,Alexandria
+393,ليل,cafe,Alexandria
+394,elite,restaurant,Alexandria
+395,carina,clothes,Alexandria
+396,فيروز,restaurant,Alexandria
+397,sara,clothes,Alexandria
+398,الفيشاوى,cafe,Alexandria
+399,rose,clothes,Alexandria
+400,diab,cafe,Alexandria
+401,فوكاتشاريا,restaurant,Alexandria
+402,أندريه,cafe,Alexandria
+403,cavalli,cafe,Alexandria
+404,fruit valley,fast_food,Alexandria
+405,rich,clothes,Alexandria
+406,شيكوريل,cafe,Alexandria
+407,تاڤرنا,restaurant,Alexandria
+408,بوفيه مصر,cafe,Alexandria
+409,trend,fast_food,Alexandria
+410,mowafy,clothes,Alexandria
+411,silversun,clothes,Alexandria
+412,برلنت,clothes,Alexandria
+413,pick’n go,cafe,Alexandria
+414,طارق خالد,clothes,Alexandria
+415,ship master,clothes,Alexandria
+416,مينرڤا,clothes,Alexandria
+417,بروفيل,clothes,Alexandria
+418,بهجة,restaurant,Alexandria
+419,pink,clothes,Alexandria
+420,كشرى ع السخن,restaurant,Alexandria
+421,ابو طير,restaurant,Alexandria
+422,solang,clothes,Alexandria
+423,sudan,clothes,Alexandria
+424,عمر افندى,clothes,Alexandria
+425,el-bob,clothes,Alexandria
+426,هاني,supermarket,Alexandria
+427,الأدهم,cafe,Alexandria
+428,سلطنة صفر,cafe,Alexandria
+429,بينو,cafe,Alexandria
+430,ستاربكس,cafe,Alexandria
+431,عصير ملوك,fast_food,Alexandria
+432,المدهش,fast_food,Alexandria
+433,holmes,fast_food,Alexandria
+434,أدمو,clothes,Alexandria
+435,شاورميزر,fast_food,Alexandria
+436,ابن الباشا,fast_food,Alexandria
+437,طعم حكاية,fast_food,Alexandria
+438,soula,cafe,Alexandria
+439,queen,clothes,Alexandria
+440,سلسلة,cafe,Alexandria
+441,oak bay,restaurant,Alexandria
+442,فول محمد احمد,fast_food,Alexandria
+443,conge,clothes,Alexandria
+444,مليون,clothes,Alexandria
+445,magi,clothes,Alexandria
+446,ڤينيسيا,clothes,Alexandria
+447,مطعم بقالي,fast_food,Alexandria
+448,etisalat,mobile_phone,Alexandria
+449,عمر الخيام,cafe,Alexandria
+450,الاوتوبيس,fast_food,Alexandria
+451,hepsi,clothes,Alexandria
+452,عربية فول الجوازات,fast_food,Alexandria
+453,الشفعى,clothes,Alexandria
+454,د. خالد,pharmacy,Alexandria
+455,ابو الحسن,supermarket,Alexandria
+456,دكتور أحمد شلبى,pharmacy,Alexandria
+457,spender,clothes,Alexandria
+458,omar,clothes,Alexandria
+459,عروس البحر,restaurant,Alexandria
+460,eagle,clothes,Alexandria
+461,carpin,clothes,Alexandria
+462,il punto,restaurant,Alexandria
+463,jil,clothes,Alexandria
+464,ابو علاء,cafe,Alexandria
+465,lava,cafe,Alexandria
+466,el badry,mobile_phone,Alexandria
+467,lorando,clothes,Alexandria
+468,open,clothes,Alexandria
+469,zizo,fast_food,Alexandria
+470,صيدلية بروناى,pharmacy,Alexandria
+471,سان سابا,pharmacy,Alexandria
+472,الحمبالي,cafe,Alexandria
+473,la poire,cafe,Alexandria
+474,napoli,cafe,Alexandria
+475,راقودة,restaurant,Alexandria
+476,مقهى روبوستا,cafe,Alexandria
+477,ألبان سويسرا,restaurant,Alexandria
+478,القهوة اليونانية,cafe,Alexandria
+479,gomla,supermarket,Alexandria
+480,circle k,cafe,Alexandria
+481,السوده,cafe,Alexandria
+482,croissant d’alexia,cafe,Alexandria
+483,karamel sham,restaurant,Alexandria
+484,harrods,clothes,Alexandria
+485,داليا,clothes,Alexandria
+486,rou,clothes,Alexandria
+487,زهو,restaurant,Alexandria
+488,كافية المدينة المنورة,cafe,Alexandria
+489,الملكى,cafe,Alexandria
+490,chi chi,cafe,Alexandria
+491,afrodit,clothes,Alexandria
+492,juice corner,fast_food,Alexandria
+493,premark.s,clothes,Alexandria
+494,عوف,clothes,Alexandria
+495,shick,clothes,Alexandria
+496,papadola,restaurant,Alexandria
+497,el kabten,clothes,Alexandria
+498,الكابتن,mobile_phone,Alexandria
+499,aldeeb scarf,clothes,Alexandria
+500,spice girls,clothes,Alexandria
+501,waddy,clothes,Alexandria
+502,x.ford,clothes,Alexandria
+503,alfagr,clothes,Alexandria
+504,mavi,clothes,Alexandria
+505,brand,clothes,Alexandria
+506,مصطفى سالم,mobile_phone,Alexandria
+507,أكسفورد,pharmacy,Alexandria
+508,شهد درويش ٢,clothes,Alexandria
+509,عالم الرياضه,clothes,Alexandria
+510,amal wool,clothes,Alexandria
+511,alfy`s,cafe,Alexandria
+512,el sabrouty,clothes,Alexandria
+513,رمضان,pharmacy,Alexandria
+514,بهيج,fast_food,Alexandria
+515,النصر,restaurant,Alexandria
+516,مصطفى جاد,fast_food,Alexandria
+517,العزبى,pharmacy,Alexandria
+518,baggi,clothes,Alexandria
+519,ابو عوف,clothes,Alexandria
+520,البان وادى النيل,cafe,Alexandria
+521,رغيف كبده,restaurant,Alexandria
+522,mody more,clothes,Alexandria
+523,أولاد ظاظا,cafe,Alexandria
+524,tigter,clothes,Alexandria
+525,sharm fashion,clothes,Alexandria
+526,كشرى عزوز,fast_food,Alexandria
+527,كبدة الحرش,fast_food,Alexandria
+528,المدينة,pharmacy,Alexandria
+529,الراية الدمشقية,fast_food,Alexandria
+530,كير,pharmacy,Alexandria
+531,kaffeine,cafe,Alexandria
+532,momo,fast_food,Alexandria
+533,patty & puffy,fast_food,Alexandria
+534,فؤاد أحمد,pharmacy,Alexandria
+535,cafe express,cafe,Alexandria
+536,تبارك فارم,restaurant,Alexandria
+537,أولاد ضيف,cafe,Alexandria
+538,shawerma elreem,fast_food,Alexandria
+539,بورصة المحطة,cafe,Alexandria
+540,tota,mobile_phone,Alexandria
+541,رياحين,cafe,Alexandria
+542,town team,clothes,Alexandria
+543,danger gucci,clothes,Alexandria
+544,hegab,clothes,Alexandria
+545,diamond,restaurant,Alexandria
+546,günaydın,cafe,Alexandria
+547,buffalo burger,fast_food,Alexandria
+548,fathalla market,supermarket,Alexandria
+549,البركة,fast_food,Alexandria
+550,pizza roma,fast_food,Alexandria
+551,family market,supermarket,Alexandria
+552,runway,restaurant,Alexandria
+553,5 roosters,fast_food,Alexandria
+554,murano,restaurant,Alexandria
+555,رويش,restaurant,Alexandria
+556,embratora,clothes,Alexandria
+557,baudrot,restaurant,Alexandria
+558,sofianopoulo,cafe,Alexandria
+559,روما,cafe,Alexandria
+560,كشري أنا المعلم,fast_food,Alexandria
+561,أيوب,pharmacy,Alexandria
+562,orange,mobile_phone,Alexandria
+563,صيدلية محطة مصر,pharmacy,Alexandria
+564,قدم الخير,cafe,Alexandria
+565,الحسن,cafe,Alexandria
+566,الجزار,fast_food,Alexandria
+567,city cafe,cafe,Alexandria
+568,مشرف,pharmacy,Alexandria
+569,بطاطى,cafe,Alexandria
+570,capito,clothes,Alexandria
+571,دانكن دونتس,fast_food,Alexandria
+572,كرسبي كريم,fast_food,Alexandria
+573,pick & cut,restaurant,Alexandria
+574,علي الرايق سوري,restaurant,Alexandria
+575,shawarma,restaurant,Alexandria
+576,falafel,restaurant,Alexandria
+577,٦ اكتوبر,cafe,Alexandria
+578,شارع الكشري,restaurant,Alexandria
+579,السلطان,cafe,Alexandria
+580,la chica,clothes,Alexandria
+581,قرية ماليزيا,restaurant,Alexandria
+582,zarda,cafe,Alexandria
+583,pick'n go,cafe,Alexandria
+584,مسمط الفاروق ( حمو فاروق ),restaurant,Alexandria
+585,the alexandria deli,cafe,Alexandria
+586,اشرف الماني مشويات,fast_food,Alexandria
+587,pryzm,clothes,Alexandria
+588,مطعم الكني فروق,restaurant,Alexandria
+589,البان البوهي,supermarket,Alexandria
+590,قهوة الخولى,cafe,Alexandria
+591,بورتو المحروسه,cafe,Alexandria
+592,سى يو,restaurant,Alexandria
+593,صيدليه دكتور شريف رفيق,pharmacy,Alexandria
+594,maria,restaurant,Alexandria
+595,kansas fried chicken,fast_food,Alexandria
+596,النادى البحرى اليونانى,restaurant,Alexandria
+597,كرم الشام,fast_food,Alexandria
+598,sarai market,supermarket,Alexandria
+599,كازينو الشاطبى,cafe,Alexandria
+600,faculty of fine arts cafe,cafe,Alexandria
+601,al kometra,cafe,Alexandria
+602,أبو الطيب,pharmacy,Alexandria
+603,mugs estate,cafe,Alexandria
+604,سكرية,cafe,Alexandria
+605,فلوكة,cafe,Alexandria
+606,ob-la-di,cafe,Alexandria
+607,cilantro,restaurant,Alexandria
+608,ابو عميرة,clothes,Alexandria
+609,صيدليات دوائي,pharmacy,Alexandria
+610,luna park,restaurant,Alexandria
+611,أليكس ماركت - فرع تانيس,supermarket,Alexandria
+612,كازيون ماركت,supermarket,Alexandria
+613,صيدلية الدلتا,pharmacy,Alexandria
+614,صيدلية فارحي,pharmacy,Alexandria
+615,صيدلية د. أشرف نوار,pharmacy,Alexandria
+616,demo store,clothes,Alexandria
+617,mcdonald's,restaurant,Alexandria
+618,ليجند,clothes,Alexandria
+619,الحنين,fast_food,Alexandria
+620,panorama,cafe,Alexandria
+621,نادي الجالية,restaurant,Alexandria
+622,pronto,restaurant,Assiut
+623,كافتريا الجامعة,cafe,Assiut
+624,قهوة البحار مندي,cafe,Assiut
+625,محل كشري,restaurant,Assiut
+626,فطاطري الزعيم وحواوشي,restaurant,Assiut
+627,ساندوتش الأزهر,restaurant,Assiut
+628,سيلينترو,cafe,Assiut
+629,كشري ابو عمار,restaurant,Assiut
+630,صيدلية عبد المعتمد,pharmacy,Assiut
+631,الشبراوي,restaurant,Assiut
+632,سوناتا كافيه,cafe,Assiut
+633,خير زمان ماركت,supermarket,Assiut
+634,ziad cafe & monster playstation,cafe,Assiut
+635,وافلز الحاره,cafe,Assiut
+636,كشري المدينة ٢,fast_food,Assiut
+637,pizza,fast_food,Assiut
+638,double chickana,fast_food,Assiut
+639,professional clothing,clothes,Assiut
+640,kayan,restaurant,Assiut
+641,apache chicken,fast_food,Assiut
+642,lc waikiki,clothes,Assiut
+643,heart attack,fast_food,Assiut
+644,jory fashion,clothes,Assiut
+645,cottonil,clothes,Assiut
+646,kamouna,fast_food,Assiut
+647,grand plaza,clothes,Assiut
+648,قهوه فوليه,cafe,Port Said
+649,vodafone,mobile_phone,Port Said
+650,gianola,cafe,Port Said
+651,beetle vintage,cafe,Port Said
+652,فيش فيش,restaurant,Port Said
+653,اسماك محسن -فرع الزهور,restaurant,Port Said
+654,مطعم شروق,fast_food,Port Said
+655,elite,cafe,Port Said
+656,صيدليه ابو الغيط,pharmacy,Port Said
+657,معصرة عجوة,fast_food,Port Said
+658,يتزا بينو,restaurant,Port Said
+659,diva store,clothes,Port Said
+660,porto pizza,restaurant,Port Said
+661,دوناتس كافيه,cafe,Port Said
+662,سلورة,fast_food,Port Said
+663,ابو مؤمن,restaurant,Port Said
+664,كافيه سينترال بيرك,restaurant,Port Said
+665,صيدليه الطحان,pharmacy,Port Said
+666,صيدلية أنصار السنة المحمدية,pharmacy,Port Said
+667,اكتف ابو علاء,clothes,Port Said
+668,محمد واحمد,pharmacy,Port Said
+669,القمر السورى,fast_food,Port Said
+670,beg pizza,restaurant,Port Said
+671,elite,cafe,Port Said
