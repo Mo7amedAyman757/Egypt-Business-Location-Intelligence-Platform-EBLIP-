@@ -1,0 +1,872 @@
+governorate,city,Id Business,Business Name,Category,Rating,Reviews Count,Price Level
+Gharbia,Tanta,1,فتح الله جملة ماركت,supermarket,4.6,3373,High Price
+Gharbia,Tanta,2,carrefour,supermarket,3.7,3504,High Price
+Gharbia,Tanta,3,موديلز,clothes,4.4,3745,High Price
+Gharbia,Tanta,4,عم طلاح,restaurant,4.2,2198,High Price
+Gharbia,Tanta,5,hamodi store,clothes,4.0,3897,High Price
+Gharbia,Tanta,6,صيدلية الدكتورة آية راضى,pharmacy,4.8,4514,High Price
+Gharbia,Tanta,7,aly,cafe,4.4,4120,Medium Price
+Gharbia,Tanta,8,فتح الله - إعمار مول,supermarket,4.0,3518,High Price
+Gharbia,Tanta,9,صيدلية الدكتور احمد حسن,pharmacy,4.9,148,High Price
+Gharbia,Tanta,10,ابو دشيش,restaurant,4.0,1103,High Price
+Gharbia,Tanta,11,lapip lounge,cafe,4.1,1464,Medium Price
+Gharbia,Tanta,12,نور الدين,supermarket,3.8,2246,High Price
+Dakahlia,Mansoura,13,maxim,cafe,4.2,4056,Medium Price
+Dakahlia,Mansoura,14,البارون,restaurant,3.5,947,High Price
+Dakahlia,Mansoura,15,kfc,restaurant,3.5,1790,High Price
+Dakahlia,Mansoura,16,mcdonald's,restaurant,4.0,2243,High Price
+Dakahlia,Mansoura,17,تكا,restaurant,4.1,2735,High Price
+Dakahlia,Mansoura,18,pizza hut,restaurant,4.9,2804,High Price
+Dakahlia,Mansoura,19,metro market,supermarket,4.6,1108,High Price
+Dakahlia,Mansoura,20,فرنش فرايز,restaurant,4.3,1096,High Price
+Dakahlia,Mansoura,21,buffalo burger,restaurant,4.9,4559,High Price
+Dakahlia,Mansoura,22,دومينوز بيتزا,restaurant,4.9,2146,High Price
+Dakahlia,Mansoura,23,mobinil,mobile_phone,4.9,2441,High Price
+Dakahlia,Mansoura,24,mo'men,restaurant,4.9,3771,High Price
+Dakahlia,Mansoura,25,dafodil,clothes,4.7,4965,High Price
+Dakahlia,Mansoura,26,الخان,restaurant,3.6,1732,High Price
+Dakahlia,Mansoura,27,مؤمن,restaurant,3.9,2350,High Price
+Dakahlia,Mansoura,28,vodafone,mobile_phone,3.6,4987,High Price
+Dakahlia,Mansoura,29,gardino cafe,cafe,4.2,1414,Medium Price
+Dakahlia,Mansoura,30,كابتشينو,restaurant,4.3,2564,High Price
+Dakahlia,Mansoura,31,terranova,clothes,4.8,3484,High Price
+Dakahlia,Mansoura,32,spectra restaurant & cafe,cafe,4.3,1329,Medium Price
+Dakahlia,Mansoura,33,pinci,cafe,4.3,2817,Medium Price
+Dakahlia,Mansoura,34,cat mobie,mobile_phone,3.5,4202,High Price
+Dakahlia,Mansoura,35,mobile shop,mobile_phone,4.9,4527,High Price
+Dakahlia,Mansoura,36,cavalo,clothes,4.4,2188,High Price
+Dakahlia,Mansoura,37,i2 stores,mobile_phone,4.2,4092,High Price
+Dakahlia,Mansoura,38,صيدلية وادى النيل,pharmacy,4.9,3614,High Price
+Dakahlia,Mansoura,39,علاء الدين,restaurant,4.2,2354,High Price
+Dakahlia,Mansoura,40,caj,clothes,3.7,4792,High Price
+Dakahlia,Mansoura,41,بيانو بيانو,clothes,4.6,3894,High Price
+Dakahlia,Mansoura,42,صيدلية سراج الدين,pharmacy,4.0,4468,High Price
+Dakahlia,Mansoura,43,رابحة,clothes,4.7,3352,High Price
+Dakahlia,Mansoura,44,صيدليات العزبى,pharmacy,4.9,4824,High Price
+Dakahlia,Mansoura,45,viola,clothes,3.6,1904,High Price
+Dakahlia,Mansoura,46,cacao,clothes,4.8,2276,High Price
+Dakahlia,Mansoura,47,harby,clothes,3.6,2930,High Price
+Dakahlia,Mansoura,48,وكالة المنصورة,supermarket,5.0,3706,High Price
+Dakahlia,Mansoura,49,صيدلية الطرشوبى,pharmacy,4.8,3324,High Price
+Dakahlia,Mansoura,50,كشرى الحجاز,restaurant,4.5,869,High Price
+Dakahlia,Mansoura,51,مطاعم البغل الكبرى,restaurant,3.8,4659,High Price
+Dakahlia,Mansoura,52,كوفى شوب الحرافيش,cafe,4.7,2049,Medium Price
+Dakahlia,Mansoura,53,قطونيل فيجا,clothes,4.3,666,High Price
+Dakahlia,Mansoura,54,اولاد رجب,supermarket,4.9,2678,High Price
+Dakahlia,Mansoura,55,نجوم التوحيد والنور,clothes,4.1,2734,High Price
+Dakahlia,Mansoura,56,سنتر الملكة,clothes,4.2,1409,High Price
+Dakahlia,Mansoura,57,ديتكس,clothes,3.8,3124,High Price
+Dakahlia,Mansoura,58,الشرقاوى,supermarket,4.9,1117,High Price
+Dakahlia,Mansoura,59,ابو شريف,clothes,3.9,395,High Price
+Dakahlia,Mansoura,60,حسن محمد حسن,clothes,4.7,2989,High Price
+Dakahlia,Mansoura,61,كلاسيك,clothes,3.7,4370,High Price
+Dakahlia,Mansoura,62,صيدلية د. حمدى,pharmacy,5.0,2055,High Price
+Dakahlia,Mansoura,63,الصالح ايوب,supermarket,3.9,2555,High Price
+Dakahlia,Mansoura,64,كشرى زيزو,restaurant,4.8,1580,High Price
+Dakahlia,Mansoura,65,فتح الله جملة ماركت,supermarket,4.7,2020,High Price
+Dakahlia,Mansoura,66,رمضان الكبابجى الوحيد,restaurant,4.9,3383,High Price
+Dakahlia,Mansoura,67,ولعتين,restaurant,4.0,582,High Price
+Dakahlia,Mansoura,68,صيدلية البسطويسى,pharmacy,4.8,3884,High Price
+Dakahlia,Mansoura,69,مركز النصر الرياضى,clothes,3.6,2977,High Price
+Dakahlia,Mansoura,70,البيت التركى,clothes,4.5,3888,High Price
+Dakahlia,Mansoura,71,aswaq al-mona,supermarket,5.0,236,High Price
+Dakahlia,Mansoura,72,etisalat,mobile_phone,4.9,3779,High Price
+Dakahlia,Mansoura,73,wekalet el-mansoura,supermarket,3.9,2749,High Price
+Dakahlia,Mansoura,74,al sabahy,restaurant,4.5,4370,High Price
+Dakahlia,Mansoura,75,cook door,restaurant,4.0,2609,High Price
+Dakahlia,Mansoura,76,kfc,fast_food,3.6,1918,Low Price
+Dakahlia,Mansoura,77,istacuza,restaurant,4.8,930,High Price
+Dakahlia,Mansoura,78,wekalet el mansoura,supermarket,4.0,4756,High Price
+Dakahlia,Mansoura,79,panadora,restaurant,4.1,1827,High Price
+Dakahlia,Mansoura,80,cappuccino,restaurant,4.2,4789,High Price
+Dakahlia,Mansoura,81,omar afandy,clothes,3.7,534,High Price
+Dakahlia,Mansoura,82,new born,clothes,3.9,265,High Price
+Dakahlia,Mansoura,83,ravin,clothes,4.5,1480,High Price
+Dakahlia,Mansoura,84,wagdy galal,clothes,3.6,764,High Price
+Dakahlia,Mansoura,85,pyramisa,cafe,3.8,2247,Medium Price
+Dakahlia,Mansoura,86,awadalla market,supermarket,4.8,2737,High Price
+Dakahlia,Mansoura,87,كافيه اندريا,cafe,4.6,4520,Medium Price
+Dakahlia,Mansoura,88,مقهى البتراوي,cafe,4.0,3339,Medium Price
+Dakahlia,Mansoura,89,al dewan,restaurant,4.9,1575,High Price
+Dakahlia,Mansoura,90,المحمدي,restaurant,4.3,1425,High Price
+Dakahlia,Mansoura,91,elghaly,cafe,4.2,4754,Medium Price
+Dakahlia,Mansoura,92,opaa,cafe,4.4,1181,Medium Price
+Dakahlia,Mansoura,93,coffee shop company,cafe,4.1,4794,Medium Price
+Dakahlia,Mansoura,94,al nakhil,restaurant,3.7,2253,High Price
+Dakahlia,Mansoura,95,كاتشب,restaurant,4.1,4979,High Price
+Dakahlia,Mansoura,96,المالكي,restaurant,4.2,337,High Price
+Dakahlia,Mansoura,97,أهل الشام,restaurant,3.5,4362,High Price
+Dakahlia,Mansoura,98,lava,restaurant,3.9,1031,High Price
+Dakahlia,Mansoura,99,chicks,restaurant,4.7,2611,High Price
+Dakahlia,Mansoura,100,ivano,cafe,3.9,1127,Medium Price
+Dakahlia,Mansoura,101,ahl alsham,restaurant,4.8,1697,High Price
+Dakahlia,Mansoura,102,مطاعم البغل الكبري,restaurant,3.7,3830,High Price
+Dakahlia,Mansoura,103,maqlet al-estad,supermarket,4.7,1812,High Price
+Dakahlia,Mansoura,104,carrefour mart,supermarket,4.9,2581,High Price
+Dakahlia,Mansoura,105,cofee shop company,cafe,4.0,2259,Medium Price
+Dakahlia,Mansoura,106,pizza hut,restaurant,4.4,1375,High Price
+Dakahlia,Mansoura,107,caporia,restaurant,4.2,3158,High Price
+Dakahlia,Mansoura,108,cheif yousry,restaurant,3.8,3910,High Price
+Dakahlia,Mansoura,109,tarshoby,pharmacy,4.2,3410,High Price
+Dakahlia,Mansoura,110,al mohamdy,restaurant,4.8,1112,High Price
+Dakahlia,Mansoura,111,al ta'lab,restaurant,3.6,3520,High Price
+Dakahlia,Mansoura,112,metro,supermarket,4.2,2257,High Price
+Dakahlia,Mansoura,113,sally,pharmacy,3.7,3026,High Price
+Dakahlia,Mansoura,114,manhaten,cafe,3.7,1763,Medium Price
+Dakahlia,Mansoura,115,we,mobile_phone,4.1,1870,High Price
+Dakahlia,Mansoura,116,wekalet abo raya,supermarket,4.5,180,High Price
+Dakahlia,Mansoura,117,fattoma,restaurant,4.7,3405,High Price
+Dakahlia,Mansoura,118,زيزو,restaurant,3.6,4062,High Price
+Dakahlia,Mansoura,119,مول الشوا الجديد,clothes,3.5,752,High Price
+Dakahlia,Mansoura,120,كافيه عاطف,cafe,3.9,1026,Medium Price
+Dakahlia,Mansoura,121,khalifa,pharmacy,3.8,1734,High Price
+Dakahlia,Mansoura,122,hello,cafe,4.3,1654,Medium Price
+Dakahlia,Mansoura,123,محمصات نور الصباح,supermarket,4.8,3975,High Price
+Dakahlia,Mansoura,124,القيطى العطار,supermarket,4.2,3948,High Price
+Dakahlia,Mansoura,125,اشرف حسنى جمله,supermarket,4.7,1108,High Price
+Dakahlia,Mansoura,126,هيثم محمود جمله,supermarket,4.6,4632,High Price
+Dakahlia,Mansoura,127,شركة تبارك جمله,supermarket,4.5,1249,High Price
+Dakahlia,Mansoura,128,ڤيڤيدو كافي,cafe,5.0,4793,Medium Price
+Dakahlia,Mansoura,129,rava,clothes,4.2,4005,High Price
+Dakahlia,Mansoura,130,فطاطري الدمياطي,restaurant,4.0,1959,High Price
+Dakahlia,Mansoura,131,فيكس كلاب-خدمة الجوال,mobile_phone,4.3,995,High Price
+Dakahlia,Mansoura,132,سوبر ماركت الصعيدي,supermarket,3.8,3745,High Price
+Dakahlia,Mansoura,133,kansas fried chicken,fast_food,3.7,2848,Low Price
+Dakahlia,Mansoura,134,عم سمير فرع المنصورة,restaurant,3.6,1185,High Price
+Sharqia,Zagazig,135,إيمان عبد الجواد,pharmacy,5.0,4533,High Price
+Sharqia,Zagazig,136,فرع اورانج,mobile_phone,3.9,4265,High Price
+Sharqia,Zagazig,137,كابتن هيما,cafe,4.5,1359,Medium Price
+Sharqia,Zagazig,138,كشري التحرير,restaurant,3.8,3796,High Price
+Sharqia,Zagazig,139,فرندا كافيه,cafe,3.6,326,Medium Price
+Sharqia,Zagazig,140,عربية ماكولات وفول,restaurant,4.3,3352,High Price
+Sharqia,Zagazig,141,ساعة لقلبك,cafe,3.6,2288,Medium Price
+Sharqia,Zagazig,142,بيترا اسكندرية,restaurant,4.7,1239,High Price
+Sharqia,Zagazig,143,مطعم جمعه كريب,restaurant,4.6,4379,High Price
+Sharqia,Zagazig,144,mcdonald's,restaurant,3.6,654,High Price
+Sharqia,Zagazig,145,الأصيل,restaurant,5.0,1284,High Price
+Sharqia,Zagazig,146,سوبرماركت ابو احمد,supermarket,4.3,3293,High Price
+Sharqia,Zagazig,147,الإسراء,supermarket,4.3,2900,High Price
+Sharqia,Zagazig,148,gallery cafe,cafe,3.5,2440,Medium Price
+Sharqia,Zagazig,149,dores,clothes,3.9,1068,High Price
+Sharqia,Zagazig,150,أبوجمعه جمله | abogomaa gomla,supermarket,3.8,4510,High Price
+Sharqia,Zagazig,151,بيتزا اسكندرية,restaurant,4.8,860,High Price
+Sharqia,Zagazig,152,ريماس لاند,restaurant,4.1,4231,High Price
+Gharbia,Mahalla,153,صيدلية ميرفت زكريا كامل,pharmacy,4.7,3070,High Price
+Gharbia,Mahalla,154,مطاعم البغل الكبرى,fast_food,3.9,924,Low Price
+Gharbia,Mahalla,155,كافيتريا الزعيم,cafe,4.3,3743,Medium Price
+Gharbia,Mahalla,156,كافيتريا ماسبيرو,cafe,3.8,324,Medium Price
+Gharbia,Mahalla,157,سوبر ماركت اولاد رجب,supermarket,4.1,40,High Price
+Gharbia,Mahalla,158,spazio,restaurant,3.9,2936,High Price
+Gharbia,Mahalla,159,pizza hut delivery,fast_food,3.7,3208,Low Price
+Gharbia,Mahalla,160,روكيت للملابس الرجالي,clothes,4.2,4658,High Price
+Gharbia,Mahalla,161,مطعم تظبيطه,restaurant,3.9,930,High Price
+Gharbia,Mahalla,162,سنتر سامح جمعه,clothes,3.5,3554,High Price
+Gharbia,Mahalla,163,صيدلية علاء الطحان,pharmacy,5.0,2662,High Price
+Beheira,Damanhur,164,ol a senorita,clothes,4.8,916,High Price
+Beheira,Damanhur,165,قهوة حجناية,cafe,3.8,1112,Medium Price
+Kafr El Sheikh,Kafr El Sheikh,166,جملة الهادى حماده عبد السلام,supermarket,3.8,1594,High Price
+Kafr El Sheikh,Kafr El Sheikh,167,واحة مندي ابو صالح,restaurant,3.8,661,High Price
+Kafr El Sheikh,Kafr El Sheikh,168,اي ام اس نمبر وان,clothes,4.4,1991,High Price
+Kafr El Sheikh,Kafr El Sheikh,169,circle,cafe,3.8,3663,Medium Price
+Kafr El Sheikh,Kafr El Sheikh,170,أبو رحيم,fast_food,4.4,3052,Low Price
+Kafr El Sheikh,Kafr El Sheikh,171,قهوة كوبري محلة موسى,cafe,4.9,688,Medium Price
+Kafr El Sheikh,Kafr El Sheikh,172,دكان جمال,supermarket,4.5,270,High Price
+Kafr El Sheikh,Kafr El Sheikh,173,مبروك النمس,supermarket,4.9,4536,High Price
+Kafr El Sheikh,Kafr El Sheikh,174,ماضي,clothes,3.6,3045,High Price
+Kafr El Sheikh,Kafr El Sheikh,175,قهوة العثمانية,cafe,3.8,744,Medium Price
+Kafr El Sheikh,Kafr El Sheikh,176,صيدلية الجمهورية,pharmacy,4.2,1104,High Price
+Kafr El Sheikh,Kafr El Sheikh,177,دكان عايدة,supermarket,3.7,4308,High Price
+Monufia,Shebin El Kom,178,نادى التجاريين,cafe,3.9,3953,Medium Price
+Monufia,Shebin El Kom,179,توينتي فور سيفن بلس,clothes,4.8,2104,High Price
+Monufia,Shebin El Kom,180,قهوة باب الخلق,cafe,4.7,440,Medium Price
+Monufia,Shebin El Kom,181,مطعم مولانا,restaurant,4.5,303,High Price
+Monufia,Shebin El Kom,182,الشيخ احمد,restaurant,3.9,2611,High Price
+Alexandria,Alexandria,183,carrefour alexandria,supermarket,4.6,592,High Price
+Alexandria,Alexandria,184,tekka grill,restaurant,4.3,1171,High Price
+Alexandria,Alexandria,185,سوق السمك,restaurant,4.4,3302,High Price
+Alexandria,Alexandria,186,carlos café,cafe,4.2,2111,Medium Price
+Alexandria,Alexandria,187,mocca,cafe,5.0,2669,Medium Price
+Alexandria,Alexandria,188,mcdonald's,fast_food,4.1,1298,Low Price
+Alexandria,Alexandria,189,صيدليه كريمه المراسي,pharmacy,4.3,3168,High Price
+Alexandria,Alexandria,190,الديب مول,supermarket,3.9,705,High Price
+Alexandria,Alexandria,191,فول وفلافل أبو عوض,fast_food,4.2,4909,Low Price
+Alexandria,Alexandria,192,صيدليه د. أمنيه عنتر,pharmacy,5.0,793,High Price
+Alexandria,Alexandria,193,أحمد محمد فول,restaurant,4.6,2352,High Price
+Alexandria,Alexandria,194,cafe faros,cafe,3.7,1876,Medium Price
+Alexandria,Alexandria,195,el kobissi king of mango & strawberry,cafe,4.4,1537,Medium Price
+Alexandria,Alexandria,196,la'casa,cafe,4.9,353,Medium Price
+Alexandria,Alexandria,197,pizza hut,restaurant,3.7,3216,High Price
+Alexandria,Alexandria,198,shahrzad cafe,cafe,3.6,2876,Medium Price
+Alexandria,Alexandria,199,ستوديو مصر,restaurant,3.6,3202,High Price
+Alexandria,Alexandria,200,لبانيرو,restaurant,3.8,3926,High Price
+Alexandria,Alexandria,201,corcovado (jungle),restaurant,4.9,1784,High Price
+Alexandria,Alexandria,202,combo court,restaurant,4.3,1459,High Price
+Alexandria,Alexandria,203,jeeda’s,restaurant,4.0,2238,High Price
+Alexandria,Alexandria,204,فطير العمدة,restaurant,4.4,4212,High Price
+Alexandria,Alexandria,205,نور كافيه,cafe,3.6,3233,Medium Price
+Alexandria,Alexandria,206,همبكة كافيه,cafe,4.2,915,Medium Price
+Alexandria,Alexandria,207,مطعم سورى,restaurant,4.3,2368,High Price
+Alexandria,Alexandria,208,عصير مكة,fast_food,4.0,4207,Low Price
+Alexandria,Alexandria,209,carrefour,supermarket,4.9,4146,High Price
+Alexandria,Alexandria,210,leila,cafe,4.4,3254,Medium Price
+Alexandria,Alexandria,211,ole,restaurant,4.6,2383,High Price
+Alexandria,Alexandria,212,roastery,restaurant,4.6,2463,High Price
+Alexandria,Alexandria,213,saint geni,pharmacy,3.8,4141,High Price
+Alexandria,Alexandria,214,teatro eskendria,cafe,3.6,2153,Medium Price
+Alexandria,Alexandria,215,اتصالات,mobile_phone,4.2,1489,High Price
+Alexandria,Alexandria,216,فتح الله جملة ماركت - جناكليس,supermarket,4.2,2120,High Price
+Alexandria,Alexandria,217,جاد,fast_food,4.5,2965,Low Price
+Alexandria,Alexandria,218,زهران ماركت,supermarket,4.2,1055,High Price
+Alexandria,Alexandria,219,اونباشي لار,restaurant,3.7,4926,High Price
+Alexandria,Alexandria,220,ابو رياض السوري,restaurant,3.9,3496,High Price
+Alexandria,Alexandria,221,بيتزا كوين,fast_food,4.8,548,Low Price
+Alexandria,Alexandria,222,gleem court,fast_food,4.6,1171,Low Price
+Alexandria,Alexandria,223,مصراوي ماركت,supermarket,3.8,2792,High Price
+Alexandria,Alexandria,224,قدورة,restaurant,5.0,2103,High Price
+Alexandria,Alexandria,225,السمان,cafe,4.3,227,Medium Price
+Alexandria,Alexandria,226,قهوة فاروق,cafe,4.0,4320,Medium Price
+Alexandria,Alexandria,227,لاتينو latino,restaurant,4.1,776,High Price
+Alexandria,Alexandria,228,abou rabeea,fast_food,4.5,2328,Low Price
+Alexandria,Alexandria,229,kfc,fast_food,4.2,3236,Low Price
+Alexandria,Alexandria,230,costa,cafe,4.7,1733,Medium Price
+Alexandria,Alexandria,231,007 coffee shop,cafe,4.7,1553,Medium Price
+Alexandria,Alexandria,232,بوكسر,clothes,4.9,1843,High Price
+Alexandria,Alexandria,233,اليكس ماركت جرين,supermarket,3.6,3033,High Price
+Alexandria,Alexandria,234,اليكس ماركت زين العابدين,supermarket,3.6,3105,High Price
+Alexandria,Alexandria,235,marciano café & restaurant,restaurant,4.0,3935,High Price
+Alexandria,Alexandria,236,خليل,pharmacy,4.7,1590,High Price
+Alexandria,Alexandria,237,كيخة كوفي,cafe,4.0,4760,Medium Price
+Alexandria,Alexandria,238,كافتيريا ساعة صفا,cafe,4.5,2127,Medium Price
+Alexandria,Alexandria,239,أسواق فتح الله للجملة,supermarket,3.9,2592,High Price
+Alexandria,Alexandria,240,مقهى الفيشاوي,cafe,3.7,4810,Medium Price
+Alexandria,Alexandria,241,اليكس ماركت - شركة الاسكندرية للمجمعات الاستهلاكية,supermarket,3.6,1309,High Price
+Alexandria,Alexandria,242,اليكس ماركت,supermarket,4.9,1813,High Price
+Alexandria,Alexandria,243,صيدلية بخيت,pharmacy,4.4,4399,High Price
+Alexandria,Alexandria,244,صيدلية خليل,pharmacy,3.6,2115,High Price
+Alexandria,Alexandria,245,صيدلية رشدي,pharmacy,4.2,3319,High Price
+Alexandria,Alexandria,246,صيدلية نيو جوانيدس,pharmacy,4.7,4758,High Price
+Alexandria,Alexandria,247,vodafone,mobile_phone,4.0,2517,High Price
+Alexandria,Alexandria,248,مطعم كسح,restaurant,4.8,3137,High Price
+Alexandria,Alexandria,249,مقهى جمال معوض,cafe,4.3,4425,Medium Price
+Alexandria,Alexandria,250,برشلونة,cafe,4.6,1238,Medium Price
+Alexandria,Alexandria,251,set el hawalem,clothes,4.0,782,High Price
+Alexandria,Alexandria,252,مترو,supermarket,4.0,2884,High Price
+Alexandria,Alexandria,253,صيدلية العزبي,pharmacy,4.1,3793,High Price
+Alexandria,Alexandria,254,كافيه أسوان,cafe,4.8,3211,Medium Price
+Alexandria,Alexandria,255,délices,cafe,3.9,509,Medium Price
+Alexandria,Alexandria,256,brazilian coffee stores,cafe,4.4,3658,Medium Price
+Alexandria,Alexandria,257,tawn coffe shop,restaurant,4.6,4826,High Price
+Alexandria,Alexandria,258,sea gull restaurant,restaurant,3.7,2626,High Price
+Alexandria,Alexandria,259,صيدلية الفتح,pharmacy,4.8,1452,High Price
+Alexandria,Alexandria,260,صيدلية هند الطيبي,pharmacy,4.4,911,High Price
+Alexandria,Alexandria,261,أليكس ماركت,supermarket,4.0,1200,High Price
+Alexandria,Alexandria,262,صيدلية د. كمال محيي الدين,pharmacy,4.8,3279,High Price
+Alexandria,Alexandria,263,daija women's wear,clothes,3.7,973,High Price
+Alexandria,Alexandria,264,صيدلية د. يسري عبد المجيد,pharmacy,4.5,1127,High Price
+Alexandria,Alexandria,265,صيدلية عبد الرحمن,pharmacy,4.0,95,High Price
+Alexandria,Alexandria,266,دايلي ماركت,supermarket,4.2,506,High Price
+Alexandria,Alexandria,267,صيدلية الهلال,pharmacy,3.7,4312,High Price
+Alexandria,Alexandria,268,صيدليات د. أسامة الطيبي,pharmacy,4.8,3600,High Price
+Alexandria,Alexandria,269,eat & treat,fast_food,3.7,4902,Low Price
+Alexandria,Alexandria,270,جار,restaurant,4.2,4238,High Price
+Alexandria,Alexandria,271,صيدلية د. عبد الحكيم,pharmacy,4.3,3995,High Price
+Alexandria,Alexandria,272,elfallah liver,fast_food,4.3,1390,Low Price
+Alexandria,Alexandria,273,swiss milks,restaurant,4.5,2236,High Price
+Alexandria,Alexandria,274,كلارك,clothes,3.6,449,High Price
+Alexandria,Alexandria,275,صيدلية سعد زغلول,pharmacy,5.0,95,High Price
+Alexandria,Alexandria,276,صيدلية أبو زيادة,pharmacy,4.9,948,High Price
+Alexandria,Alexandria,277,مشويات أبو كمال,fast_food,3.8,4880,Low Price
+Alexandria,Alexandria,278,ابو ناصر,restaurant,5.0,3917,High Price
+Alexandria,Alexandria,279,بيت الجماة,supermarket,3.8,2270,High Price
+Alexandria,Alexandria,280,trianon,cafe,4.5,386,Medium Price
+Alexandria,Alexandria,281,kadoura,restaurant,3.6,3082,High Price
+Alexandria,Alexandria,282,سوق ليبيا,supermarket,4.7,2343,High Price
+Alexandria,Alexandria,283,جاد,restaurant,4.8,3257,High Price
+Alexandria,Alexandria,284,كاركي,fast_food,4.6,1635,Low Price
+Alexandria,Alexandria,285,hussein & ali hussein,restaurant,4.9,3376,High Price
+Alexandria,Alexandria,286,أولاد خميس,supermarket,4.4,2155,High Price
+Alexandria,Alexandria,287,د/ خالد عبد الحيم,pharmacy,4.7,1886,High Price
+Alexandria,Alexandria,288,ألبان الأمانة,supermarket,4.5,1617,High Price
+Alexandria,Alexandria,289,العم زغلول,restaurant,4.1,4567,High Price
+Alexandria,Alexandria,290,قهوة خفاجي,cafe,4.7,1550,Medium Price
+Alexandria,Alexandria,291,calithea,restaurant,4.4,1360,High Price
+Alexandria,Alexandria,292,waves,restaurant,4.1,1449,High Price
+Alexandria,Alexandria,293,اسماك شعبان,restaurant,4.3,2980,High Price
+Alexandria,Alexandria,294,cilantro,cafe,4.3,851,Medium Price
+Alexandria,Alexandria,295,potasta,cafe,4.3,138,Medium Price
+Alexandria,Alexandria,296,سيدرا,restaurant,3.7,82,High Price
+Alexandria,Alexandria,297,favore,clothes,4.0,3566,High Price
+Alexandria,Alexandria,298,الحسين,cafe,4.5,4308,Medium Price
+Alexandria,Alexandria,299,الحُسين,cafe,4.5,3584,Medium Price
+Alexandria,Alexandria,300,جزارة محمد حامد,restaurant,3.7,4821,High Price
+Alexandria,Alexandria,301,المدهش ابو الشمس,restaurant,3.6,1190,High Price
+Alexandria,Alexandria,302,gleem bay,restaurant,3.6,4082,High Price
+Alexandria,Alexandria,303,old street,restaurant,4.7,2833,High Price
+Alexandria,Alexandria,304,عظمة,restaurant,3.6,3832,High Price
+Alexandria,Alexandria,305,صيدلية اميرة خاطر,pharmacy,3.5,589,High Price
+Alexandria,Alexandria,306,ابو على,clothes,5.0,2413,High Price
+Alexandria,Alexandria,307,misslele,clothes,4.4,1599,High Price
+Alexandria,Alexandria,308,فلوش,clothes,4.9,2953,High Price
+Alexandria,Alexandria,309,المعتز,clothes,4.7,1123,High Price
+Alexandria,Alexandria,310,mix brands,clothes,4.4,3542,High Price
+Alexandria,Alexandria,311,amigo,clothes,3.8,842,High Price
+Alexandria,Alexandria,312,bonbon,clothes,4.7,4708,High Price
+Alexandria,Alexandria,313,gamal,clothes,4.2,2821,High Price
+Alexandria,Alexandria,314,the truck,fast_food,4.6,173,Low Price
+Alexandria,Alexandria,315,alessandra coffee,cafe,4.1,1054,Medium Price
+Alexandria,Alexandria,316,د. هدى حامد,pharmacy,4.2,4639,High Price
+Alexandria,Alexandria,317,ecuador coffee,cafe,4.0,3563,Medium Price
+Alexandria,Alexandria,318,البطالسة,pharmacy,4.0,100,High Price
+Alexandria,Alexandria,319,صيدلية السلطان حسين,pharmacy,3.7,3913,High Price
+Alexandria,Alexandria,320,papa john's,fast_food,4.4,1919,Low Price
+Alexandria,Alexandria,321,رحمة كيمو,fast_food,3.7,1818,Low Price
+Alexandria,Alexandria,322,l’apéro,restaurant,3.8,731,High Price
+Alexandria,Alexandria,323,اسطنبول,pharmacy,4.7,1269,High Price
+Alexandria,Alexandria,324,المعلم,fast_food,4.2,2790,Low Price
+Alexandria,Alexandria,325,défilé,clothes,3.9,3802,High Price
+Alexandria,Alexandria,326,athineos,cafe,5.0,2848,Medium Price
+Alexandria,Alexandria,327,dream 2000,mobile_phone,4.9,1063,High Price
+Alexandria,Alexandria,328,totex,clothes,4.3,2282,High Price
+Alexandria,Alexandria,329,jeans life,clothes,4.7,4506,High Price
+Alexandria,Alexandria,330,my queen,clothes,4.9,150,High Price
+Alexandria,Alexandria,331,bazooka,fast_food,4.5,4647,Low Price
+Alexandria,Alexandria,332,believe,clothes,4.8,2738,High Price
+Alexandria,Alexandria,333,mermaid,restaurant,4.1,4457,High Price
+Alexandria,Alexandria,334,mega,clothes,3.6,2408,High Price
+Alexandria,Alexandria,335,marilyn monroe,clothes,4.9,3300,High Price
+Alexandria,Alexandria,336,chez gaby au ritrovo,restaurant,4.3,4255,High Price
+Alexandria,Alexandria,337,torino,clothes,3.8,3860,High Price
+Alexandria,Alexandria,338,محروس,clothes,4.2,3621,High Price
+Alexandria,Alexandria,339,café de la paix,cafe,4.9,423,Medium Price
+Alexandria,Alexandria,340,كافيتريا المدينة,cafe,4.7,2072,Medium Price
+Alexandria,Alexandria,341,كبدة عم أمين,fast_food,4.8,3368,Low Price
+Alexandria,Alexandria,342,قصر الفيشاوى,cafe,4.7,1646,Medium Price
+Alexandria,Alexandria,343,the chocolate factory,cafe,4.7,4927,Medium Price
+Alexandria,Alexandria,344,محفوظ,pharmacy,3.8,1832,High Price
+Alexandria,Alexandria,345,cowboy,clothes,4.2,79,High Price
+Alexandria,Alexandria,346,aswan,cafe,4.8,482,Medium Price
+Alexandria,Alexandria,347,sterla,clothes,3.9,893,High Price
+Alexandria,Alexandria,348,bonjour,clothes,4.7,671,High Price
+Alexandria,Alexandria,349,name it,clothes,4.6,4523,High Price
+Alexandria,Alexandria,350,melody,clothes,4.3,1810,High Price
+Alexandria,Alexandria,351,حباتر,cafe,4.5,1551,Medium Price
+Alexandria,Alexandria,352,جملة ماركت,supermarket,4.3,3116,High Price
+Alexandria,Alexandria,353,triplo c,cafe,3.7,3769,Medium Price
+Alexandria,Alexandria,354,malibu,cafe,3.8,3393,Medium Price
+Alexandria,Alexandria,355,tie house,clothes,4.6,2447,High Price
+Alexandria,Alexandria,356,guitar,clothes,4.6,2452,High Price
+Alexandria,Alexandria,357,madora,clothes,4.1,1765,High Price
+Alexandria,Alexandria,358,لا شيكا,clothes,4.4,1201,High Price
+Alexandria,Alexandria,359,بيتزا ستيشن,fast_food,4.6,4845,Low Price
+Alexandria,Alexandria,360,سي فوليا,restaurant,4.9,921,High Price
+Alexandria,Alexandria,361,jamboojo seafood - چامبوچو,restaurant,5.0,1368,High Price
+Alexandria,Alexandria,362,أسماك آل بندق,restaurant,3.7,4687,High Price
+Alexandria,Alexandria,363,hossam tex,clothes,4.4,2993,High Price
+Alexandria,Alexandria,364,kindrz,clothes,3.8,3456,High Price
+Alexandria,Alexandria,365,فيكا,cafe,4.7,407,Medium Price
+Alexandria,Alexandria,366,وهبه,fast_food,3.7,2224,Low Price
+Alexandria,Alexandria,367,bizarre,clothes,3.7,4672,High Price
+Alexandria,Alexandria,368,orphanides pharmacy,pharmacy,3.6,2264,High Price
+Alexandria,Alexandria,369,papyon,clothes,4.9,807,High Price
+Alexandria,Alexandria,370,paolo rossini,clothes,4.0,3706,High Price
+Alexandria,Alexandria,371,سيف,pharmacy,4.2,231,High Price
+Alexandria,Alexandria,372,gomla market,supermarket,3.7,3885,High Price
+Alexandria,Alexandria,373,klexy,clothes,3.8,2450,High Price
+Alexandria,Alexandria,374,senior,clothes,4.8,1091,High Price
+Alexandria,Alexandria,375,rozaki,clothes,4.5,4314,High Price
+Alexandria,Alexandria,376,versatshi,clothes,3.9,30,High Price
+Alexandria,Alexandria,377,solo,clothes,4.7,2563,High Price
+Alexandria,Alexandria,378,alex,clothes,4.5,2545,High Price
+Alexandria,Alexandria,379,bon & chic,clothes,4.4,2524,High Price
+Alexandria,Alexandria,380,بوجى,clothes,4.0,22,High Price
+Alexandria,Alexandria,381,ڤينوس,clothes,4.9,783,High Price
+Alexandria,Alexandria,382,lyonnais 2000,clothes,4.5,2791,High Price
+Alexandria,Alexandria,383,الصفوة,cafe,4.9,2682,Medium Price
+Alexandria,Alexandria,384,عبايات حذقته,clothes,4.4,3185,High Price
+Alexandria,Alexandria,385,الشيخ,clothes,4.7,325,High Price
+Alexandria,Alexandria,386,anoosh,clothes,3.5,2065,High Price
+Alexandria,Alexandria,387,class,clothes,3.7,1634,High Price
+Alexandria,Alexandria,388,طايع اخوان,clothes,3.5,4402,High Price
+Alexandria,Alexandria,389,فريدة,clothes,3.5,4816,High Price
+Alexandria,Alexandria,390,د/ غلاب,pharmacy,4.5,3921,High Price
+Alexandria,Alexandria,391,مكتبة المغربى الاسلامية,clothes,4.2,1675,High Price
+Alexandria,Alexandria,392,versay,clothes,4.2,2031,High Price
+Alexandria,Alexandria,393,ليل,cafe,4.8,181,Medium Price
+Alexandria,Alexandria,394,elite,restaurant,3.8,3057,High Price
+Alexandria,Alexandria,395,carina,clothes,4.9,2102,High Price
+Alexandria,Alexandria,396,فيروز,restaurant,4.0,1954,High Price
+Alexandria,Alexandria,397,sara,clothes,4.7,387,High Price
+Alexandria,Alexandria,398,الفيشاوى,cafe,4.8,1657,Medium Price
+Alexandria,Alexandria,399,rose,clothes,3.7,4574,High Price
+Alexandria,Alexandria,400,diab,cafe,4.7,887,Medium Price
+Alexandria,Alexandria,401,فوكاتشاريا,restaurant,3.9,4083,High Price
+Alexandria,Alexandria,402,أندريه,cafe,4.0,1165,Medium Price
+Alexandria,Alexandria,403,cavalli,cafe,3.8,2275,Medium Price
+Alexandria,Alexandria,404,fruit valley,fast_food,3.8,2164,Low Price
+Alexandria,Alexandria,405,rich,clothes,3.8,4985,High Price
+Alexandria,Alexandria,406,شيكوريل,cafe,3.7,777,Medium Price
+Alexandria,Alexandria,407,تاڤرنا,restaurant,5.0,4821,High Price
+Alexandria,Alexandria,408,بوفيه مصر,cafe,4.2,2480,Medium Price
+Alexandria,Alexandria,409,trend,fast_food,3.5,3352,Low Price
+Alexandria,Alexandria,410,mowafy,clothes,4.4,3909,High Price
+Alexandria,Alexandria,411,silversun,clothes,4.8,3851,High Price
+Alexandria,Alexandria,412,برلنت,clothes,4.4,1101,High Price
+Alexandria,Alexandria,413,pick’n go,cafe,3.6,1684,Medium Price
+Alexandria,Alexandria,414,طارق خالد,clothes,4.3,2951,High Price
+Alexandria,Alexandria,415,ship master,clothes,4.4,1663,High Price
+Alexandria,Alexandria,416,مينرڤا,clothes,4.7,4401,High Price
+Alexandria,Alexandria,417,بروفيل,clothes,4.5,1947,High Price
+Alexandria,Alexandria,418,بهجة,restaurant,4.8,1421,High Price
+Alexandria,Alexandria,419,pink,clothes,3.9,4534,High Price
+Alexandria,Alexandria,420,كشرى ع السخن,restaurant,3.8,1982,High Price
+Alexandria,Alexandria,421,ابو طير,restaurant,4.6,423,High Price
+Alexandria,Alexandria,422,solang,clothes,4.9,3895,High Price
+Alexandria,Alexandria,423,sudan,clothes,3.5,2425,High Price
+Alexandria,Alexandria,424,عمر افندى,clothes,4.1,3474,High Price
+Alexandria,Alexandria,425,el-bob,clothes,4.2,3737,High Price
+Alexandria,Alexandria,426,هاني,supermarket,4.4,3038,High Price
+Alexandria,Alexandria,427,الأدهم,cafe,5.0,825,Medium Price
+Alexandria,Alexandria,428,سلطنة صفر,cafe,4.2,521,Medium Price
+Alexandria,Alexandria,429,بينو,cafe,3.5,3915,Medium Price
+Alexandria,Alexandria,430,ستاربكس,cafe,5.0,3379,Medium Price
+Alexandria,Alexandria,431,عصير ملوك,fast_food,4.4,4020,Low Price
+Alexandria,Alexandria,432,المدهش,fast_food,4.6,1313,Low Price
+Alexandria,Alexandria,433,holmes,fast_food,4.8,2858,Low Price
+Alexandria,Alexandria,434,أدمو,clothes,3.7,484,High Price
+Alexandria,Alexandria,435,شاورميزر,fast_food,3.8,2499,Low Price
+Alexandria,Alexandria,436,ابن الباشا,fast_food,3.5,3971,Low Price
+Alexandria,Alexandria,437,طعم حكاية,fast_food,4.0,4921,Low Price
+Alexandria,Alexandria,438,soula,cafe,3.7,2538,Medium Price
+Alexandria,Alexandria,439,queen,clothes,4.4,171,High Price
+Alexandria,Alexandria,440,سلسلة,cafe,3.8,3612,Medium Price
+Alexandria,Alexandria,441,oak bay,restaurant,4.6,10,High Price
+Alexandria,Alexandria,442,فول محمد احمد,fast_food,4.9,1461,Low Price
+Alexandria,Alexandria,443,conge,clothes,4.0,1828,High Price
+Alexandria,Alexandria,444,مليون,clothes,4.6,1004,High Price
+Alexandria,Alexandria,445,magi,clothes,3.5,1362,High Price
+Alexandria,Alexandria,446,ڤينيسيا,clothes,4.9,3906,High Price
+Alexandria,Alexandria,447,مطعم بقالي,fast_food,4.5,952,Low Price
+Alexandria,Alexandria,448,etisalat,mobile_phone,4.5,161,High Price
+Alexandria,Alexandria,449,عمر الخيام,cafe,4.1,4677,Medium Price
+Alexandria,Alexandria,450,الاوتوبيس,fast_food,3.7,2781,Low Price
+Alexandria,Alexandria,451,hepsi,clothes,4.7,3320,High Price
+Alexandria,Alexandria,452,عربية فول الجوازات,fast_food,3.8,1619,Low Price
+Alexandria,Alexandria,453,الشفعى,clothes,4.0,4837,High Price
+Alexandria,Alexandria,454,د. خالد,pharmacy,4.0,3471,High Price
+Alexandria,Alexandria,455,ابو الحسن,supermarket,3.8,3845,High Price
+Alexandria,Alexandria,456,دكتور أحمد شلبى,pharmacy,4.3,2032,High Price
+Alexandria,Alexandria,457,spender,clothes,4.9,3610,High Price
+Alexandria,Alexandria,458,omar,clothes,4.5,4804,High Price
+Alexandria,Alexandria,459,عروس البحر,restaurant,4.4,2683,High Price
+Alexandria,Alexandria,460,eagle,clothes,4.4,2431,High Price
+Alexandria,Alexandria,461,carpin,clothes,4.0,1146,High Price
+Alexandria,Alexandria,462,il punto,restaurant,3.8,1729,High Price
+Alexandria,Alexandria,463,jil,clothes,3.9,3071,High Price
+Alexandria,Alexandria,464,ابو علاء,cafe,3.7,3963,Medium Price
+Alexandria,Alexandria,465,lava,cafe,4.3,34,Medium Price
+Alexandria,Alexandria,466,el badry,mobile_phone,3.7,482,High Price
+Alexandria,Alexandria,467,lorando,clothes,4.5,4489,High Price
+Alexandria,Alexandria,468,open,clothes,3.9,1867,High Price
+Alexandria,Alexandria,469,zizo,fast_food,4.6,2795,Low Price
+Alexandria,Alexandria,470,صيدلية بروناى,pharmacy,4.6,3011,High Price
+Alexandria,Alexandria,471,سان سابا,pharmacy,4.2,1210,High Price
+Alexandria,Alexandria,472,الحمبالي,cafe,4.0,4185,Medium Price
+Alexandria,Alexandria,473,la poire,cafe,4.7,36,Medium Price
+Alexandria,Alexandria,474,napoli,cafe,4.3,3308,Medium Price
+Alexandria,Alexandria,475,راقودة,restaurant,4.7,3963,High Price
+Alexandria,Alexandria,476,مقهى روبوستا,cafe,4.5,3058,Medium Price
+Alexandria,Alexandria,477,ألبان سويسرا,restaurant,4.6,2856,High Price
+Alexandria,Alexandria,478,القهوة اليونانية,cafe,4.1,3767,Medium Price
+Alexandria,Alexandria,479,gomla,supermarket,4.6,3520,High Price
+Alexandria,Alexandria,480,circle k,cafe,4.2,4570,Medium Price
+Alexandria,Alexandria,481,السوده,cafe,3.8,3352,Medium Price
+Alexandria,Alexandria,482,croissant d’alexia,cafe,4.5,3354,Medium Price
+Alexandria,Alexandria,483,karamel sham,restaurant,4.6,617,High Price
+Alexandria,Alexandria,484,harrods,clothes,4.8,2730,High Price
+Alexandria,Alexandria,485,داليا,clothes,3.8,1466,High Price
+Alexandria,Alexandria,486,rou,clothes,4.9,1513,High Price
+Alexandria,Alexandria,487,زهو,restaurant,4.6,2097,High Price
+Alexandria,Alexandria,488,كافية المدينة المنورة,cafe,4.7,2777,Medium Price
+Alexandria,Alexandria,489,الملكى,cafe,4.2,1038,Medium Price
+Alexandria,Alexandria,490,chi chi,cafe,4.6,1759,Medium Price
+Alexandria,Alexandria,491,afrodit,clothes,3.8,874,High Price
+Alexandria,Alexandria,492,juice corner,fast_food,4.6,666,Low Price
+Alexandria,Alexandria,493,premark.s,clothes,4.4,2754,High Price
+Alexandria,Alexandria,494,عوف,clothes,4.0,265,High Price
+Alexandria,Alexandria,495,shick,clothes,3.6,4035,High Price
+Alexandria,Alexandria,496,papadola,restaurant,4.0,3712,High Price
+Alexandria,Alexandria,497,el kabten,clothes,4.2,387,High Price
+Alexandria,Alexandria,498,الكابتن,mobile_phone,3.6,2409,High Price
+Alexandria,Alexandria,499,aldeeb scarf,clothes,4.9,4685,High Price
+Alexandria,Alexandria,500,spice girls,clothes,4.3,800,High Price
+Alexandria,Alexandria,501,waddy,clothes,4.4,1986,High Price
+Alexandria,Alexandria,502,x.ford,clothes,4.4,714,High Price
+Alexandria,Alexandria,503,alfagr,clothes,3.7,628,High Price
+Alexandria,Alexandria,504,mavi,clothes,3.5,3578,High Price
+Alexandria,Alexandria,505,brand,clothes,4.0,524,High Price
+Alexandria,Alexandria,506,مصطفى سالم,mobile_phone,3.8,1551,High Price
+Alexandria,Alexandria,507,أكسفورد,pharmacy,3.7,3668,High Price
+Alexandria,Alexandria,508,شهد درويش ٢,clothes,4.6,662,High Price
+Alexandria,Alexandria,509,عالم الرياضه,clothes,4.5,3058,High Price
+Alexandria,Alexandria,510,amal wool,clothes,3.9,1369,High Price
+Alexandria,Alexandria,511,alfy`s,cafe,4.2,2351,Medium Price
+Alexandria,Alexandria,512,el sabrouty,clothes,4.9,2249,High Price
+Alexandria,Alexandria,513,رمضان,pharmacy,4.6,4556,High Price
+Alexandria,Alexandria,514,بهيج,fast_food,4.7,1371,Low Price
+Alexandria,Alexandria,515,النصر,restaurant,4.3,1290,High Price
+Alexandria,Alexandria,516,مصطفى جاد,fast_food,4.5,899,Low Price
+Alexandria,Alexandria,517,العزبى,pharmacy,4.7,340,High Price
+Alexandria,Alexandria,518,baggi,clothes,4.0,2801,High Price
+Alexandria,Alexandria,519,ابو عوف,clothes,3.6,2578,High Price
+Alexandria,Alexandria,520,البان وادى النيل,cafe,4.4,90,Medium Price
+Alexandria,Alexandria,521,رغيف كبده,restaurant,4.2,1206,High Price
+Alexandria,Alexandria,522,mody more,clothes,4.3,3783,High Price
+Alexandria,Alexandria,523,أولاد ظاظا,cafe,4.9,3334,Medium Price
+Alexandria,Alexandria,524,tigter,clothes,4.1,1553,High Price
+Alexandria,Alexandria,525,sharm fashion,clothes,4.1,2609,High Price
+Alexandria,Alexandria,526,كشرى عزوز,fast_food,4.8,4486,Low Price
+Alexandria,Alexandria,527,كبدة الحرش,fast_food,4.4,3222,Low Price
+Alexandria,Alexandria,528,المدينة,pharmacy,5.0,1584,High Price
+Alexandria,Alexandria,529,الراية الدمشقية,fast_food,4.1,3108,Low Price
+Alexandria,Alexandria,530,كير,pharmacy,3.7,1040,High Price
+Alexandria,Alexandria,531,kaffeine,cafe,4.8,4882,Medium Price
+Alexandria,Alexandria,532,momo,fast_food,4.5,2002,Low Price
+Alexandria,Alexandria,533,patty & puffy,fast_food,4.0,2113,Low Price
+Alexandria,Alexandria,534,فؤاد أحمد,pharmacy,4.3,873,High Price
+Alexandria,Alexandria,535,cafe express,cafe,5.0,4700,Medium Price
+Alexandria,Alexandria,536,تبارك فارم,restaurant,4.5,708,High Price
+Alexandria,Alexandria,537,أولاد ضيف,cafe,4.1,1799,Medium Price
+Alexandria,Alexandria,538,shawerma elreem,fast_food,4.0,4429,Low Price
+Alexandria,Alexandria,539,بورصة المحطة,cafe,4.8,3859,Medium Price
+Alexandria,Alexandria,540,tota,mobile_phone,4.8,3942,High Price
+Alexandria,Alexandria,541,رياحين,cafe,4.1,3846,Medium Price
+Alexandria,Alexandria,542,town team,clothes,4.3,1475,High Price
+Alexandria,Alexandria,543,danger gucci,clothes,4.3,205,High Price
+Alexandria,Alexandria,544,hegab,clothes,3.8,1195,High Price
+Alexandria,Alexandria,545,diamond,restaurant,4.1,41,High Price
+Alexandria,Alexandria,546,günaydın,cafe,3.9,1799,Medium Price
+Alexandria,Alexandria,547,buffalo burger,fast_food,4.5,3121,Low Price
+Alexandria,Alexandria,548,fathalla market,supermarket,4.4,2722,High Price
+Alexandria,Alexandria,549,البركة,fast_food,3.9,4895,Low Price
+Alexandria,Alexandria,550,pizza roma,fast_food,4.0,3921,Low Price
+Alexandria,Alexandria,551,family market,supermarket,4.7,1240,High Price
+Alexandria,Alexandria,552,runway,restaurant,3.8,4843,High Price
+Alexandria,Alexandria,553,5 roosters,fast_food,5.0,1028,Low Price
+Alexandria,Alexandria,554,murano,restaurant,3.9,4946,High Price
+Alexandria,Alexandria,555,رويش,restaurant,4.4,4584,High Price
+Alexandria,Alexandria,556,embratora,clothes,3.8,651,High Price
+Alexandria,Alexandria,557,baudrot,restaurant,4.7,4996,High Price
+Alexandria,Alexandria,558,sofianopoulo,cafe,4.0,2840,Medium Price
+Alexandria,Alexandria,559,روما,cafe,4.4,4216,Medium Price
+Alexandria,Alexandria,560,كشري أنا المعلم,fast_food,4.7,3426,Low Price
+Alexandria,Alexandria,561,أيوب,pharmacy,5.0,4163,High Price
+Alexandria,Alexandria,562,orange,mobile_phone,4.2,4326,High Price
+Alexandria,Alexandria,563,صيدلية محطة مصر,pharmacy,4.8,3635,High Price
+Alexandria,Alexandria,564,قدم الخير,cafe,4.2,2547,Medium Price
+Alexandria,Alexandria,565,الحسن,cafe,4.6,1293,Medium Price
+Alexandria,Alexandria,566,الجزار,fast_food,4.0,4014,Low Price
+Alexandria,Alexandria,567,city cafe,cafe,4.2,199,Medium Price
+Alexandria,Alexandria,568,مشرف,pharmacy,4.2,3251,High Price
+Alexandria,Alexandria,569,بطاطى,cafe,4.9,1329,Medium Price
+Alexandria,Alexandria,570,capito,clothes,4.2,478,High Price
+Alexandria,Alexandria,571,دانكن دونتس,fast_food,4.4,2023,Low Price
+Alexandria,Alexandria,572,كرسبي كريم,fast_food,3.5,393,Low Price
+Alexandria,Alexandria,573,pick & cut,restaurant,4.1,799,High Price
+Alexandria,Alexandria,574,علي الرايق سوري,restaurant,3.6,3654,High Price
+Alexandria,Alexandria,575,shawarma,restaurant,4.9,632,High Price
+Alexandria,Alexandria,576,falafel,restaurant,4.8,2746,High Price
+Alexandria,Alexandria,577,٦ اكتوبر,cafe,4.2,1064,Medium Price
+Alexandria,Alexandria,578,شارع الكشري,restaurant,4.0,547,High Price
+Alexandria,Alexandria,579,السلطان,cafe,4.9,1926,Medium Price
+Alexandria,Alexandria,580,la chica,clothes,4.0,2348,High Price
+Alexandria,Alexandria,581,قرية ماليزيا,restaurant,4.3,3149,High Price
+Alexandria,Alexandria,582,zarda,cafe,4.9,3381,Medium Price
+Alexandria,Alexandria,583,pick'n go,cafe,4.8,3613,Medium Price
+Alexandria,Alexandria,584,مسمط الفاروق ( حمو فاروق ),restaurant,3.7,2102,High Price
+Alexandria,Alexandria,585,the alexandria deli,cafe,4.8,2346,Medium Price
+Alexandria,Alexandria,586,اشرف الماني مشويات,fast_food,4.6,2244,Low Price
+Alexandria,Alexandria,587,pryzm,clothes,4.4,480,High Price
+Alexandria,Alexandria,588,مطعم الكني فروق,restaurant,4.5,4988,High Price
+Alexandria,Alexandria,589,البان البوهي,supermarket,4.5,895,High Price
+Alexandria,Alexandria,590,قهوة الخولى,cafe,3.7,3243,Medium Price
+Alexandria,Alexandria,591,بورتو المحروسه,cafe,3.8,4365,Medium Price
+Alexandria,Alexandria,592,سى يو,restaurant,4.6,1142,High Price
+Alexandria,Alexandria,593,صيدليه دكتور شريف رفيق,pharmacy,3.9,2253,High Price
+Alexandria,Alexandria,594,maria,restaurant,4.8,2447,High Price
+Alexandria,Alexandria,595,kansas fried chicken,fast_food,3.7,3876,Low Price
+Alexandria,Alexandria,596,النادى البحرى اليونانى,restaurant,4.9,4171,High Price
+Alexandria,Alexandria,597,كرم الشام,fast_food,3.6,2249,Low Price
+Alexandria,Alexandria,598,sarai market,supermarket,4.6,3771,High Price
+Alexandria,Alexandria,599,كازينو الشاطبى,cafe,4.2,519,Medium Price
+Alexandria,Alexandria,600,faculty of fine arts cafe,cafe,4.9,487,Medium Price
+Alexandria,Alexandria,601,al kometra,cafe,3.5,3186,Medium Price
+Alexandria,Alexandria,602,أبو الطيب,pharmacy,4.8,1117,High Price
+Alexandria,Alexandria,603,mugs estate,cafe,4.1,4014,Medium Price
+Alexandria,Alexandria,604,سكرية,cafe,3.9,1029,Medium Price
+Alexandria,Alexandria,605,فلوكة,cafe,3.8,3461,Medium Price
+Alexandria,Alexandria,606,ob-la-di,cafe,4.4,4763,Medium Price
+Alexandria,Alexandria,607,cilantro,restaurant,3.6,197,High Price
+Alexandria,Alexandria,608,ابو عميرة,clothes,3.5,1830,High Price
+Alexandria,Alexandria,609,صيدليات دوائي,pharmacy,4.5,107,High Price
+Alexandria,Alexandria,610,luna park,restaurant,3.9,1981,High Price
+Alexandria,Alexandria,611,أليكس ماركت - فرع تانيس,supermarket,4.4,4906,High Price
+Alexandria,Alexandria,612,كازيون ماركت,supermarket,4.1,3837,High Price
+Alexandria,Alexandria,613,صيدلية الدلتا,pharmacy,4.1,3059,High Price
+Alexandria,Alexandria,614,صيدلية فارحي,pharmacy,4.6,1623,High Price
+Alexandria,Alexandria,615,صيدلية د. أشرف نوار,pharmacy,4.5,3567,High Price
+Alexandria,Alexandria,616,demo store,clothes,4.4,381,High Price
+Alexandria,Alexandria,617,mcdonald's,restaurant,4.9,4034,High Price
+Alexandria,Alexandria,618,ليجند,clothes,4.0,3570,High Price
+Alexandria,Alexandria,619,الحنين,fast_food,4.2,247,Low Price
+Alexandria,Alexandria,620,panorama,cafe,3.9,4119,Medium Price
+Alexandria,Alexandria,621,نادي الجالية,restaurant,4.6,4098,High Price
+Assiut,Assiut,622,pronto,restaurant,3.8,688,High Price
+Assiut,Assiut,623,كافتريا الجامعة,cafe,3.7,4402,Medium Price
+Assiut,Assiut,624,قهوة البحار مندي,cafe,3.7,303,Medium Price
+Assiut,Assiut,625,محل كشري,restaurant,4.3,3785,High Price
+Assiut,Assiut,626,فطاطري الزعيم وحواوشي,restaurant,4.6,2463,High Price
+Assiut,Assiut,627,ساندوتش الأزهر,restaurant,3.8,3612,High Price
+Assiut,Assiut,628,سيلينترو,cafe,4.8,364,Medium Price
+Assiut,Assiut,629,كشري ابو عمار,restaurant,4.5,4879,High Price
+Assiut,Assiut,630,صيدلية عبد المعتمد,pharmacy,4.1,1514,High Price
+Assiut,Assiut,631,الشبراوي,restaurant,4.6,4922,High Price
+Assiut,Assiut,632,سوناتا كافيه,cafe,3.8,2424,Medium Price
+Assiut,Assiut,633,خير زمان ماركت,supermarket,4.0,2054,High Price
+Assiut,Assiut,634,ziad cafe & monster playstation,cafe,3.6,3948,Medium Price
+Assiut,Assiut,635,وافلز الحاره,cafe,3.6,4692,Medium Price
+Assiut,Assiut,636,كشري المدينة ٢,fast_food,4.1,2387,Low Price
+Assiut,Assiut,637,pizza,fast_food,4.0,4262,Low Price
+Assiut,Assiut,638,double chickana,fast_food,3.7,3062,Low Price
+Assiut,Assiut,639,professional clothing,clothes,4.6,3650,High Price
+Assiut,Assiut,640,kayan,restaurant,4.1,4520,High Price
+Assiut,Assiut,641,apache chicken,fast_food,4.0,1350,Low Price
+Assiut,Assiut,642,lc waikiki,clothes,4.6,3976,High Price
+Assiut,Assiut,643,heart attack,fast_food,4.0,3703,Low Price
+Assiut,Assiut,644,jory fashion,clothes,4.3,2601,High Price
+Assiut,Assiut,645,cottonil,clothes,3.7,275,High Price
+Assiut,Assiut,646,kamouna,fast_food,4.0,3677,Low Price
+Assiut,Assiut,647,grand plaza,clothes,3.8,1042,High Price
+Port Said,Port Said,648,قهوه فوليه,cafe,4.1,3102,Medium Price
+Port Said,Port Said,649,vodafone,mobile_phone,3.8,2017,High Price
+Port Said,Port Said,650,gianola,cafe,3.7,1597,Medium Price
+Port Said,Port Said,651,beetle vintage,cafe,5.0,4846,Medium Price
+Port Said,Port Said,652,فيش فيش,restaurant,4.1,4029,High Price
+Port Said,Port Said,653,اسماك محسن -فرع الزهور,restaurant,4.4,874,High Price
+Port Said,Port Said,654,مطعم شروق,fast_food,4.5,2622,Low Price
+Port Said,Port Said,655,elite,cafe,3.9,4070,Medium Price
+Port Said,Port Said,656,صيدليه ابو الغيط,pharmacy,4.9,2689,High Price
+Port Said,Port Said,657,معصرة عجوة,fast_food,3.8,3998,Low Price
+Port Said,Port Said,658,يتزا بينو,restaurant,4.1,3074,High Price
+Port Said,Port Said,659,diva store,clothes,4.2,3407,High Price
+Port Said,Port Said,660,porto pizza,restaurant,4.1,1906,High Price
+Port Said,Port Said,661,دوناتس كافيه,cafe,4.1,652,Medium Price
+Port Said,Port Said,662,سلورة,fast_food,4.1,490,Low Price
+Port Said,Port Said,663,ابو مؤمن,restaurant,4.5,3512,High Price
+Port Said,Port Said,664,كافيه سينترال بيرك,restaurant,4.3,4870,High Price
+Port Said,Port Said,665,صيدليه الطحان,pharmacy,3.6,4144,High Price
+Port Said,Port Said,666,صيدلية أنصار السنة المحمدية,pharmacy,4.9,2796,High Price
+Port Said,Port Said,667,اكتف ابو علاء,clothes,4.2,1006,High Price
+Port Said,Port Said,668,محمد واحمد,pharmacy,3.5,4455,High Price
+Port Said,Port Said,669,القمر السورى,fast_food,4.7,3136,Low Price
+Port Said,Port Said,670,beg pizza,restaurant,4.1,4333,High Price
+Port Said,Port Said,671,elite,cafe,4.4,2076,Medium Price
+Sharqia,Zagazig,672,Taste Hub 1,cafe,4.9,777,Low Price
+Gharbia,Tanta,673,Al Noor 2,mobile_phone,3.9,4850,High Price
+Dakahlia,Mansoura,674,Pharma Care 3,supermarket,4.1,2146,Low Price
+Luxor,Luxor,675,El Baraka 4,supermarket,4.6,2073,High Price
+Giza,Giza,676,Happy Store 5,mobile_phone,4.8,2764,High Price
+Sharqia,Zagazig,677,City Center 6,mobile_phone,5.0,1409,High Price
+Giza,Giza,678,Fast Bite 7,mobile_phone,4.1,2738,High Price
+Port Said,Port Said,679,Style House 8,pharmacy,4.6,2630,High Price
+Gharbia,Tanta,680,Style House 9,restaurant,3.5,3411,High Price
+Luxor,Luxor,681,City Center 10,cafe,4.1,371,Low Price
+Alexandria,Alexandria,682,El Salam 11,supermarket,3.7,4286,High Price
+Sharqia,Zagazig,683,Happy Store 12,fast_food,3.6,3236,Medium Price
+Giza,Giza,684,El Baraka 13,supermarket,3.6,2607,Low Price
+Port Said,Port Said,685,El Baraka 14,supermarket,4.0,2821,Low Price
+Alexandria,Alexandria,686,Fast Bite 15,pharmacy,3.8,731,High Price
+Gharbia,Tanta,687,City Center 16,restaurant,3.6,702,High Price
+Luxor,Luxor,688,Fresh Mart 17,pharmacy,3.9,189,High Price
+Dakahlia,Mansoura,689,Style House 18,supermarket,4.7,1404,High Price
+Dakahlia,Mansoura,690,Fresh Mart 19,clothes,3.8,1227,High Price
+Cairo,Cairo,691,Fresh Mart 20,pharmacy,4.4,4686,High Price
+Gharbia,Tanta,692,Taste Hub 21,pharmacy,3.8,3764,High Price
+Dakahlia,Mansoura,693,City Center 22,supermarket,4.8,4294,Medium Price
+Assiut,Assiut,694,Nile Cafe 23,pharmacy,4.5,2993,High Price
+Assiut,Assiut,695,Fast Bite 24,mobile_phone,4.0,742,High Price
+Alexandria,Alexandria,696,Fresh Mart 25,fast_food,3.8,2939,Medium Price
+Luxor,Luxor,697,Mobile Zone 26,restaurant,4.4,4746,Low Price
+Luxor,Luxor,698,Taste Hub 27,supermarket,4.6,2383,Medium Price
+Alexandria,Alexandria,699,Style House 28,supermarket,4.5,4942,High Price
+Alexandria,Alexandria,700,Al Noor 29,fast_food,4.7,226,Low Price
+Gharbia,Tanta,701,Sky Restaurant 30,mobile_phone,4.0,628,High Price
+Aswan,Aswan,702,Food Corner 31,pharmacy,4.1,1068,High Price
+Luxor,Luxor,703,Fresh Mart 32,mobile_phone,3.7,2826,High Price
+Cairo,Cairo,704,Pharma Care 33,mobile_phone,4.6,79,High Price
+Alexandria,Alexandria,705,Sky Restaurant 34,restaurant,4.6,3663,High Price
+Cairo,Cairo,706,Food Corner 35,supermarket,3.5,3261,High Price
+Cairo,Cairo,707,Happy Store 36,fast_food,4.6,1014,Low Price
+Aswan,Aswan,708,Nile Cafe 37,supermarket,4.9,159,Medium Price
+Dakahlia,Mansoura,709,El Salam 38,clothes,4.3,1557,Medium Price
+Alexandria,Alexandria,710,Fresh Mart 39,clothes,4.5,259,Low Price
+Port Said,Port Said,711,El Fath 40,supermarket,3.7,897,Low Price
+Assiut,Assiut,712,Pharma Care 41,supermarket,4.0,3074,Low Price
+Luxor,Luxor,713,Al Noor 42,cafe,4.9,1109,Low Price
+Aswan,Aswan,714,Royal Cafe 43,pharmacy,4.9,1217,High Price
+Cairo,Cairo,715,El Salam 44,mobile_phone,4.9,544,High Price
+Gharbia,Tanta,716,Delta Shop 45,cafe,3.6,1420,Low Price
+Port Said,Port Said,717,Food Corner 46,clothes,3.8,2247,High Price
+Sharqia,Zagazig,718,El Fath 47,restaurant,4.7,1791,Medium Price
+Assiut,Assiut,719,Style House 48,cafe,3.8,3923,Low Price
+Port Said,Port Said,720,Pharma Care 49,cafe,4.9,4260,Low Price
+Sharqia,Zagazig,721,City Center 50,pharmacy,3.8,2322,High Price
+Alexandria,Alexandria,722,Bazaar 51,clothes,3.9,2923,High Price
+Dakahlia,Mansoura,723,El Fath 52,cafe,3.8,3222,Medium Price
+Gharbia,Tanta,724,Mobile Zone 53,mobile_phone,4.1,1324,High Price
+Aswan,Aswan,725,Food Corner 54,pharmacy,5.0,4559,High Price
+Port Said,Port Said,726,City Center 55,clothes,5.0,3072,High Price
+Assiut,Assiut,727,Green Market 56,supermarket,3.5,2547,Medium Price
+Aswan,Aswan,728,El Fath 57,fast_food,4.8,4107,Medium Price
+Dakahlia,Mansoura,729,El Fath 58,restaurant,4.8,2052,Medium Price
+Gharbia,Tanta,730,Mobile Zone 59,restaurant,4.5,4831,Low Price
+Assiut,Assiut,731,Al Noor 60,clothes,4.1,3358,Medium Price
+Cairo,Cairo,732,Food Corner 61,supermarket,4.1,1109,Low Price
+Dakahlia,Mansoura,733,Royal Cafe 62,fast_food,3.5,188,Medium Price
+Assiut,Assiut,734,El Fath 63,fast_food,4.6,3660,Low Price
+Giza,Giza,735,Food Corner 64,cafe,4.7,1225,Medium Price
+Alexandria,Alexandria,736,Bazaar 65,pharmacy,4.4,3027,High Price
+Cairo,Cairo,737,El Baraka 66,cafe,4.8,2125,Low Price
+Alexandria,Alexandria,738,Bazaar 67,pharmacy,3.7,226,High Price
+Giza,Giza,739,Happy Store 68,fast_food,4.8,2168,Low Price
+Giza,Giza,740,Taste Hub 69,mobile_phone,3.7,4920,High Price
+Gharbia,Tanta,741,Style House 70,fast_food,3.6,3121,Low Price
+Aswan,Aswan,742,Mobile Zone 71,fast_food,4.0,3594,Low Price
+Giza,Giza,743,Style House 72,supermarket,4.6,2725,Medium Price
+Giza,Giza,744,Fresh Mart 73,mobile_phone,4.8,4243,High Price
+Sharqia,Zagazig,745,El Hana 74,pharmacy,3.6,2763,High Price
+Luxor,Luxor,746,Fast Bite 75,restaurant,4.4,241,Low Price
+Sharqia,Zagazig,747,Green Market 76,fast_food,4.6,4957,Medium Price
+Aswan,Aswan,748,Taste Hub 77,pharmacy,4.0,1901,High Price
+Cairo,Cairo,749,Delta Shop 78,mobile_phone,3.9,3104,High Price
+Aswan,Aswan,750,Food Corner 79,restaurant,4.6,3914,Low Price
+Assiut,Assiut,751,El Fath 80,fast_food,4.6,3096,Medium Price
+Luxor,Luxor,752,Sky Restaurant 81,clothes,4.1,3390,Low Price
+Sharqia,Zagazig,753,Taste Hub 82,clothes,3.6,685,High Price
+Port Said,Port Said,754,Fresh Mart 83,fast_food,3.6,547,Low Price
+Alexandria,Alexandria,755,El Hana 84,fast_food,4.6,2674,Medium Price
+Port Said,Port Said,756,Al Noor 85,supermarket,3.8,3040,Low Price
+Dakahlia,Mansoura,757,Fast Bite 86,mobile_phone,4.1,1139,High Price
+Alexandria,Alexandria,758,Pharma Care 87,fast_food,3.7,4779,Medium Price
+Gharbia,Tanta,759,Mobile Zone 88,fast_food,4.0,947,Medium Price
+Gharbia,Tanta,760,El Hana 89,cafe,4.6,2572,Low Price
+Cairo,Cairo,761,Pharma Care 90,restaurant,4.6,3077,Medium Price
+Cairo,Cairo,762,City Center 91,cafe,4.5,4153,Medium Price
+Assiut,Assiut,763,Green Market 92,mobile_phone,3.7,3695,High Price
+Gharbia,Tanta,764,Happy Store 93,mobile_phone,3.5,4281,High Price
+Port Said,Port Said,765,Bazaar 94,restaurant,4.7,3665,Medium Price
+Assiut,Assiut,766,Nile Cafe 95,clothes,4.8,4055,Low Price
+Gharbia,Tanta,767,Delta Shop 96,clothes,3.9,4206,Low Price
+Giza,Giza,768,Pharma Care 97,pharmacy,3.6,1202,High Price
+Sharqia,Zagazig,769,City Center 98,restaurant,4.2,4774,Low Price
+Gharbia,Tanta,770,Delta Shop 99,supermarket,4.9,3858,High Price
+Port Said,Port Said,771,Sky Restaurant 100,fast_food,4.9,370,Medium Price
+Luxor,Luxor,772,City Center 101,restaurant,4.4,3608,Low Price
+Luxor,Luxor,773,El Baraka 102,supermarket,4.1,2245,Medium Price
+Luxor,Luxor,774,Taste Hub 103,pharmacy,4.2,2169,High Price
+Port Said,Port Said,775,Royal Cafe 104,pharmacy,4.4,979,High Price
+Aswan,Aswan,776,El Salam 105,cafe,4.8,4182,Medium Price
+Sharqia,Zagazig,777,Sky Restaurant 106,supermarket,3.5,2391,High Price
+Gharbia,Tanta,778,Sky Restaurant 107,supermarket,3.5,4098,High Price
+Alexandria,Alexandria,779,Style House 108,pharmacy,3.9,1614,High Price
+Cairo,Cairo,780,El Salam 109,clothes,4.6,3198,High Price
+Aswan,Aswan,781,Taste Hub 110,restaurant,4.5,730,Low Price
+Aswan,Aswan,782,Fresh Mart 111,pharmacy,3.7,3301,High Price
+Aswan,Aswan,783,Royal Cafe 112,clothes,4.5,4425,Medium Price
+Giza,Giza,784,Fast Bite 113,restaurant,4.2,3817,Low Price
+Alexandria,Alexandria,785,Pharma Care 114,supermarket,4.2,2898,Low Price
+Port Said,Port Said,786,Mobile Zone 115,supermarket,4.6,4138,Low Price
+Assiut,Assiut,787,Fast Bite 116,restaurant,3.8,698,Medium Price
+Assiut,Assiut,788,Al Noor 117,cafe,4.0,3921,Low Price
+Luxor,Luxor,789,Happy Store 118,pharmacy,4.8,3473,High Price
+Alexandria,Alexandria,790,Al Noor 119,pharmacy,3.6,806,High Price
+Assiut,Assiut,791,El Baraka 120,pharmacy,4.7,1230,High Price
+Gharbia,Tanta,792,El Salam 121,pharmacy,4.8,3411,High Price
+Assiut,Assiut,793,El Salam 122,clothes,4.0,3088,Low Price
+Aswan,Aswan,794,Delta Shop 123,mobile_phone,4.7,3185,High Price
+Port Said,Port Said,795,Nile Cafe 124,mobile_phone,4.8,2840,High Price
+Dakahlia,Mansoura,796,Happy Store 125,fast_food,3.6,2309,Medium Price
+Luxor,Luxor,797,El Salam 126,cafe,4.2,3289,Medium Price
+Assiut,Assiut,798,Green Market 127,cafe,4.0,4324,Medium Price
+Giza,Giza,799,Green Market 128,restaurant,4.3,1353,Low Price
+Dakahlia,Mansoura,800,Style House 129,cafe,3.6,3674,Medium Price
+Port Said,Port Said,801,Food Corner 130,cafe,4.3,507,Medium Price
+Assiut,Assiut,802,Mobile Zone 131,cafe,3.5,1122,Low Price
+Sharqia,Zagazig,803,City Center 132,clothes,3.6,2509,Low Price
+Luxor,Luxor,804,Fresh Mart 133,pharmacy,3.6,2266,High Price
+Sharqia,Zagazig,805,Nile Cafe 134,cafe,4.5,4044,Low Price
+Assiut,Assiut,806,City Center 135,pharmacy,5.0,4196,High Price
+Sharqia,Zagazig,807,El Baraka 136,cafe,4.0,4616,Low Price
+Dakahlia,Mansoura,808,City Center 137,cafe,4.9,1340,Low Price
+Cairo,Cairo,809,Mobile Zone 138,fast_food,4.8,3686,Medium Price
+Gharbia,Tanta,810,El Fath 139,pharmacy,4.4,2462,High Price
+Sharqia,Zagazig,811,Nile Cafe 140,supermarket,3.9,3650,High Price
+Dakahlia,Mansoura,812,Green Market 141,pharmacy,3.8,283,High Price
+Assiut,Assiut,813,Sky Restaurant 142,restaurant,4.7,4608,High Price
+Alexandria,Alexandria,814,Green Market 143,pharmacy,4.0,4474,High Price
+Luxor,Luxor,815,Bazaar 144,restaurant,4.7,3721,Medium Price
+Assiut,Assiut,816,El Salam 145,restaurant,4.5,1838,High Price
+Aswan,Aswan,817,Fresh Mart 146,fast_food,4.2,4789,Low Price
+Aswan,Aswan,818,Style House 147,fast_food,4.5,2050,Medium Price
+Luxor,Luxor,819,Royal Cafe 148,supermarket,4.9,1028,Medium Price
+Luxor,Luxor,820,Royal Cafe 149,mobile_phone,4.2,474,High Price
+Dakahlia,Mansoura,821,Al Noor 150,cafe,3.5,3233,Low Price
+Luxor,Luxor,822,El Salam 151,fast_food,4.4,2803,Medium Price
+Aswan,Aswan,823,Style House 152,supermarket,4.0,95,Low Price
+Assiut,Assiut,824,El Hana 153,mobile_phone,3.7,3731,High Price
+Dakahlia,Mansoura,825,Fast Bite 154,fast_food,3.9,3966,Medium Price
+Gharbia,Tanta,826,El Baraka 155,restaurant,4.8,1485,Low Price
+Cairo,Cairo,827,Mobile Zone 156,pharmacy,4.5,2111,High Price
+Sharqia,Zagazig,828,Nile Cafe 157,restaurant,4.3,2778,High Price
+Luxor,Luxor,829,Sky Restaurant 158,fast_food,4.0,2579,Low Price
+Luxor,Luxor,830,City Center 159,restaurant,3.9,627,Low Price
+Gharbia,Tanta,831,El Baraka 160,supermarket,4.1,551,Medium Price
+Port Said,Port Said,832,El Baraka 161,cafe,4.6,3048,Medium Price
+Giza,Giza,833,Style House 162,mobile_phone,3.5,2049,High Price
+Gharbia,Tanta,834,Fast Bite 163,fast_food,4.7,2598,Medium Price
+Sharqia,Zagazig,835,El Fath 164,pharmacy,3.8,2976,High Price
+Cairo,Cairo,836,El Salam 165,restaurant,4.8,926,Medium Price
+Gharbia,Tanta,837,Mobile Zone 166,supermarket,4.3,3349,High Price
+Gharbia,Tanta,838,El Baraka 167,mobile_phone,3.9,334,High Price
+Gharbia,Tanta,839,Royal Cafe 168,cafe,4.9,4805,Medium Price
+Assiut,Assiut,840,City Center 169,restaurant,4.4,480,High Price
+Alexandria,Alexandria,841,Style House 170,fast_food,4.7,4531,Medium Price
+Alexandria,Alexandria,842,Delta Shop 171,fast_food,4.8,3769,Medium Price
+Giza,Giza,843,El Hana 172,pharmacy,4.1,4558,High Price
+Giza,Giza,844,Happy Store 173,cafe,4.6,2284,Medium Price
+Aswan,Aswan,845,Taste Hub 174,supermarket,5.0,1966,Low Price
+Dakahlia,Mansoura,846,Style House 175,pharmacy,5.0,4168,High Price
+Dakahlia,Mansoura,847,City Center 176,mobile_phone,4.2,2487,High Price
+Luxor,Luxor,848,Style House 177,mobile_phone,4.1,3929,High Price
+Port Said,Port Said,849,Royal Cafe 178,restaurant,3.6,2713,High Price
+Luxor,Luxor,850,Fresh Mart 179,supermarket,3.6,1510,High Price
+Gharbia,Tanta,851,Green Market 180,fast_food,4.6,1444,Medium Price
+Luxor,Luxor,852,Royal Cafe 181,fast_food,4.5,383,Low Price
+Giza,Giza,853,Fresh Mart 182,mobile_phone,3.7,1893,High Price
+Assiut,Assiut,854,Happy Store 183,restaurant,4.0,2767,Low Price
+Sharqia,Zagazig,855,Al Noor 184,supermarket,4.9,3009,High Price
+Luxor,Luxor,856,Mobile Zone 185,mobile_phone,3.9,1310,High Price
+Giza,Giza,857,Royal Cafe 186,mobile_phone,4.7,374,High Price
+Dakahlia,Mansoura,858,Green Market 187,mobile_phone,4.4,2493,High Price
+Giza,Giza,859,Delta Shop 188,cafe,5.0,4362,Medium Price
+Luxor,Luxor,860,Sky Restaurant 189,pharmacy,3.8,165,High Price
+Cairo,Cairo,861,El Fath 190,supermarket,3.8,2475,Low Price
+Alexandria,Alexandria,862,El Fath 191,fast_food,4.5,2435,Low Price
+Alexandria,Alexandria,863,Delta Shop 192,clothes,4.3,981,Medium Price
+Assiut,Assiut,864,Royal Cafe 193,cafe,3.5,3366,Low Price
+Port Said,Port Said,865,Al Noor 194,supermarket,3.6,687,High Price
+Port Said,Port Said,866,Happy Store 195,supermarket,4.0,3281,Low Price
+Luxor,Luxor,867,Food Corner 196,clothes,4.2,2073,High Price
+Cairo,Cairo,868,Fresh Mart 197,mobile_phone,3.6,3489,High Price
+Alexandria,Alexandria,869,El Hana 198,mobile_phone,4.5,3391,High Price
+Aswan,Aswan,870,El Fath 199,pharmacy,4.8,2569,High Price
+Alexandria,Alexandria,871,Food Corner 200,restaurant,3.5,3144,Medium Price
