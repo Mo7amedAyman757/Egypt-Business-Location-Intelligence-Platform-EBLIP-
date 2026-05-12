@@ -1,0 +1,1617 @@
+Id_cost,governorate,city,category,item,avg_price_egp,min_price_egp,max_price_egp
+1,Sharqia,10th of Ramadan,Restaurants,Meal at an Inexpensive Restaurant,160,70,500
+2,Sharqia,10th of Ramadan,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",600,600,2500
+3,Sharqia,10th of Ramadan,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),225,200,350
+4,Sharqia,10th of Ramadan,Restaurants,Domestic Draft Beer (0.5 Liter),90,54,200
+5,Sharqia,10th of Ramadan,Restaurants,Imported Beer (0.33 Liter Bottle),150,100,250
+6,Sharqia,10th of Ramadan,Restaurants,Cappuccino (Regular Size),45,40,140
+7,Sharqia,10th of Ramadan,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",19.92,15,50
+8,Sharqia,10th of Ramadan,Restaurants,Bottled Water (0.33 Liter),5,5,20
+9,Sharqia,10th of Ramadan,Markets,"Milk (Regular, 1 Liter)",38.33,30,55
+10,Sharqia,10th of Ramadan,Markets,Fresh White Bread (500 g Loaf),25,10,47
+11,Sharqia,10th of Ramadan,Markets,White Rice (1 kg),28.33,20,40
+12,Sharqia,10th of Ramadan,Markets,"Eggs (12, Large Size)",76,36,108
+13,Sharqia,10th of Ramadan,Markets,Local Cheese (1 kg),178.33,50,300
+14,Sharqia,10th of Ramadan,Markets,Chicken Fillets (1 kg),210,200,375
+15,Sharqia,10th of Ramadan,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),428.33,400,550
+16,Sharqia,10th of Ramadan,Markets,Apples (1 kg),85,70,100
+17,Sharqia,10th of Ramadan,Markets,Bananas (1 kg),33.67,25,50
+18,Sharqia,10th of Ramadan,Markets,Oranges (1 kg),27,20,35
+19,Sharqia,10th of Ramadan,Markets,Tomatoes (1 kg),19.51,5,25
+20,Sharqia,10th of Ramadan,Markets,Potatoes (1 kg),22.27,10,45
+21,Sharqia,10th of Ramadan,Markets,Onions (1 kg),16.67,9,44.09
+22,Sharqia,10th of Ramadan,Markets,Lettuce (1 Head),9.2,5,30
+23,Sharqia,10th of Ramadan,Markets,Bottled Water (1.5 Liter),10,9,20
+24,Sharqia,10th of Ramadan,Markets,Bottle of Wine (Mid-Range),450,300,669
+25,Sharqia,10th of Ramadan,Markets,Domestic Beer (0.5 Liter Bottle),100,100,100
+26,Sharqia,10th of Ramadan,Markets,Imported Beer (0.33 Liter Bottle),92.5,65,120
+27,Sharqia,10th of Ramadan,Markets,"Cigarettes (Pack of 20, Marlboro)",95,85,110
+28,Sharqia,10th of Ramadan,Transportation,One-Way Ticket (Local Transport),10,10,10
+29,Sharqia,10th of Ramadan,Transportation,Taxi Start (Standard Tariff),20,20,60
+30,Sharqia,10th of Ramadan,Transportation,Taxi 1 km (Standard Tariff),9,5,30
+31,Sharqia,10th of Ramadan,Transportation,Taxi 1 Hour Waiting (Standard Tariff),40,40,300
+32,Sharqia,10th of Ramadan,Transportation,Gasoline (1 Liter),19.24,15,24
+33,Sharqia,10th of Ramadan,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1600000,1600000,1690000
+34,Sharqia,10th of Ramadan,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1300000,1150000,1650000
+35,Sharqia,10th of Ramadan,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",2221.49,1062.5,6000
+36,Sharqia,10th of Ramadan,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",260,260,1000
+37,Sharqia,10th of Ramadan,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",720.33,450,1200
+38,Sharqia,10th of Ramadan,Sports And Leisure,Cinema Ticket (International Release),170,150,200
+39,Sharqia,10th of Ramadan,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",8000,6000,13000
+40,Sharqia,10th of Ramadan,Childcare,"International Primary School, Annual Tuition per Child",100000,100000,500000
+41,Sharqia,10th of Ramadan,Clothing And Shoes,Jeans (Levi's 501 or Similar),700,700,3000
+42,Sharqia,10th of Ramadan,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1500,1500,3000
+43,Sharqia,10th of Ramadan,Clothing And Shoes,Nike Running Shoes (Mid-Range),6083.33,5000,7000
+44,Sharqia,10th of Ramadan,Clothing And Shoes,Men's Leather Business Shoes,3000,1000,5000
+45,Sharqia,10th of Ramadan,Rent Per Month,1 Bedroom Apartment in City Centre,3000,,
+46,Sharqia,10th of Ramadan,Rent Per Month,1 Bedroom Apartment Outside of City Centre,2500,,
+47,Sharqia,10th of Ramadan,Rent Per Month,3 Bedroom Apartment in City Centre,6333.33,5000,8000
+48,Sharqia,10th of Ramadan,Rent Per Month,3 Bedroom Apartment Outside of City Centre,4000,3000,5000
+49,Sharqia,10th of Ramadan,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,30000,,
+50,Sharqia,10th of Ramadan,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,15000,,
+51,Sharqia,10th of Ramadan,Salaries And Financing,Average Monthly Net Salary (After Tax),15000,,
+52,Sharqia,10th of Ramadan,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",11.4,9,15.2
+53,Cairo,New Cairo,Restaurants,Meal at an Inexpensive Restaurant,250,120,500
+54,Cairo,New Cairo,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,700,1000
+55,Cairo,New Cairo,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),240,230,250
+56,Cairo,New Cairo,Restaurants,Domestic Draft Beer (0.5 Liter),65,30,200
+57,Cairo,New Cairo,Restaurants,Imported Beer (0.33 Liter Bottle),120,100,200
+58,Cairo,New Cairo,Restaurants,Cappuccino (Regular Size),85,45,120
+59,Cairo,New Cairo,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",18.75,15,30
+60,Cairo,New Cairo,Restaurants,Bottled Water (0.33 Liter),8.71,6,10
+61,Cairo,New Cairo,Markets,"Milk (Regular, 1 Liter)",49,40,55
+62,Cairo,New Cairo,Markets,Fresh White Bread (500 g Loaf),32.5,15,50
+63,Cairo,New Cairo,Markets,White Rice (1 kg),38.28,29,40
+64,Cairo,New Cairo,Markets,"Eggs (12, Large Size)",72,54,96
+65,Cairo,New Cairo,Markets,Local Cheese (1 kg),214.65,100,350
+66,Cairo,New Cairo,Markets,Chicken Fillets (1 kg),212,150,250
+67,Cairo,New Cairo,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),460,400,510
+68,Cairo,New Cairo,Markets,Apples (1 kg),85,50,130
+69,Cairo,New Cairo,Markets,Bananas (1 kg),40.69,30,57
+70,Cairo,New Cairo,Markets,Oranges (1 kg),31.83,20,50
+71,Cairo,New Cairo,Markets,Tomatoes (1 kg),19.24,10,30
+72,Cairo,New Cairo,Markets,Potatoes (1 kg),18.54,10,30
+73,Cairo,New Cairo,Markets,Onions (1 kg),21.4,15,25
+74,Cairo,New Cairo,Markets,Lettuce (1 Head),22.5,10,25
+75,Cairo,New Cairo,Markets,Bottled Water (1.5 Liter),10.71,10,12
+76,Cairo,New Cairo,Markets,Bottle of Wine (Mid-Range),350,300,600
+77,Cairo,New Cairo,Markets,Domestic Beer (0.5 Liter Bottle),50,40,120
+78,Cairo,New Cairo,Markets,Imported Beer (0.33 Liter Bottle),109.41,60,160
+79,Cairo,New Cairo,Markets,"Cigarettes (Pack of 20, Marlboro)",100,95,120
+80,Cairo,New Cairo,Transportation,One-Way Ticket (Local Transport),20,20,25
+81,Cairo,New Cairo,Transportation,Monthly Public Transport Pass (Regular Price),500,,
+82,Cairo,New Cairo,Transportation,Taxi Start (Standard Tariff),17.5,10,20
+83,Cairo,New Cairo,Transportation,Taxi 1 km (Standard Tariff),11,8,25
+84,Cairo,New Cairo,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,30,100
+85,Cairo,New Cairo,Transportation,Gasoline (1 Liter),20.17,17,24
+86,Cairo,New Cairo,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1500000,1950000
+87,Cairo,New Cairo,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1216666.67,1150000,1600000
+88,Cairo,New Cairo,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1282.5,650,2000
+89,Cairo,New Cairo,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",358.28,100,1000
+90,Cairo,New Cairo,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",563.08,350,1200
+91,Cairo,New Cairo,Sports And Leisure,Monthly Fitness Club Membership,850,700,1000
+92,Cairo,New Cairo,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",300,200,400
+93,Cairo,New Cairo,Sports And Leisure,Cinema Ticket (International Release),150,120,300
+94,Cairo,New Cairo,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",1500,1500,8000
+95,Cairo,New Cairo,Childcare,"International Primary School, Annual Tuition per Child",40000,40000,485251.16
+96,Cairo,New Cairo,Clothing And Shoes,Jeans (Levi's 501 or Similar),1233.33,650,2500
+97,Cairo,New Cairo,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2277.27,1000,3000
+98,Cairo,New Cairo,Clothing And Shoes,Nike Running Shoes (Mid-Range),5375,3000,10000
+99,Cairo,New Cairo,Clothing And Shoes,Men's Leather Business Shoes,3166.67,1000,6000
+100,Cairo,New Cairo,Rent Per Month,1 Bedroom Apartment in City Centre,12666.67,3000,20000
+101,Cairo,New Cairo,Rent Per Month,1 Bedroom Apartment Outside of City Centre,8750,2500,15000
+102,Cairo,New Cairo,Rent Per Month,3 Bedroom Apartment in City Centre,17000,4000,30000
+103,Cairo,New Cairo,Rent Per Month,3 Bedroom Apartment Outside of City Centre,16600,2800,25000
+104,Cairo,New Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,40000,,
+105,Cairo,New Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,41500,30000,53000
+106,Cairo,New Cairo,Salaries And Financing,Average Monthly Net Salary (After Tax),6000,,
+107,Cairo,New Cairo,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",17.47,8,27.5
+108,Matruh,El Alamein,Restaurants,Meal at an Inexpensive Restaurant,250,150,500
+109,Matruh,El Alamein,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",750,700,950
+110,Matruh,El Alamein,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),160,150,200
+111,Matruh,El Alamein,Restaurants,Domestic Draft Beer (0.5 Liter),70,70,70
+112,Matruh,El Alamein,Restaurants,Cappuccino (Regular Size),72,30,120
+113,Matruh,El Alamein,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",18.75,15,20
+114,Matruh,El Alamein,Restaurants,Bottled Water (0.33 Liter),6,5,7
+115,Matruh,El Alamein,Markets,"Milk (Regular, 1 Liter)",49,35,55
+116,Matruh,El Alamein,Markets,Fresh White Bread (500 g Loaf),15.33,11,20
+117,Matruh,El Alamein,Markets,White Rice (1 kg),28.6,22,36
+118,Matruh,El Alamein,Markets,"Eggs (12, Large Size)",72,54,84
+119,Matruh,El Alamein,Markets,Local Cheese (1 kg),150,100,250
+120,Matruh,El Alamein,Markets,Chicken Fillets (1 kg),212,180,250
+121,Matruh,El Alamein,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),392.5,350,450
+122,Matruh,El Alamein,Markets,Apples (1 kg),85,25,150
+123,Matruh,El Alamein,Markets,Bananas (1 kg),35,25,57
+124,Matruh,El Alamein,Markets,Oranges (1 kg),25,20,25
+125,Matruh,El Alamein,Markets,Tomatoes (1 kg),18.33,10,25
+126,Matruh,El Alamein,Markets,Potatoes (1 kg),18.17,10,25
+127,Matruh,El Alamein,Markets,Onions (1 kg),21.4,15,25
+128,Matruh,El Alamein,Markets,Lettuce (1 Head),22.5,10,25
+129,Matruh,El Alamein,Markets,Bottled Water (1.5 Liter),10.71,10,12
+130,Matruh,El Alamein,Markets,"Cigarettes (Pack of 20, Marlboro)",112.5,100,125
+131,Matruh,El Alamein,Transportation,Taxi Start (Standard Tariff),17.5,9,20
+132,Matruh,El Alamein,Transportation,Taxi 1 km (Standard Tariff),25,15,30
+133,Matruh,El Alamein,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,50,50
+134,Matruh,El Alamein,Transportation,Gasoline (1 Liter),19.25,15,24
+135,Matruh,El Alamein,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1500000,1690000
+136,Matruh,El Alamein,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1216666.67,1150000,1250000
+137,Matruh,El Alamein,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1130,650,1700
+138,Matruh,El Alamein,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",212,100,1000
+139,Matruh,El Alamein,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",444,250,2050
+140,Matruh,El Alamein,Sports And Leisure,Cinema Ticket (International Release),150,120,200
+141,Matruh,El Alamein,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",1666.67,1666.67,1666.67
+142,Matruh,El Alamein,Clothing And Shoes,Jeans (Levi's 501 or Similar),860,400,2500
+143,Matruh,El Alamein,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2333.33,1000,3000
+144,Matruh,El Alamein,Clothing And Shoes,Nike Running Shoes (Mid-Range),5375,3000,10000
+145,Matruh,El Alamein,Clothing And Shoes,Men's Leather Business Shoes,4500,800,9000
+146,Matruh,El Alamein,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20,8,27
+147,North Sinai,Al Arish,Restaurants,Meal at an Inexpensive Restaurant,200,100,300
+148,North Sinai,Al Arish,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",700,500,3953.85
+149,North Sinai,Al Arish,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),245,200,300
+150,North Sinai,Al Arish,Restaurants,Domestic Draft Beer (0.5 Liter),77.5,50,150
+151,North Sinai,Al Arish,Restaurants,Imported Beer (0.33 Liter Bottle),150,95,210
+152,North Sinai,Al Arish,Restaurants,Cappuccino (Regular Size),68,30,150
+153,North Sinai,Al Arish,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",19.56,15,30
+154,North Sinai,Al Arish,Restaurants,Bottled Water (0.33 Liter),7.09,5,10
+155,North Sinai,Al Arish,Markets,"Milk (Regular, 1 Liter)",46.33,30,67
+156,North Sinai,Al Arish,Markets,Fresh White Bread (500 g Loaf),25,10,55
+157,North Sinai,Al Arish,Markets,White Rice (1 kg),35.12,23,50
+158,North Sinai,Al Arish,Markets,"Eggs (12, Large Size)",73.78,60,84
+159,North Sinai,Al Arish,Markets,Local Cheese (1 kg),135,50,200
+160,North Sinai,Al Arish,Markets,Chicken Fillets (1 kg),207.12,170,249
+161,North Sinai,Al Arish,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),410.83,350,495
+162,North Sinai,Al Arish,Markets,Apples (1 kg),80,30,100
+163,North Sinai,Al Arish,Markets,Bananas (1 kg),31.25,25,50
+164,North Sinai,Al Arish,Markets,Oranges (1 kg),21.67,10,30
+165,North Sinai,Al Arish,Markets,Tomatoes (1 kg),17.67,5,40
+166,North Sinai,Al Arish,Markets,Potatoes (1 kg),24,10,35
+167,North Sinai,Al Arish,Markets,Onions (1 kg),25,15,30
+168,North Sinai,Al Arish,Markets,Lettuce (1 Head),12.4,5,24
+169,North Sinai,Al Arish,Markets,Bottled Water (1.5 Liter),10,7,15
+170,North Sinai,Al Arish,Markets,Bottle of Wine (Mid-Range),225,200,250
+171,North Sinai,Al Arish,Markets,Domestic Beer (0.5 Liter Bottle),72.5,55,90
+172,North Sinai,Al Arish,Markets,Imported Beer (0.33 Liter Bottle),85,85,85
+173,North Sinai,Al Arish,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+174,North Sinai,Al Arish,Transportation,Taxi Start (Standard Tariff),15,15,50
+175,North Sinai,Al Arish,Transportation,Taxi 1 km (Standard Tariff),16,6,20
+176,North Sinai,Al Arish,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,100,100
+177,North Sinai,Al Arish,Transportation,Gasoline (1 Liter),18.54,13,24
+178,North Sinai,Al Arish,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1690000
+179,North Sinai,Al Arish,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1441666.67,1300000,1700000
+180,North Sinai,Al Arish,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",936.55,578,1342.11
+181,North Sinai,Al Arish,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",403.33,300,500
+182,North Sinai,Al Arish,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",1000,700,2000
+183,North Sinai,Al Arish,Sports And Leisure,Cinema Ticket (International Release),250,150,350
+184,North Sinai,Al Arish,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4833.33,3000,6000
+185,North Sinai,Al Arish,Childcare,"International Primary School, Annual Tuition per Child",123750,95000,150000
+186,North Sinai,Al Arish,Clothing And Shoes,Jeans (Levi's 501 or Similar),866.67,300,1000
+187,North Sinai,Al Arish,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),3125,1500,5000
+188,North Sinai,Al Arish,Clothing And Shoes,Nike Running Shoes (Mid-Range),4250,2500,15000
+189,North Sinai,Al Arish,Clothing And Shoes,Men's Leather Business Shoes,2575,1000,5000
+190,North Sinai,Al Arish,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20,15,25
+191,Giza,Al-hawamidiyah,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+192,Giza,Al-hawamidiyah,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+193,Giza,Al-hawamidiyah,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,200,250
+194,Giza,Al-hawamidiyah,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+195,Giza,Al-hawamidiyah,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+196,Giza,Al-hawamidiyah,Restaurants,Cappuccino (Regular Size),64.12,30,120
+197,Giza,Al-hawamidiyah,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+198,Giza,Al-hawamidiyah,Restaurants,Bottled Water (0.33 Liter),6.53,5,10
+199,Giza,Al-hawamidiyah,Markets,"Milk (Regular, 1 Liter)",43.93,38,50
+200,Giza,Al-hawamidiyah,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+201,Giza,Al-hawamidiyah,Markets,White Rice (1 kg),33.52,26,40
+202,Giza,Al-hawamidiyah,Markets,"Eggs (12, Large Size)",61.17,36,72
+203,Giza,Al-hawamidiyah,Markets,Local Cheese (1 kg),208.12,80,400
+204,Giza,Al-hawamidiyah,Markets,Chicken Fillets (1 kg),220.62,180,250
+205,Giza,Al-hawamidiyah,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),470.26,400,500
+206,Giza,Al-hawamidiyah,Markets,Apples (1 kg),72.11,40,90
+207,Giza,Al-hawamidiyah,Markets,Bananas (1 kg),33.82,25,50
+208,Giza,Al-hawamidiyah,Markets,Oranges (1 kg),22.69,10,35
+209,Giza,Al-hawamidiyah,Markets,Tomatoes (1 kg),17.04,10,25
+210,Giza,Al-hawamidiyah,Markets,Potatoes (1 kg),17.08,7,30
+211,Giza,Al-hawamidiyah,Markets,Onions (1 kg),18.57,10,30
+212,Giza,Al-hawamidiyah,Markets,Lettuce (1 Head),14,5,30
+213,Giza,Al-hawamidiyah,Markets,Bottled Water (1.5 Liter),10.12,8,12
+214,Giza,Al-hawamidiyah,Markets,Bottle of Wine (Mid-Range),300,150,500
+215,Giza,Al-hawamidiyah,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+216,Giza,Al-hawamidiyah,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+217,Giza,Al-hawamidiyah,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+218,Giza,Al-hawamidiyah,Transportation,Taxi Start (Standard Tariff),30,20,50
+219,Giza,Al-hawamidiyah,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+220,Giza,Al-hawamidiyah,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,100
+221,Giza,Al-hawamidiyah,Transportation,Gasoline (1 Liter),19.03,15,24
+222,Giza,Al-hawamidiyah,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+223,Giza,Al-hawamidiyah,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,1700000
+224,Giza,Al-hawamidiyah,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1000
+225,Giza,Al-hawamidiyah,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,500
+226,Giza,Al-hawamidiyah,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+227,Giza,Al-hawamidiyah,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+228,Giza,Al-hawamidiyah,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,5000
+229,Giza,Al-hawamidiyah,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,308505.74
+230,Giza,Al-hawamidiyah,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,3000
+231,Giza,Al-hawamidiyah,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,4000
+232,Giza,Al-hawamidiyah,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+233,Giza,Al-hawamidiyah,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,5000
+234,Giza,Al-hawamidiyah,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
+235,Alexandria,Alexandria,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+236,Alexandria,Alexandria,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+237,Alexandria,Alexandria,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,200,250
+238,Alexandria,Alexandria,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+239,Alexandria,Alexandria,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+240,Alexandria,Alexandria,Restaurants,Cappuccino (Regular Size),64.12,30,120
+241,Alexandria,Alexandria,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+242,Alexandria,Alexandria,Restaurants,Bottled Water (0.33 Liter),6.53,5,10
+243,Alexandria,Alexandria,Markets,"Milk (Regular, 1 Liter)",43.93,38,50
+244,Alexandria,Alexandria,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+245,Alexandria,Alexandria,Markets,White Rice (1 kg),33.52,26,40
+246,Alexandria,Alexandria,Markets,"Eggs (12, Large Size)",61.17,36,72
+247,Alexandria,Alexandria,Markets,Local Cheese (1 kg),208.12,80,400
+248,Alexandria,Alexandria,Markets,Chicken Fillets (1 kg),220.62,180,250
+249,Alexandria,Alexandria,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),470.26,400,500
+250,Alexandria,Alexandria,Markets,Apples (1 kg),72.11,40,90
+251,Alexandria,Alexandria,Markets,Bananas (1 kg),33.82,25,50
+252,Alexandria,Alexandria,Markets,Oranges (1 kg),22.69,10,35
+253,Alexandria,Alexandria,Markets,Tomatoes (1 kg),17.04,10,25
+254,Alexandria,Alexandria,Markets,Potatoes (1 kg),17.08,7,30
+255,Alexandria,Alexandria,Markets,Onions (1 kg),18.57,10,30
+256,Alexandria,Alexandria,Markets,Lettuce (1 Head),14,5,30
+257,Alexandria,Alexandria,Markets,Bottled Water (1.5 Liter),10.12,8,12
+258,Alexandria,Alexandria,Markets,Bottle of Wine (Mid-Range),300,150,500
+259,Alexandria,Alexandria,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+260,Alexandria,Alexandria,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+261,Alexandria,Alexandria,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+262,Alexandria,Alexandria,Transportation,One-Way Ticket (Local Transport),10,6.5,15
+263,Alexandria,Alexandria,Transportation,Monthly Public Transport Pass (Regular Price),700,,
+264,Alexandria,Alexandria,Transportation,Taxi Start (Standard Tariff),30,20,50
+265,Alexandria,Alexandria,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+266,Alexandria,Alexandria,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,100
+267,Alexandria,Alexandria,Transportation,Gasoline (1 Liter),19.03,15,24
+268,Alexandria,Alexandria,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+269,Alexandria,Alexandria,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,1700000
+270,Alexandria,Alexandria,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1000
+271,Alexandria,Alexandria,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,500
+272,Alexandria,Alexandria,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+273,Alexandria,Alexandria,Sports And Leisure,Monthly Fitness Club Membership,655.88,250,1500
+274,Alexandria,Alexandria,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",385.71,250,500
+275,Alexandria,Alexandria,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+276,Alexandria,Alexandria,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,5000
+277,Alexandria,Alexandria,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,308661.93
+278,Alexandria,Alexandria,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,3000
+279,Alexandria,Alexandria,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,4000
+280,Alexandria,Alexandria,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+281,Alexandria,Alexandria,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,5000
+282,Alexandria,Alexandria,Rent Per Month,1 Bedroom Apartment in City Centre,6769.23,5000,15000
+283,Alexandria,Alexandria,Rent Per Month,1 Bedroom Apartment Outside of City Centre,3722.22,3000,5000
+284,Alexandria,Alexandria,Rent Per Month,3 Bedroom Apartment in City Centre,14272.73,10000,35000
+285,Alexandria,Alexandria,Rent Per Month,3 Bedroom Apartment Outside of City Centre,7269.23,5000,10000
+286,Alexandria,Alexandria,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,36428.57,25000,50000
+287,Alexandria,Alexandria,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,23200,11000,50000
+288,Alexandria,Alexandria,Salaries And Financing,Average Monthly Net Salary (After Tax),6606.25,,
+289,Alexandria,Alexandria,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
+290,Aswan,Aswan,Restaurants,Meal at an Inexpensive Restaurant,250,200,250
+291,Aswan,Aswan,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",430,400,500
+292,Aswan,Aswan,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),190,160,220
+293,Aswan,Aswan,Restaurants,Cappuccino (Regular Size),47.5,30,65
+294,Aswan,Aswan,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",18,,
+295,Aswan,Aswan,Restaurants,Bottled Water (0.33 Liter),5,5,5
+296,Aswan,Aswan,Transportation,One-Way Ticket (Local Transport),15,,
+297,Aswan,Aswan,Transportation,Taxi Start (Standard Tariff),30,,
+298,Aswan,Aswan,Transportation,Taxi 1 Hour Waiting (Standard Tariff),250,,
+299,Aswan,Aswan,Transportation,Gasoline (1 Liter),21,,
+300,Aswan,Aswan,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",100,,
+301,Aswan,Aswan,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",500,,
+302,Aswan,Aswan,Sports And Leisure,Monthly Fitness Club Membership,300,,
+303,Aswan,Aswan,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",250,,
+304,Aswan,Aswan,Sports And Leisure,Cinema Ticket (International Release),50,,
+305,Assiut,Assiut,Restaurants,Meal at an Inexpensive Restaurant,125,100,150
+306,Assiut,Assiut,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",400,,
+307,Assiut,Assiut,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),220,,
+308,Assiut,Assiut,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",15,15,15
+309,Assiut,Assiut,Restaurants,Bottled Water (0.33 Liter),8.67,5,15
+310,Assiut,Assiut,Markets,"Milk (Regular, 1 Liter)",35,20,50
+311,Assiut,Assiut,Markets,Fresh White Bread (500 g Loaf),39,30,48
+312,Assiut,Assiut,Markets,White Rice (1 kg),32.33,25,40
+313,Assiut,Assiut,Markets,"Eggs (12, Large Size)",64,42,72
+314,Assiut,Assiut,Markets,Local Cheese (1 kg),140,140,140
+315,Assiut,Assiut,Markets,Chicken Fillets (1 kg),143.33,120,160
+316,Assiut,Assiut,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),426.67,420,440
+317,Assiut,Assiut,Markets,Apples (1 kg),61.67,45,80
+318,Assiut,Assiut,Markets,Bananas (1 kg),31.67,30,35
+319,Assiut,Assiut,Markets,Oranges (1 kg),31.67,30,35
+320,Assiut,Assiut,Markets,Tomatoes (1 kg),24.33,8,50
+321,Assiut,Assiut,Markets,Potatoes (1 kg),16,8,25
+322,Assiut,Assiut,Markets,Onions (1 kg),15.67,10,25
+323,Assiut,Assiut,Markets,Lettuce (1 Head),11.67,5,20
+324,Assiut,Assiut,Markets,Bottled Water (1.5 Liter),10,,
+325,Assiut,Assiut,Markets,Domestic Beer (0.5 Liter Bottle),65,,
+326,Assiut,Assiut,Markets,"Cigarettes (Pack of 20, Marlboro)",90,,
+327,Assiut,Assiut,Transportation,One-Way Ticket (Local Transport),5.5,5,6
+328,Assiut,Assiut,Transportation,Monthly Public Transport Pass (Regular Price),600,,
+329,Assiut,Assiut,Transportation,Taxi Start (Standard Tariff),20,15,25
+330,Assiut,Assiut,Transportation,Taxi 1 km (Standard Tariff),20,20,20
+331,Assiut,Assiut,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,,
+332,Assiut,Assiut,Transportation,Gasoline (1 Liter),22,20,24
+333,Assiut,Assiut,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",750,,
+334,Assiut,Assiut,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",350,300,400
+335,Assiut,Assiut,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",950,,
+336,Assiut,Assiut,Sports And Leisure,Monthly Fitness Club Membership,700,500,900
+337,Assiut,Assiut,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",240,,
+338,Assiut,Assiut,Sports And Leisure,Cinema Ticket (International Release),125,100,150
+339,Assiut,Assiut,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",3500,,
+340,Assiut,Assiut,Childcare,"International Primary School, Annual Tuition per Child",35000,25000,45000
+341,Assiut,Assiut,Clothing And Shoes,Jeans (Levi's 501 or Similar),600,,
+342,Assiut,Assiut,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1200,,
+343,Assiut,Assiut,Clothing And Shoes,Nike Running Shoes (Mid-Range),3000,,
+344,Assiut,Assiut,Clothing And Shoes,Men's Leather Business Shoes,2500,,
+345,Assiut,Assiut,Rent Per Month,1 Bedroom Apartment in City Centre,5000,,
+346,Assiut,Assiut,Rent Per Month,1 Bedroom Apartment Outside of City Centre,4000,,
+347,Assiut,Assiut,Rent Per Month,3 Bedroom Apartment in City Centre,9000,,
+348,Assiut,Assiut,Rent Per Month,3 Bedroom Apartment Outside of City Centre,7000,,
+349,Assiut,Assiut,Salaries And Financing,Average Monthly Net Salary (After Tax),6000,,
+350,Assiut,Assiut,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",10,,
+351,Qalyubia,Banha,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+352,Qalyubia,Banha,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",500,412,1500
+353,Qalyubia,Banha,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),225,200,250
+354,Qalyubia,Banha,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+355,Qalyubia,Banha,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+356,Qalyubia,Banha,Restaurants,Cappuccino (Regular Size),40,30,120
+357,Qalyubia,Banha,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,30
+358,Qalyubia,Banha,Restaurants,Bottled Water (0.33 Liter),6.53,5,10
+359,Qalyubia,Banha,Markets,"Milk (Regular, 1 Liter)",43.93,38,50
+360,Qalyubia,Banha,Markets,Fresh White Bread (500 g Loaf),10,10,120
+361,Qalyubia,Banha,Markets,White Rice (1 kg),33.52,26,41
+362,Qalyubia,Banha,Markets,"Eggs (12, Large Size)",61.17,36,72
+363,Qalyubia,Banha,Markets,Local Cheese (1 kg),80,80,400
+364,Qalyubia,Banha,Markets,Chicken Fillets (1 kg),220.62,180,250
+365,Qalyubia,Banha,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),300,300,500
+366,Qalyubia,Banha,Markets,Apples (1 kg),72.11,40,90
+367,Qalyubia,Banha,Markets,Bananas (1 kg),33.82,25,50
+368,Qalyubia,Banha,Markets,Oranges (1 kg),20,10,35
+369,Qalyubia,Banha,Markets,Tomatoes (1 kg),17.04,10,25
+370,Qalyubia,Banha,Markets,Potatoes (1 kg),17.08,7,30
+371,Qalyubia,Banha,Markets,Onions (1 kg),18.57,10,30
+372,Qalyubia,Banha,Markets,Lettuce (1 Head),14,5,30
+373,Qalyubia,Banha,Markets,Bottled Water (1.5 Liter),10.12,8,15
+374,Qalyubia,Banha,Markets,Bottle of Wine (Mid-Range),300,150,500
+375,Qalyubia,Banha,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+376,Qalyubia,Banha,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+377,Qalyubia,Banha,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+378,Qalyubia,Banha,Transportation,One-Way Ticket (Local Transport),13,,
+379,Qalyubia,Banha,Transportation,Taxi Start (Standard Tariff),30,20,50
+380,Qalyubia,Banha,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+381,Qalyubia,Banha,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,100
+382,Qalyubia,Banha,Transportation,Gasoline (1 Liter),19.03,15,24
+383,Qalyubia,Banha,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+384,Qalyubia,Banha,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,1700000
+385,Qalyubia,Banha,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",600,470,1000
+386,Qalyubia,Banha,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",147.5,120,500
+387,Qalyubia,Banha,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+388,Qalyubia,Banha,Sports And Leisure,Monthly Fitness Club Membership,566.67,200,1000
+389,Qalyubia,Banha,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+390,Qalyubia,Banha,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,5000
+391,Qalyubia,Banha,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,308661.93
+392,Qalyubia,Banha,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,3000
+393,Qalyubia,Banha,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,4000
+394,Qalyubia,Banha,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+395,Qalyubia,Banha,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,5000
+396,Qalyubia,Banha,Rent Per Month,1 Bedroom Apartment in City Centre,6000,,
+397,Qalyubia,Banha,Rent Per Month,1 Bedroom Apartment Outside of City Centre,4000,,
+398,Qalyubia,Banha,Rent Per Month,3 Bedroom Apartment in City Centre,6666.67,4000,10000
+399,Qalyubia,Banha,Rent Per Month,3 Bedroom Apartment Outside of City Centre,4333.33,3000,6000
+400,Qalyubia,Banha,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,50000,,
+401,Qalyubia,Banha,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,25000,,
+402,Qalyubia,Banha,Salaries And Financing,Average Monthly Net Salary (After Tax),7666.67,,
+403,Qalyubia,Banha,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",16,14,24
+404,Qalyubia,Banha,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+405,Qalyubia,Banha,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",600,500,1500
+406,Qalyubia,Banha,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),150,150,250
+407,Qalyubia,Banha,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+408,Qalyubia,Banha,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+409,Qalyubia,Banha,Restaurants,Cappuccino (Regular Size),25,25,120
+410,Qalyubia,Banha,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,25
+411,Qalyubia,Banha,Restaurants,Bottled Water (0.33 Liter),5,5,10
+412,Qalyubia,Banha,Markets,"Milk (Regular, 1 Liter)",43.93,38,50
+413,Qalyubia,Banha,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+414,Qalyubia,Banha,Markets,White Rice (1 kg),33.52,26,40
+415,Qalyubia,Banha,Markets,"Eggs (12, Large Size)",61.17,36,120
+416,Qalyubia,Banha,Markets,Local Cheese (1 kg),100,80,400
+417,Qalyubia,Banha,Markets,Chicken Fillets (1 kg),220.62,180,250
+418,Qalyubia,Banha,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),470.26,400,500
+419,Qalyubia,Banha,Markets,Apples (1 kg),72.11,40,90
+420,Qalyubia,Banha,Markets,Bananas (1 kg),25,25,50
+421,Qalyubia,Banha,Markets,Oranges (1 kg),22.69,10,35
+422,Qalyubia,Banha,Markets,Tomatoes (1 kg),17.04,10,25
+423,Qalyubia,Banha,Markets,Potatoes (1 kg),17.08,7,30
+424,Qalyubia,Banha,Markets,Onions (1 kg),18.57,10,30
+425,Qalyubia,Banha,Markets,Lettuce (1 Head),14,5,30
+426,Qalyubia,Banha,Markets,Bottled Water (1.5 Liter),10.12,8,12
+427,Qalyubia,Banha,Markets,Bottle of Wine (Mid-Range),300,150,500
+428,Qalyubia,Banha,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+429,Qalyubia,Banha,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+430,Qalyubia,Banha,Markets,"Cigarettes (Pack of 20, Marlboro)",70,60,150
+431,Qalyubia,Banha,Transportation,Taxi Start (Standard Tariff),30,20,50
+432,Qalyubia,Banha,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+433,Qalyubia,Banha,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,50,100
+434,Qalyubia,Banha,Transportation,Gasoline (1 Liter),19.03,15,24
+435,Qalyubia,Banha,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+436,Qalyubia,Banha,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1400000,1200000,1700000
+437,Qalyubia,Banha,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1000
+438,Qalyubia,Banha,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",120,120,500
+439,Qalyubia,Banha,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+440,Qalyubia,Banha,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+441,Qalyubia,Banha,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,5000
+442,Qalyubia,Banha,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,720000
+443,Qalyubia,Banha,Clothing And Shoes,Jeans (Levi's 501 or Similar),350,350,3000
+444,Qalyubia,Banha,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),600,600,4000
+445,Qalyubia,Banha,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+446,Qalyubia,Banha,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,5000
+447,Qalyubia,Banha,Rent Per Month,3 Bedroom Apartment in City Centre,7500,,
+448,Qalyubia,Banha,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
+449,Beni Suef,Beni Suef,Restaurants,Meal at an Inexpensive Restaurant,185,120,500
+450,Beni Suef,Beni Suef,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+451,Beni Suef,Beni Suef,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),245,200,250
+452,Beni Suef,Beni Suef,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,120
+453,Beni Suef,Beni Suef,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+454,Beni Suef,Beni Suef,Restaurants,Cappuccino (Regular Size),40,30,120
+455,Beni Suef,Beni Suef,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+456,Beni Suef,Beni Suef,Restaurants,Bottled Water (0.33 Liter),6.5,3,10
+457,Beni Suef,Beni Suef,Markets,"Milk (Regular, 1 Liter)",41,38,50
+458,Beni Suef,Beni Suef,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+459,Beni Suef,Beni Suef,Markets,White Rice (1 kg),23,23,40
+460,Beni Suef,Beni Suef,Markets,"Eggs (12, Large Size)",61.17,36,72
+461,Beni Suef,Beni Suef,Markets,Local Cheese (1 kg),208.12,80,400
+462,Beni Suef,Beni Suef,Markets,Chicken Fillets (1 kg),175,175,250
+463,Beni Suef,Beni Suef,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),340,340,500
+464,Beni Suef,Beni Suef,Markets,Apples (1 kg),65,40,90
+465,Beni Suef,Beni Suef,Markets,Bananas (1 kg),30,25,50
+466,Beni Suef,Beni Suef,Markets,Oranges (1 kg),22.69,10,35
+467,Beni Suef,Beni Suef,Markets,Tomatoes (1 kg),17.04,10,25
+468,Beni Suef,Beni Suef,Markets,Potatoes (1 kg),8,7,30
+469,Beni Suef,Beni Suef,Markets,Onions (1 kg),18.57,10,30
+470,Beni Suef,Beni Suef,Markets,Lettuce (1 Head),5,5,30
+471,Beni Suef,Beni Suef,Markets,Bottled Water (1.5 Liter),10,8,12
+472,Beni Suef,Beni Suef,Markets,Bottle of Wine (Mid-Range),300,150,500
+473,Beni Suef,Beni Suef,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+474,Beni Suef,Beni Suef,Markets,Imported Beer (0.33 Liter Bottle),120,45,160
+475,Beni Suef,Beni Suef,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+476,Beni Suef,Beni Suef,Transportation,One-Way Ticket (Local Transport),14.5,4,25
+477,Beni Suef,Beni Suef,Transportation,Taxi Start (Standard Tariff),18.5,17,50
+478,Beni Suef,Beni Suef,Transportation,Taxi 1 km (Standard Tariff),18.5,10,30
+479,Beni Suef,Beni Suef,Transportation,Taxi 1 Hour Waiting (Standard Tariff),30,30,100
+480,Beni Suef,Beni Suef,Transportation,Gasoline (1 Liter),18,15,24
+481,Beni Suef,Beni Suef,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+482,Beni Suef,Beni Suef,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1400000,1200000,1700000
+483,Beni Suef,Beni Suef,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1020
+484,Beni Suef,Beni Suef,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",320,150,500
+485,Beni Suef,Beni Suef,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+486,Beni Suef,Beni Suef,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+487,Beni Suef,Beni Suef,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,10000
+488,Beni Suef,Beni Suef,Childcare,"International Primary School, Annual Tuition per Child",90000,70000,308661.93
+489,Beni Suef,Beni Suef,Clothing And Shoes,Jeans (Levi's 501 or Similar),600,600,3000
+490,Beni Suef,Beni Suef,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1750,800,4000
+491,Beni Suef,Beni Suef,Clothing And Shoes,Nike Running Shoes (Mid-Range),4500,3500,12000
+492,Beni Suef,Beni Suef,Clothing And Shoes,Men's Leather Business Shoes,2500,700,5000
+493,Beni Suef,Beni Suef,Rent Per Month,1 Bedroom Apartment in City Centre,3750,2500,5000
+494,Beni Suef,Beni Suef,Rent Per Month,1 Bedroom Apartment Outside of City Centre,2000,1500,2500
+495,Beni Suef,Beni Suef,Rent Per Month,3 Bedroom Apartment in City Centre,6750,4500,9000
+496,Beni Suef,Beni Suef,Rent Per Month,3 Bedroom Apartment Outside of City Centre,4500,3000,6000
+497,Beni Suef,Beni Suef,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,27500,25000,30000
+498,Beni Suef,Beni Suef,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,13750,12500,15000
+499,Beni Suef,Beni Suef,Salaries And Financing,Average Monthly Net Salary (After Tax),6166.67,,
+500,Beni Suef,Beni Suef,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",17,14,24
+501,Cairo,Cairo,Restaurants,Meal at an Inexpensive Restaurant,250,100,600
+502,Cairo,Cairo,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",1500,750,3000
+503,Cairo,Cairo,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),300,250,350
+504,Cairo,Cairo,Restaurants,Domestic Draft Beer (0.5 Liter),100,55,200
+505,Cairo,Cairo,Restaurants,Imported Beer (0.33 Liter Bottle),120,100,200
+506,Cairo,Cairo,Restaurants,Cappuccino (Regular Size),95.38,45,150
+507,Cairo,Cairo,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",18.64,15,30
+508,Cairo,Cairo,Restaurants,Bottled Water (0.33 Liter),8.71,6,15
+509,Cairo,Cairo,Markets,"Milk (Regular, 1 Liter)",48.51,40,55
+510,Cairo,Cairo,Markets,Fresh White Bread (500 g Loaf),36.54,20,100
+511,Cairo,Cairo,Markets,White Rice (1 kg),38.28,29,45
+512,Cairo,Cairo,Markets,"Eggs (12, Large Size)",68.55,54,96
+513,Cairo,Cairo,Markets,Local Cheese (1 kg),214.65,100,450
+514,Cairo,Cairo,Markets,Chicken Fillets (1 kg),241.05,120,350
+515,Cairo,Cairo,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),468.62,400,550
+516,Cairo,Cairo,Markets,Apples (1 kg),96.01,50,130
+517,Cairo,Cairo,Markets,Bananas (1 kg),40.69,30,58
+518,Cairo,Cairo,Markets,Oranges (1 kg),31.83,15,50
+519,Cairo,Cairo,Markets,Tomatoes (1 kg),19.24,8,35
+520,Cairo,Cairo,Markets,Potatoes (1 kg),18.54,10,30
+521,Cairo,Cairo,Markets,Onions (1 kg),20.72,12,33.07
+522,Cairo,Cairo,Markets,Lettuce (1 Head),15.16,5,22
+523,Cairo,Cairo,Markets,Bottled Water (1.5 Liter),10.93,9,15
+524,Cairo,Cairo,Markets,Bottle of Wine (Mid-Range),400,300,600
+525,Cairo,Cairo,Markets,Domestic Beer (0.5 Liter Bottle),71.46,40,120
+526,Cairo,Cairo,Markets,Imported Beer (0.33 Liter Bottle),109.41,60,160
+527,Cairo,Cairo,Markets,"Cigarettes (Pack of 20, Marlboro)",100,95,115
+528,Cairo,Cairo,Transportation,One-Way Ticket (Local Transport),18,15,25
+529,Cairo,Cairo,Transportation,Monthly Public Transport Pass (Regular Price),400,300,800
+530,Cairo,Cairo,Transportation,Taxi Start (Standard Tariff),20,15,50
+531,Cairo,Cairo,Transportation,Taxi 1 km (Standard Tariff),11,8,25
+532,Cairo,Cairo,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,30,100
+533,Cairo,Cairo,Transportation,Gasoline (1 Liter),20.76,18,24
+534,Cairo,Cairo,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1500000,1950000
+535,Cairo,Cairo,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1451578.95,1300000,1600000
+536,Cairo,Cairo,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1282.5,700,2000
+537,Cairo,Cairo,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",358.28,200,600
+538,Cairo,Cairo,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",563.08,350,1000
+539,Cairo,Cairo,Sports And Leisure,Monthly Fitness Club Membership,1156.09,400,3000
+540,Cairo,Cairo,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",350,200,500
+541,Cairo,Cairo,Sports And Leisure,Cinema Ticket (International Release),200,150,350
+542,Cairo,Cairo,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",5324.56,2916.67,8000
+543,Cairo,Cairo,Childcare,"International Primary School, Annual Tuition per Child",144791.67,75000,485251.16
+544,Cairo,Cairo,Clothing And Shoes,Jeans (Levi's 501 or Similar),1876.19,650,4000
+545,Cairo,Cairo,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2277.27,1000,3000
+546,Cairo,Cairo,Clothing And Shoes,Nike Running Shoes (Mid-Range),5825,3000,10000
+547,Cairo,Cairo,Clothing And Shoes,Men's Leather Business Shoes,3166.67,1500,6000
+548,Cairo,Cairo,Rent Per Month,1 Bedroom Apartment in City Centre,11550.75,6000,20000
+549,Cairo,Cairo,Rent Per Month,1 Bedroom Apartment Outside of City Centre,9205.88,5000,20000
+550,Cairo,Cairo,Rent Per Month,3 Bedroom Apartment in City Centre,25000,14000,50000
+551,Cairo,Cairo,Rent Per Month,3 Bedroom Apartment Outside of City Centre,15695.65,9000,33000
+552,Cairo,Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,43333.33,25000,100000
+553,Cairo,Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,25000,15000,40000
+554,Cairo,Cairo,Salaries And Financing,Average Monthly Net Salary (After Tax),9218.36,,
+555,Cairo,Cairo,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",17.47,8,27.5
+556,South Sinai,Dahab,Restaurants,Meal at an Inexpensive Restaurant,200,200,500
+557,South Sinai,Dahab,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",700,550,1000
+558,South Sinai,Dahab,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,250,250
+559,South Sinai,Dahab,Restaurants,Domestic Draft Beer (0.5 Liter),100,50,150
+560,South Sinai,Dahab,Restaurants,Imported Beer (0.33 Liter Bottle),125,100,150
+561,South Sinai,Dahab,Restaurants,Cappuccino (Regular Size),81.67,65,100
+562,South Sinai,Dahab,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",25,20,30
+563,South Sinai,Dahab,Restaurants,Bottled Water (0.33 Liter),13.67,6,20
+564,South Sinai,Dahab,Markets,"Milk (Regular, 1 Liter)",52,49,55
+565,South Sinai,Dahab,Markets,Fresh White Bread (500 g Loaf),60,50,70
+566,South Sinai,Dahab,Markets,White Rice (1 kg),37.5,35,40
+567,South Sinai,Dahab,Markets,"Eggs (12, Large Size)",70,60,78
+568,South Sinai,Dahab,Markets,Local Cheese (1 kg),550,,
+569,South Sinai,Dahab,Markets,Chicken Fillets (1 kg),200,150,250
+570,South Sinai,Dahab,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),550,,
+571,South Sinai,Dahab,Markets,Apples (1 kg),120,90,150
+572,South Sinai,Dahab,Markets,Bananas (1 kg),77.5,40,115
+573,South Sinai,Dahab,Markets,Oranges (1 kg),35,,
+574,South Sinai,Dahab,Markets,Tomatoes (1 kg),30,,
+575,South Sinai,Dahab,Markets,Potatoes (1 kg),30,,
+576,South Sinai,Dahab,Markets,Onions (1 kg),30,,
+577,South Sinai,Dahab,Markets,Lettuce (1 Head),45,,
+578,South Sinai,Dahab,Markets,Bottled Water (1.5 Liter),10,10,10
+579,South Sinai,Dahab,Markets,Bottle of Wine (Mid-Range),350,,
+580,South Sinai,Dahab,Markets,Domestic Beer (0.5 Liter Bottle),85,,
+581,South Sinai,Dahab,Markets,"Cigarettes (Pack of 20, Marlboro)",80,,
+582,South Sinai,Dahab,Transportation,One-Way Ticket (Local Transport),10,,
+583,South Sinai,Dahab,Transportation,Monthly Public Transport Pass (Regular Price),400,,
+584,South Sinai,Dahab,Transportation,Taxi Start (Standard Tariff),40,30,50
+585,South Sinai,Dahab,Transportation,Gasoline (1 Liter),21,17,24
+586,South Sinai,Dahab,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",950,400,1500
+587,South Sinai,Dahab,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",350,350,350
+588,South Sinai,Dahab,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",925,500,1350
+589,South Sinai,Dahab,Sports And Leisure,Monthly Fitness Club Membership,800,600,1000
+590,South Sinai,Dahab,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",500,,
+591,South Sinai,Dahab,Sports And Leisure,Cinema Ticket (International Release),250,,
+592,South Sinai,Dahab,Rent Per Month,1 Bedroom Apartment in City Centre,10000,5000,15000
+593,South Sinai,Dahab,Rent Per Month,1 Bedroom Apartment Outside of City Centre,6750,3500,10000
+594,South Sinai,Dahab,Rent Per Month,3 Bedroom Apartment in City Centre,27500,20000,35000
+595,South Sinai,Dahab,Rent Per Month,3 Bedroom Apartment Outside of City Centre,16500,15000,18000
+596,South Sinai,Dahab,Salaries And Financing,Average Monthly Net Salary (After Tax),7000,,
+597,Beheira,Damanhur,Restaurants,Meal at an Inexpensive Restaurant,129,100,600
+598,Beheira,Damanhur,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",500,500,3000
+599,Beheira,Damanhur,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),190,180,350
+600,Beheira,Damanhur,Restaurants,Domestic Draft Beer (0.5 Liter),40,40,200
+601,Beheira,Damanhur,Restaurants,Imported Beer (0.33 Liter Bottle),80,80,200
+602,Beheira,Damanhur,Restaurants,Cappuccino (Regular Size),43.33,25,150
+603,Beheira,Damanhur,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",15.67,10,30
+604,Beheira,Damanhur,Restaurants,Bottled Water (0.33 Liter),5.75,5,15
+605,Beheira,Damanhur,Markets,"Milk (Regular, 1 Liter)",48.51,25,75
+606,Beheira,Damanhur,Markets,Fresh White Bread (500 g Loaf),36.54,20,100
+607,Beheira,Damanhur,Markets,White Rice (1 kg),25,25,45
+608,Beheira,Damanhur,Markets,"Eggs (12, Large Size)",54,36,96
+609,Beheira,Damanhur,Markets,Local Cheese (1 kg),200,100,450
+610,Beheira,Damanhur,Markets,Chicken Fillets (1 kg),163.33,120,350
+611,Beheira,Damanhur,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),416.67,400,550
+612,Beheira,Damanhur,Markets,Apples (1 kg),50,50,130
+613,Beheira,Damanhur,Markets,Bananas (1 kg),40,30,58
+614,Beheira,Damanhur,Markets,Oranges (1 kg),27.5,15,50
+615,Beheira,Damanhur,Markets,Tomatoes (1 kg),19.24,8,35
+616,Beheira,Damanhur,Markets,Potatoes (1 kg),15,10,30
+617,Beheira,Damanhur,Markets,Onions (1 kg),17.5,12,33.07
+618,Beheira,Damanhur,Markets,Lettuce (1 Head),10,5,22
+619,Beheira,Damanhur,Markets,Bottled Water (1.5 Liter),10.93,9,20
+620,Beheira,Damanhur,Markets,Bottle of Wine (Mid-Range),400,300,600
+621,Beheira,Damanhur,Markets,Domestic Beer (0.5 Liter Bottle),60,40,120
+622,Beheira,Damanhur,Markets,Imported Beer (0.33 Liter Bottle),109.41,60,160
+623,Beheira,Damanhur,Markets,"Cigarettes (Pack of 20, Marlboro)",100,95,115
+624,Beheira,Damanhur,Transportation,Monthly Public Transport Pass (Regular Price),450,,
+625,Beheira,Damanhur,Transportation,Taxi Start (Standard Tariff),15,15,50
+626,Beheira,Damanhur,Transportation,Taxi 1 km (Standard Tariff),11,8,25
+627,Beheira,Damanhur,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,30,100
+628,Beheira,Damanhur,Transportation,Gasoline (1 Liter),20.76,17,24
+629,Beheira,Damanhur,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1500000,1950000
+630,Beheira,Damanhur,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1451578.95,1300000,1600000
+631,Beheira,Damanhur,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",900,600,2000
+632,Beheira,Damanhur,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",300,200,600
+633,Beheira,Damanhur,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",563.08,350,1000
+634,Beheira,Damanhur,Sports And Leisure,Monthly Fitness Club Membership,325,300,350
+635,Beheira,Damanhur,Sports And Leisure,Cinema Ticket (International Release),200,150,350
+636,Beheira,Damanhur,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",5324.56,2916.67,8000
+637,Beheira,Damanhur,Childcare,"International Primary School, Annual Tuition per Child",144791.67,75000,485005.6
+638,Beheira,Damanhur,Clothing And Shoes,Jeans (Levi's 501 or Similar),1876.19,650,4000
+639,Beheira,Damanhur,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2277.27,1000,3000
+640,Beheira,Damanhur,Clothing And Shoes,Nike Running Shoes (Mid-Range),5825,3000,10000
+641,Beheira,Damanhur,Clothing And Shoes,Men's Leather Business Shoes,3166.67,1500,6000
+642,Beheira,Damanhur,Rent Per Month,1 Bedroom Apartment in City Centre,3000,3000,3000
+643,Beheira,Damanhur,Rent Per Month,1 Bedroom Apartment Outside of City Centre,1750,1500,2000
+644,Beheira,Damanhur,Rent Per Month,3 Bedroom Apartment in City Centre,5250,5000,5500
+645,Beheira,Damanhur,Rent Per Month,3 Bedroom Apartment Outside of City Centre,3000,3000,3000
+646,Beheira,Damanhur,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,25000,,
+647,Beheira,Damanhur,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,10000,,
+648,Beheira,Damanhur,Salaries And Financing,Average Monthly Net Salary (After Tax),6000,,
+649,Beheira,Damanhur,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",17.47,8,27.5
+650,Damietta,Damietta,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+651,Damietta,Damietta,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",600,500,1500
+652,Damietta,Damietta,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,200,300
+653,Damietta,Damietta,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,150
+654,Damietta,Damietta,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,350
+655,Damietta,Damietta,Restaurants,Cappuccino (Regular Size),57.5,15,120
+656,Damietta,Damietta,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+657,Damietta,Damietta,Restaurants,Bottled Water (0.33 Liter),6.53,5,12
+658,Damietta,Damietta,Markets,"Milk (Regular, 1 Liter)",34.5,28,50
+659,Damietta,Damietta,Markets,Fresh White Bread (500 g Loaf),16.67,10,120
+660,Damietta,Damietta,Markets,White Rice (1 kg),33.52,26,40
+661,Damietta,Damietta,Markets,"Eggs (12, Large Size)",61.17,36,72
+662,Damietta,Damietta,Markets,Local Cheese (1 kg),96,65,400
+663,Damietta,Damietta,Markets,Chicken Fillets (1 kg),146.25,80,250
+664,Damietta,Damietta,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),430,380,500
+665,Damietta,Damietta,Markets,Apples (1 kg),70.83,40,90
+666,Damietta,Damietta,Markets,Bananas (1 kg),32,25,50
+667,Damietta,Damietta,Markets,Oranges (1 kg),20,10,50
+668,Damietta,Damietta,Markets,Tomatoes (1 kg),17.04,6,40
+669,Damietta,Damietta,Markets,Potatoes (1 kg),17.08,7,30
+670,Damietta,Damietta,Markets,Onions (1 kg),11.75,5,30
+671,Damietta,Damietta,Markets,Lettuce (1 Head),13.75,5,30
+672,Damietta,Damietta,Markets,Bottled Water (1.5 Liter),10.12,5,15
+673,Damietta,Damietta,Markets,Bottle of Wine (Mid-Range),300,150,1000
+674,Damietta,Damietta,Markets,Domestic Beer (0.5 Liter Bottle),66,50,120
+675,Damietta,Damietta,Markets,Imported Beer (0.33 Liter Bottle),100,45,160
+676,Damietta,Damietta,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+677,Damietta,Damietta,Transportation,One-Way Ticket (Local Transport),4.75,4.5,5
+678,Damietta,Damietta,Transportation,Monthly Public Transport Pass (Regular Price),217.39,,
+679,Damietta,Damietta,Transportation,Taxi Start (Standard Tariff),20,11.5,50
+680,Damietta,Damietta,Transportation,Taxi 1 km (Standard Tariff),15,10,30
+681,Damietta,Damietta,Transportation,Taxi 1 Hour Waiting (Standard Tariff),20,20,100
+682,Damietta,Damietta,Transportation,Gasoline (1 Liter),18.31,13,24
+683,Damietta,Damietta,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1272500,1250000,1800000
+684,Damietta,Damietta,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1500000,1200000,2000000
+685,Damietta,Damietta,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,2500
+686,Damietta,Damietta,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335,150,500
+687,Damietta,Damietta,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,200,2000
+688,Damietta,Damietta,Sports And Leisure,Monthly Fitness Club Membership,966.67,300,2000
+689,Damietta,Damietta,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",333.33,200,500
+690,Damietta,Damietta,Sports And Leisure,Cinema Ticket (International Release),150,100,300
+691,Damietta,Damietta,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",1875,750,5000
+692,Damietta,Damietta,Childcare,"International Primary School, Annual Tuition per Child",48333.33,20000,308661.93
+693,Damietta,Damietta,Clothing And Shoes,Jeans (Levi's 501 or Similar),766.67,500,3000
+694,Damietta,Damietta,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1350,700,4000
+695,Damietta,Damietta,Clothing And Shoes,Nike Running Shoes (Mid-Range),4000,2000,12000
+696,Damietta,Damietta,Clothing And Shoes,Men's Leather Business Shoes,1000,700,5000
+697,Damietta,Damietta,Rent Per Month,1 Bedroom Apartment in City Centre,1750,1500,2000
+698,Damietta,Damietta,Rent Per Month,1 Bedroom Apartment Outside of City Centre,1100,1000,1200
+699,Damietta,Damietta,Rent Per Month,3 Bedroom Apartment in City Centre,6000,6000,6000
+700,Damietta,Damietta,Rent Per Month,3 Bedroom Apartment Outside of City Centre,4250,3500,5000
+701,Damietta,Damietta,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,50000,,
+702,Damietta,Damietta,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,35000,,
+703,Damietta,Damietta,Salaries And Financing,Average Monthly Net Salary (After Tax),6500,,
+704,Damietta,Damietta,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",8,8,24
+705,Dakahlia,Dikirnis,Markets,"Milk (Regular, 1 Liter)",30,,
+706,Dakahlia,Dikirnis,Markets,Fresh White Bread (500 g Loaf),50,,
+707,Dakahlia,Dikirnis,Markets,White Rice (1 kg),40,,
+708,Dakahlia,Dikirnis,Markets,"Eggs (12, Large Size)",72,,
+709,Dakahlia,Dikirnis,Markets,Local Cheese (1 kg),200,,
+710,Dakahlia,Dikirnis,Markets,Chicken Fillets (1 kg),200,,
+711,Dakahlia,Dikirnis,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),400,,
+712,Dakahlia,Dikirnis,Markets,Apples (1 kg),80,,
+713,Dakahlia,Dikirnis,Markets,Bananas (1 kg),30,,
+714,Dakahlia,Dikirnis,Markets,Oranges (1 kg),30,,
+715,Dakahlia,Dikirnis,Markets,Tomatoes (1 kg),30,,
+716,Dakahlia,Dikirnis,Markets,Potatoes (1 kg),30,,
+717,Dakahlia,Dikirnis,Markets,Onions (1 kg),30,,
+718,Dakahlia,Dikirnis,Markets,Lettuce (1 Head),50,,
+719,Dakahlia,Dikirnis,Markets,Bottled Water (1.5 Liter),10,,
+720,Dakahlia,Dikirnis,Transportation,One-Way Ticket (Local Transport),20,,
+721,Dakahlia,Dikirnis,Transportation,Taxi 1 Hour Waiting (Standard Tariff),300,,
+722,Dakahlia,Dikirnis,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1000,,
+723,Dakahlia,Dikirnis,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",300,,
+724,Dakahlia,Dikirnis,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",600,,
+725,Dakahlia,Dikirnis,Sports And Leisure,Monthly Fitness Club Membership,1000,,
+726,Dakahlia,Dikirnis,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",2000,,
+727,Dakahlia,Dikirnis,Childcare,"International Primary School, Annual Tuition per Child",22000,,
+728,Dakahlia,Dikirnis,Rent Per Month,3 Bedroom Apartment in City Centre,5000,,
+729,Dakahlia,Dikirnis,Salaries And Financing,Average Monthly Net Salary (After Tax),7000,,
+730,Fayoum,Fayoum,Restaurants,Meal at an Inexpensive Restaurant,120,120,500
+731,Fayoum,Fayoum,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",700,500,1500
+732,Fayoum,Fayoum,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,180,350
+733,Fayoum,Fayoum,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,50,200
+734,Fayoum,Fayoum,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,400
+735,Fayoum,Fayoum,Restaurants,Cappuccino (Regular Size),62.5,30,120
+736,Fayoum,Fayoum,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+737,Fayoum,Fayoum,Restaurants,Bottled Water (0.33 Liter),6.53,5,10
+738,Fayoum,Fayoum,Markets,"Milk (Regular, 1 Liter)",37.5,30,50
+739,Fayoum,Fayoum,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+740,Fayoum,Fayoum,Markets,White Rice (1 kg),33.52,23,40
+741,Fayoum,Fayoum,Markets,"Eggs (12, Large Size)",61.17,36,72
+742,Fayoum,Fayoum,Markets,Local Cheese (1 kg),153.33,80,400
+743,Fayoum,Fayoum,Markets,Chicken Fillets (1 kg),220.62,175,300
+744,Fayoum,Fayoum,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),416.67,270,500
+745,Fayoum,Fayoum,Markets,Apples (1 kg),72.11,25,160
+746,Fayoum,Fayoum,Markets,Bananas (1 kg),33.82,20,50
+747,Fayoum,Fayoum,Markets,Oranges (1 kg),22.69,10,60
+748,Fayoum,Fayoum,Markets,Tomatoes (1 kg),17.04,10,49
+749,Fayoum,Fayoum,Markets,Potatoes (1 kg),17.08,7,39
+750,Fayoum,Fayoum,Markets,Onions (1 kg),18.57,10,30
+751,Fayoum,Fayoum,Markets,Lettuce (1 Head),14,5,40
+752,Fayoum,Fayoum,Markets,Bottled Water (1.5 Liter),10.12,8,12
+753,Fayoum,Fayoum,Markets,Bottle of Wine (Mid-Range),300,120,600
+754,Fayoum,Fayoum,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+755,Fayoum,Fayoum,Markets,Imported Beer (0.33 Liter Bottle),113.33,45,160
+756,Fayoum,Fayoum,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+757,Fayoum,Fayoum,Transportation,One-Way Ticket (Local Transport),3,3,12
+758,Fayoum,Fayoum,Transportation,Monthly Public Transport Pass (Regular Price),300,,
+759,Fayoum,Fayoum,Transportation,Taxi Start (Standard Tariff),22.5,20,50
+760,Fayoum,Fayoum,Transportation,Taxi 1 km (Standard Tariff),15,10,30
+761,Fayoum,Fayoum,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,50,80
+762,Fayoum,Fayoum,Transportation,Gasoline (1 Liter),17.5,13.5,24
+763,Fayoum,Fayoum,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,3000000
+764,Fayoum,Fayoum,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,2000000
+765,Fayoum,Fayoum,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1700
+766,Fayoum,Fayoum,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,800
+767,Fayoum,Fayoum,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1700
+768,Fayoum,Fayoum,Sports And Leisure,Monthly Fitness Club Membership,1266.67,300,2600
+769,Fayoum,Fayoum,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",1300,,
+770,Fayoum,Fayoum,Sports And Leisure,Cinema Ticket (International Release),120,100,150
+771,Fayoum,Fayoum,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",1300,1250,5000
+772,Fayoum,Fayoum,Childcare,"International Primary School, Annual Tuition per Child",45000,30000,308505.74
+773,Fayoum,Fayoum,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,3000
+774,Fayoum,Fayoum,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,10000
+775,Fayoum,Fayoum,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+776,Fayoum,Fayoum,Clothing And Shoes,Men's Leather Business Shoes,2366.67,600,5000
+777,Fayoum,Fayoum,Rent Per Month,1 Bedroom Apartment in City Centre,9333.33,6500,15000
+778,Fayoum,Fayoum,Rent Per Month,1 Bedroom Apartment Outside of City Centre,4333.33,2500,8000
+779,Fayoum,Fayoum,Rent Per Month,3 Bedroom Apartment in City Centre,16666.67,15000,20000
+780,Fayoum,Fayoum,Rent Per Month,3 Bedroom Apartment Outside of City Centre,9333.33,8000,12000
+781,Fayoum,Fayoum,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,21333.33,17000,30000
+782,Fayoum,Fayoum,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,10666.67,8000,16000
+783,Fayoum,Fayoum,Salaries And Financing,Average Monthly Net Salary (After Tax),3666.67,,
+784,Fayoum,Fayoum,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",6,6,24
+785,Gharbia,Mahalla,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+786,Gharbia,Mahalla,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",750,500,1500
+787,Gharbia,Mahalla,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),160,150,250
+788,Gharbia,Mahalla,Restaurants,Domestic Draft Beer (0.5 Liter),70,60,110
+789,Gharbia,Mahalla,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+790,Gharbia,Mahalla,Restaurants,Cappuccino (Regular Size),64.12,30,120
+791,Gharbia,Mahalla,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+792,Gharbia,Mahalla,Restaurants,Bottled Water (0.33 Liter),6,5,10
+793,Gharbia,Mahalla,Markets,"Milk (Regular, 1 Liter)",43.93,35,55
+794,Gharbia,Mahalla,Markets,Fresh White Bread (500 g Loaf),15.33,11,120
+795,Gharbia,Mahalla,Markets,White Rice (1 kg),28.6,22,40
+796,Gharbia,Mahalla,Markets,"Eggs (12, Large Size)",61.17,36,84
+797,Gharbia,Mahalla,Markets,Local Cheese (1 kg),150,80,400
+798,Gharbia,Mahalla,Markets,Chicken Fillets (1 kg),212,180,250
+799,Gharbia,Mahalla,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),392.5,350,500
+800,Gharbia,Mahalla,Markets,Apples (1 kg),72.11,25,150
+801,Gharbia,Mahalla,Markets,Bananas (1 kg),33.82,25,57
+802,Gharbia,Mahalla,Markets,Oranges (1 kg),22.69,10,35
+803,Gharbia,Mahalla,Markets,Tomatoes (1 kg),17.04,10,25
+804,Gharbia,Mahalla,Markets,Potatoes (1 kg),17.08,7,30
+805,Gharbia,Mahalla,Markets,Onions (1 kg),18.57,10,30
+806,Gharbia,Mahalla,Markets,Lettuce (1 Head),14,5,30
+807,Gharbia,Mahalla,Markets,Bottled Water (1.5 Liter),10.12,8,12
+808,Gharbia,Mahalla,Markets,Bottle of Wine (Mid-Range),300,150,500
+809,Gharbia,Mahalla,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+810,Gharbia,Mahalla,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+811,Gharbia,Mahalla,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+812,Gharbia,Mahalla,Transportation,Taxi Start (Standard Tariff),17.5,9,50
+813,Gharbia,Mahalla,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+814,Gharbia,Mahalla,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,50,100
+815,Gharbia,Mahalla,Transportation,Gasoline (1 Liter),19.03,15,24
+816,Gharbia,Mahalla,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1500000,1800000
+817,Gharbia,Mahalla,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1216666.67,1150000,1700000
+818,Gharbia,Mahalla,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1700
+819,Gharbia,Mahalla,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",212,100,1000
+820,Gharbia,Mahalla,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",444,250,2050
+821,Gharbia,Mahalla,Sports And Leisure,Cinema Ticket (International Release),150,100,200
+822,Gharbia,Mahalla,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",1666.67,1666.67,5000
+823,Gharbia,Mahalla,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,308661.93
+824,Gharbia,Mahalla,Clothing And Shoes,Jeans (Levi's 501 or Similar),860,400,3000
+825,Gharbia,Mahalla,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,4000
+826,Gharbia,Mahalla,Clothing And Shoes,Nike Running Shoes (Mid-Range),5375,3000,12000
+827,Gharbia,Mahalla,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,9000
+828,Gharbia,Mahalla,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20,8,27
+829,Cairo,Obour,Restaurants,Meal at an Inexpensive Restaurant,250,180,500
+830,Cairo,Obour,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",1250,800,1700
+831,Cairo,Obour,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),375,300,450
+832,Cairo,Obour,Restaurants,Domestic Draft Beer (0.5 Liter),45,,
+833,Cairo,Obour,Restaurants,Cappuccino (Regular Size),80,70,90
+834,Cairo,Obour,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",15.33,9,20
+835,Cairo,Obour,Restaurants,Bottled Water (0.33 Liter),7.67,6,10
+836,Cairo,Obour,Markets,"Milk (Regular, 1 Liter)",51.5,48,55
+837,Cairo,Obour,Markets,Fresh White Bread (500 g Loaf),20,,
+838,Cairo,Obour,Markets,White Rice (1 kg),35,,
+839,Cairo,Obour,Markets,"Eggs (12, Large Size)",68,64,72
+840,Cairo,Obour,Markets,Local Cheese (1 kg),235.74,231.49,240
+841,Cairo,Obour,Markets,Chicken Fillets (1 kg),220,190,250
+842,Cairo,Obour,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),505,,
+843,Cairo,Obour,Markets,Bottled Water (1.5 Liter),8,,
+844,Cairo,Obour,Markets,"Cigarettes (Pack of 20, Marlboro)",112.5,105,120
+845,Cairo,Obour,Transportation,Gasoline (1 Liter),20.62,19,22.25
+846,Cairo,Obour,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),2000000,,
+847,Cairo,Obour,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1800000,,
+848,Cairo,Obour,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1888.89,,
+849,Cairo,Obour,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",870,240,1500
+850,Cairo,Obour,Childcare,"International Primary School, Annual Tuition per Child",120000,,
+851,Cairo,Obour,Clothing And Shoes,Jeans (Levi's 501 or Similar),1500,,
+852,Cairo,Obour,Clothing And Shoes,Nike Running Shoes (Mid-Range),3500,,
+853,Giza,Giza,Restaurants,Meal at an Inexpensive Restaurant,200,100,300
+854,Giza,Giza,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",700,500,3955.85
+855,Giza,Giza,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),245,200,300
+856,Giza,Giza,Restaurants,Domestic Draft Beer (0.5 Liter),77.5,50,150
+857,Giza,Giza,Restaurants,Imported Beer (0.33 Liter Bottle),150,95,210
+858,Giza,Giza,Restaurants,Cappuccino (Regular Size),68,30,150
+859,Giza,Giza,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",19.56,15,30
+860,Giza,Giza,Restaurants,Bottled Water (0.33 Liter),7.09,5,10
+861,Giza,Giza,Markets,"Milk (Regular, 1 Liter)",46.33,30,67
+862,Giza,Giza,Markets,Fresh White Bread (500 g Loaf),25,10,55
+863,Giza,Giza,Markets,White Rice (1 kg),35.12,23,50
+864,Giza,Giza,Markets,"Eggs (12, Large Size)",73.78,60,84
+865,Giza,Giza,Markets,Local Cheese (1 kg),135,50,200
+866,Giza,Giza,Markets,Chicken Fillets (1 kg),207.12,170,249
+867,Giza,Giza,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),410.83,350,495
+868,Giza,Giza,Markets,Apples (1 kg),80,30,100
+869,Giza,Giza,Markets,Bananas (1 kg),31.25,25,50
+870,Giza,Giza,Markets,Oranges (1 kg),21.67,10,30
+871,Giza,Giza,Markets,Tomatoes (1 kg),17.67,5,40
+872,Giza,Giza,Markets,Potatoes (1 kg),24,10,35
+873,Giza,Giza,Markets,Onions (1 kg),25,15,30
+874,Giza,Giza,Markets,Lettuce (1 Head),12.4,5,24
+875,Giza,Giza,Markets,Bottled Water (1.5 Liter),10,7,15
+876,Giza,Giza,Markets,Bottle of Wine (Mid-Range),225,200,250
+877,Giza,Giza,Markets,Domestic Beer (0.5 Liter Bottle),72.5,55,90
+878,Giza,Giza,Markets,Imported Beer (0.33 Liter Bottle),85,,
+879,Giza,Giza,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+880,Giza,Giza,Transportation,One-Way Ticket (Local Transport),15,10,20
+881,Giza,Giza,Transportation,Monthly Public Transport Pass (Regular Price),101,,
+882,Giza,Giza,Transportation,Taxi Start (Standard Tariff),15,15,50
+883,Giza,Giza,Transportation,Taxi 1 km (Standard Tariff),16,6,20
+884,Giza,Giza,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,,
+885,Giza,Giza,Transportation,Gasoline (1 Liter),18.54,13,24
+886,Giza,Giza,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1690000
+887,Giza,Giza,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1441666.67,1300000,1700000
+888,Giza,Giza,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",936.55,578,1342.11
+889,Giza,Giza,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",403.33,300,500
+890,Giza,Giza,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",1000,700,2000
+891,Giza,Giza,Sports And Leisure,Monthly Fitness Club Membership,891.67,500,1250
+892,Giza,Giza,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",366.67,300,400
+893,Giza,Giza,Sports And Leisure,Cinema Ticket (International Release),250,150,350
+894,Giza,Giza,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4833.33,3000,6000
+895,Giza,Giza,Childcare,"International Primary School, Annual Tuition per Child",123750,95000,150000
+896,Giza,Giza,Clothing And Shoes,Jeans (Levi's 501 or Similar),866.67,300,1000
+897,Giza,Giza,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),3125,1500,5000
+898,Giza,Giza,Clothing And Shoes,Nike Running Shoes (Mid-Range),4250,2500,15000
+899,Giza,Giza,Clothing And Shoes,Men's Leather Business Shoes,2575,1000,5000
+900,Giza,Giza,Rent Per Month,1 Bedroom Apartment in City Centre,7375,5000,15000
+901,Giza,Giza,Rent Per Month,1 Bedroom Apartment Outside of City Centre,4700,3800,8000
+902,Giza,Giza,Rent Per Month,3 Bedroom Apartment in City Centre,18700,9500,35000
+903,Giza,Giza,Rent Per Month,3 Bedroom Apartment Outside of City Centre,8000,6000,10000
+904,Giza,Giza,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,41250,30000,60000
+905,Giza,Giza,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,62500,15000,200000
+906,Giza,Giza,Salaries And Financing,Average Monthly Net Salary (After Tax),6625,,
+907,Giza,Giza,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20,15,25
+908,Red Sea,Hurghada,Restaurants,Meal at an Inexpensive Restaurant,205,125,311.01
+909,Red Sea,Hurghada,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",2000,1000,4354.12
+910,Red Sea,Hurghada,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),300,300,435.41
+911,Red Sea,Hurghada,Restaurants,Domestic Draft Beer (0.5 Liter),112.2,60,186.61
+912,Red Sea,Hurghada,Restaurants,Imported Beer (0.33 Liter Bottle),165.8,90,186.61
+913,Red Sea,Hurghada,Restaurants,Cappuccino (Regular Size),98.94,15,200
+914,Red Sea,Hurghada,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",26.53,15,62.2
+915,Red Sea,Hurghada,Restaurants,Bottled Water (0.33 Liter),8.74,5,15
+916,Red Sea,Hurghada,Markets,"Milk (Regular, 1 Liter)",50.19,46,52.74
+917,Red Sea,Hurghada,Markets,Fresh White Bread (500 g Loaf),31.22,10,60.66
+918,Red Sea,Hurghada,Markets,White Rice (1 kg),33.25,23,100
+919,Red Sea,Hurghada,Markets,"Eggs (12, Large Size)",100.37,64,144
+920,Red Sea,Hurghada,Markets,Local Cheese (1 kg),155.2,50,400
+921,Red Sea,Hurghada,Markets,Chicken Fillets (1 kg),300.37,190,400
+922,Red Sea,Hurghada,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),506.86,480,527.45
+923,Red Sea,Hurghada,Markets,Apples (1 kg),76.33,52.74,86
+924,Red Sea,Hurghada,Markets,Bananas (1 kg),26.46,20,30
+925,Red Sea,Hurghada,Markets,Oranges (1 kg),22.33,15.82,25
+926,Red Sea,Hurghada,Markets,Tomatoes (1 kg),21.25,13,42.2
+927,Red Sea,Hurghada,Markets,Potatoes (1 kg),18.75,9,30
+928,Red Sea,Hurghada,Markets,Onions (1 kg),20.2,9,42.2
+929,Red Sea,Hurghada,Markets,Lettuce (1 Head),14.71,10,15.82
+930,Red Sea,Hurghada,Markets,Bottled Water (1.5 Liter),9.25,6,10.55
+931,Red Sea,Hurghada,Markets,Bottle of Wine (Mid-Range),388.72,250,527.45
+932,Red Sea,Hurghada,Markets,Domestic Beer (0.5 Liter Bottle),64.73,40,94.19
+933,Red Sea,Hurghada,Markets,Imported Beer (0.33 Liter Bottle),92.97,65.93,120
+934,Red Sea,Hurghada,Markets,"Cigarettes (Pack of 20, Marlboro)",115,85,130
+935,Red Sea,Hurghada,Transportation,One-Way Ticket (Local Transport),9,5,50
+936,Red Sea,Hurghada,Transportation,Monthly Public Transport Pass (Regular Price),300,,
+937,Red Sea,Hurghada,Transportation,Taxi Start (Standard Tariff),50,,
+938,Red Sea,Hurghada,Transportation,Taxi 1 km (Standard Tariff),10.25,10,10.5
+939,Red Sea,Hurghada,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,,
+940,Red Sea,Hurghada,Transportation,Gasoline (1 Liter),20.31,17,24
+941,Red Sea,Hurghada,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1690000
+942,Red Sea,Hurghada,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1150000,1150000,1150000
+943,Red Sea,Hurghada,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1202.02,566.67,2445.44
+944,Red Sea,Hurghada,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",414.36,100,527.45
+945,Red Sea,Hurghada,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",492.23,310,1100
+946,Red Sea,Hurghada,Sports And Leisure,Monthly Fitness Club Membership,1423.03,1000,1846.06
+947,Red Sea,Hurghada,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",330.5,311.01,350
+948,Red Sea,Hurghada,Sports And Leisure,Cinema Ticket (International Release),180.49,150,210.98
+949,Red Sea,Hurghada,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",5274.47,,
+950,Red Sea,Hurghada,Childcare,"International Primary School, Annual Tuition per Child",31646.81,,
+951,Red Sea,Hurghada,Clothing And Shoes,Jeans (Levi's 501 or Similar),1074.01,622.02,1700
+952,Red Sea,Hurghada,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1750,1000,2500
+953,Red Sea,Hurghada,Clothing And Shoes,Men's Leather Business Shoes,1500,,
+954,Red Sea,Hurghada,Rent Per Month,1 Bedroom Apartment in City Centre,11477.93,6000,20000
+955,Red Sea,Hurghada,Rent Per Month,1 Bedroom Apartment Outside of City Centre,6233.8,5000,10548.94
+956,Red Sea,Hurghada,Rent Per Month,3 Bedroom Apartment in City Centre,12653.55,4500,18460.64
+957,Red Sea,Hurghada,Rent Per Month,3 Bedroom Apartment Outside of City Centre,24411.7,10000,35000
+958,Red Sea,Hurghada,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,28607.8,15823.41,35000
+959,Red Sea,Hurghada,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,32124.12,26372.35,40000
+960,Red Sea,Hurghada,Salaries And Financing,Average Monthly Net Salary (After Tax),8000,,
+961,Cairo,Cairo,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+962,Cairo,Cairo,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+963,Cairo,Cairo,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,200,250
+964,Cairo,Cairo,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+965,Cairo,Cairo,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+966,Cairo,Cairo,Restaurants,Cappuccino (Regular Size),64.12,30,120
+967,Cairo,Cairo,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+968,Cairo,Cairo,Restaurants,Bottled Water (0.33 Liter),6.53,5,10
+969,Cairo,Cairo,Markets,"Milk (Regular, 1 Liter)",32,32,50
+970,Cairo,Cairo,Markets,Fresh White Bread (500 g Loaf),10,10,120
+971,Cairo,Cairo,Markets,White Rice (1 kg),33.52,26,40
+972,Cairo,Cairo,Markets,"Eggs (12, Large Size)",61.17,36,72
+973,Cairo,Cairo,Markets,Local Cheese (1 kg),75,75,400
+974,Cairo,Cairo,Markets,Chicken Fillets (1 kg),160,160,250
+975,Cairo,Cairo,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),350,350,500
+976,Cairo,Cairo,Markets,Apples (1 kg),72.11,40,90
+977,Cairo,Cairo,Markets,Bananas (1 kg),25,25,50
+978,Cairo,Cairo,Markets,Oranges (1 kg),20,10,35
+979,Cairo,Cairo,Markets,Tomatoes (1 kg),10,10,25
+980,Cairo,Cairo,Markets,Potatoes (1 kg),17.08,7,30
+981,Cairo,Cairo,Markets,Onions (1 kg),18.57,10,35
+982,Cairo,Cairo,Markets,Lettuce (1 Head),5,5,30
+983,Cairo,Cairo,Markets,Bottled Water (1.5 Liter),10,8,12
+984,Cairo,Cairo,Markets,Bottle of Wine (Mid-Range),100,100,500
+985,Cairo,Cairo,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+986,Cairo,Cairo,Markets,Imported Beer (0.33 Liter Bottle),100,45,160
+987,Cairo,Cairo,Markets,"Cigarettes (Pack of 20, Marlboro)",90,80,150
+988,Cairo,Cairo,Transportation,One-Way Ticket (Local Transport),12,,
+989,Cairo,Cairo,Transportation,Monthly Public Transport Pass (Regular Price),750,,
+990,Cairo,Cairo,Transportation,Taxi Start (Standard Tariff),12,12,50
+991,Cairo,Cairo,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+992,Cairo,Cairo,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,100
+993,Cairo,Cairo,Transportation,Gasoline (1 Liter),12,12,24
+994,Cairo,Cairo,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+995,Cairo,Cairo,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,1700000
+996,Cairo,Cairo,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1000
+997,Cairo,Cairo,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,500
+998,Cairo,Cairo,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+999,Cairo,Cairo,Sports And Leisure,Monthly Fitness Club Membership,1000,,
+1000,Cairo,Cairo,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+1001,Cairo,Cairo,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",1200,1200,5000
+1002,Cairo,Cairo,Childcare,"International Primary School, Annual Tuition per Child",50000,50000,308661.93
+1003,Cairo,Cairo,Clothing And Shoes,Jeans (Levi's 501 or Similar),800,600,3000
+1004,Cairo,Cairo,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1000,800,4000
+1005,Cairo,Cairo,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+1006,Cairo,Cairo,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,5000
+1007,Cairo,Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,10000,,
+1008,Cairo,Cairo,Salaries And Financing,Average Monthly Net Salary (After Tax),5000,,
+1009,Cairo,Cairo,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
+1010,Ismailia,Ismailia,Restaurants,Meal at an Inexpensive Restaurant,175,60,500
+1011,Ismailia,Ismailia,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+1012,Ismailia,Ismailia,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),200,200,250
+1013,Ismailia,Ismailia,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+1014,Ismailia,Ismailia,Restaurants,Imported Beer (0.33 Liter Bottle),100,90,200
+1015,Ismailia,Ismailia,Restaurants,Cappuccino (Regular Size),56.67,30,120
+1016,Ismailia,Ismailia,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+1017,Ismailia,Ismailia,Restaurants,Bottled Water (0.33 Liter),6.53,5,10
+1018,Ismailia,Ismailia,Markets,"Milk (Regular, 1 Liter)",43.93,35,50
+1019,Ismailia,Ismailia,Markets,Fresh White Bread (500 g Loaf),20,20,120
+1020,Ismailia,Ismailia,Markets,White Rice (1 kg),31.67,25,40
+1021,Ismailia,Ismailia,Markets,"Eggs (12, Large Size)",61.17,36,72
+1022,Ismailia,Ismailia,Markets,Local Cheese (1 kg),193.33,80,400
+1023,Ismailia,Ismailia,Markets,Chicken Fillets (1 kg),220,150,290
+1024,Ismailia,Ismailia,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),383.33,350,500
+1025,Ismailia,Ismailia,Markets,Apples (1 kg),72.11,40,110
+1026,Ismailia,Ismailia,Markets,Bananas (1 kg),28.33,20,50
+1027,Ismailia,Ismailia,Markets,Oranges (1 kg),21.67,10,35
+1028,Ismailia,Ismailia,Markets,Tomatoes (1 kg),17.04,10,25
+1029,Ismailia,Ismailia,Markets,Potatoes (1 kg),17.08,7,30
+1030,Ismailia,Ismailia,Markets,Onions (1 kg),18.57,10,30
+1031,Ismailia,Ismailia,Markets,Lettuce (1 Head),12,5,30
+1032,Ismailia,Ismailia,Markets,Bottled Water (1.5 Liter),10,8,12
+1033,Ismailia,Ismailia,Markets,Bottle of Wine (Mid-Range),300,150,500
+1034,Ismailia,Ismailia,Markets,Domestic Beer (0.5 Liter Bottle),55,50,90
+1035,Ismailia,Ismailia,Markets,Imported Beer (0.33 Liter Bottle),100,45,160
+1036,Ismailia,Ismailia,Markets,"Cigarettes (Pack of 20, Marlboro)",100,70,150
+1037,Ismailia,Ismailia,Transportation,One-Way Ticket (Local Transport),13,6,20
+1038,Ismailia,Ismailia,Transportation,Monthly Public Transport Pass (Regular Price),200,,
+1039,Ismailia,Ismailia,Transportation,Taxi Start (Standard Tariff),20,12,50
+1040,Ismailia,Ismailia,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+1041,Ismailia,Ismailia,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,500
+1042,Ismailia,Ismailia,Transportation,Gasoline (1 Liter),19.03,15,24
+1043,Ismailia,Ismailia,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1500000,1500000,1800000
+1044,Ismailia,Ismailia,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),800000,800000,1700000
+1045,Ismailia,Ismailia,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1758.62
+1046,Ismailia,Ismailia,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,1200
+1047,Ismailia,Ismailia,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",400,200,1000
+1048,Ismailia,Ismailia,Sports And Leisure,Monthly Fitness Club Membership,533.33,400,700
+1049,Ismailia,Ismailia,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",1000,,
+1050,Ismailia,Ismailia,Sports And Leisure,Cinema Ticket (International Release),100,50,150
+1051,Ismailia,Ismailia,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",3500,2000,5000
+1052,Ismailia,Ismailia,Childcare,"International Primary School, Annual Tuition per Child",62500,25000,308661.93
+1053,Ismailia,Ismailia,Clothing And Shoes,Jeans (Levi's 501 or Similar),700,300,3000
+1054,Ismailia,Ismailia,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),500,500,4000
+1055,Ismailia,Ismailia,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+1056,Ismailia,Ismailia,Clothing And Shoes,Men's Leather Business Shoes,1500,700,5000
+1057,Ismailia,Ismailia,Rent Per Month,1 Bedroom Apartment in City Centre,4166.67,3500,5000
+1058,Ismailia,Ismailia,Rent Per Month,1 Bedroom Apartment Outside of City Centre,1666.67,1000,2000
+1059,Ismailia,Ismailia,Rent Per Month,3 Bedroom Apartment in City Centre,6500,5000,7500
+1060,Ismailia,Ismailia,Rent Per Month,3 Bedroom Apartment Outside of City Centre,4000,3000,5000
+1061,Ismailia,Ismailia,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,25000,,
+1062,Ismailia,Ismailia,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,7000,4000,10000
+1063,Ismailia,Ismailia,Salaries And Financing,Average Monthly Net Salary (After Tax),5500,,
+1064,Ismailia,Ismailia,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
+1065,Kafr El Sheikh,Kafr El Sheikh,Restaurants,Meal at an Inexpensive Restaurant,160,100,300
+1066,Kafr El Sheikh,Kafr El Sheikh,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",450,450,3955.85
+1067,Kafr El Sheikh,Kafr El Sheikh,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),170,170,300
+1068,Kafr El Sheikh,Kafr El Sheikh,Restaurants,Domestic Draft Beer (0.5 Liter),77.5,50,150
+1069,Kafr El Sheikh,Kafr El Sheikh,Restaurants,Imported Beer (0.33 Liter Bottle),65,65,210
+1070,Kafr El Sheikh,Kafr El Sheikh,Restaurants,Cappuccino (Regular Size),50,30,150
+1071,Kafr El Sheikh,Kafr El Sheikh,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",17,15,30
+1072,Kafr El Sheikh,Kafr El Sheikh,Restaurants,Bottled Water (0.33 Liter),4,4,10
+1073,Kafr El Sheikh,Kafr El Sheikh,Markets,"Milk (Regular, 1 Liter)",35,30,67
+1074,Kafr El Sheikh,Kafr El Sheikh,Markets,Fresh White Bread (500 g Loaf),25,10,55
+1075,Kafr El Sheikh,Kafr El Sheikh,Markets,White Rice (1 kg),35.12,23,50
+1076,Kafr El Sheikh,Kafr El Sheikh,Markets,"Eggs (12, Large Size)",72,60,84
+1077,Kafr El Sheikh,Kafr El Sheikh,Markets,Local Cheese (1 kg),135,50,200
+1078,Kafr El Sheikh,Kafr El Sheikh,Markets,Chicken Fillets (1 kg),200,170,249
+1079,Kafr El Sheikh,Kafr El Sheikh,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),410.83,350,495
+1080,Kafr El Sheikh,Kafr El Sheikh,Markets,Apples (1 kg),60,30,100
+1081,Kafr El Sheikh,Kafr El Sheikh,Markets,Bananas (1 kg),30,25,50
+1082,Kafr El Sheikh,Kafr El Sheikh,Markets,Oranges (1 kg),21.67,10,30
+1083,Kafr El Sheikh,Kafr El Sheikh,Markets,Tomatoes (1 kg),17.67,5,40
+1084,Kafr El Sheikh,Kafr El Sheikh,Markets,Potatoes (1 kg),24,10,35
+1085,Kafr El Sheikh,Kafr El Sheikh,Markets,Onions (1 kg),25,15,30
+1086,Kafr El Sheikh,Kafr El Sheikh,Markets,Lettuce (1 Head),12.4,5,24
+1087,Kafr El Sheikh,Kafr El Sheikh,Markets,Bottled Water (1.5 Liter),10,7,15
+1088,Kafr El Sheikh,Kafr El Sheikh,Markets,Bottle of Wine (Mid-Range),225,200,280
+1089,Kafr El Sheikh,Kafr El Sheikh,Markets,Domestic Beer (0.5 Liter Bottle),72.5,55,90
+1090,Kafr El Sheikh,Kafr El Sheikh,Markets,Imported Beer (0.33 Liter Bottle),85,85,85
+1091,Kafr El Sheikh,Kafr El Sheikh,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+1092,Kafr El Sheikh,Kafr El Sheikh,Transportation,Taxi Start (Standard Tariff),15,15,50
+1093,Kafr El Sheikh,Kafr El Sheikh,Transportation,Taxi 1 km (Standard Tariff),15,6,20
+1094,Kafr El Sheikh,Kafr El Sheikh,Transportation,Taxi 1 Hour Waiting (Standard Tariff),250,250,250
+1095,Kafr El Sheikh,Kafr El Sheikh,Transportation,Gasoline (1 Liter),18.54,13,24
+1096,Kafr El Sheikh,Kafr El Sheikh,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1690000
+1097,Kafr El Sheikh,Kafr El Sheikh,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1441666.67,1300000,1700000
+1098,Kafr El Sheikh,Kafr El Sheikh,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",400,400,1342.11
+1099,Kafr El Sheikh,Kafr El Sheikh,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",403.33,300,500
+1100,Kafr El Sheikh,Kafr El Sheikh,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",625,250,2000
+1101,Kafr El Sheikh,Kafr El Sheikh,Sports And Leisure,Monthly Fitness Club Membership,350,,
+1102,Kafr El Sheikh,Kafr El Sheikh,Sports And Leisure,Cinema Ticket (International Release),250,150,350
+1103,Kafr El Sheikh,Kafr El Sheikh,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4833.33,3000,6000
+1104,Kafr El Sheikh,Kafr El Sheikh,Childcare,"International Primary School, Annual Tuition per Child",123750,95000,150000
+1105,Kafr El Sheikh,Kafr El Sheikh,Clothing And Shoes,Jeans (Levi's 501 or Similar),500,300,1000
+1106,Kafr El Sheikh,Kafr El Sheikh,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),3125,1500,5000
+1107,Kafr El Sheikh,Kafr El Sheikh,Clothing And Shoes,Nike Running Shoes (Mid-Range),4250,2500,15000
+1108,Kafr El Sheikh,Kafr El Sheikh,Clothing And Shoes,Men's Leather Business Shoes,1000,1000,5000
+1109,Kafr El Sheikh,Kafr El Sheikh,Rent Per Month,1 Bedroom Apartment in City Centre,2500,,
+1110,Kafr El Sheikh,Kafr El Sheikh,Rent Per Month,3 Bedroom Apartment in City Centre,10000,,
+1111,Kafr El Sheikh,Kafr El Sheikh,Rent Per Month,3 Bedroom Apartment Outside of City Centre,8500,,
+1112,Kafr El Sheikh,Kafr El Sheikh,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20,15,25
+1113,Luxor,Luxor,Restaurants,Meal at an Inexpensive Restaurant,200,125,311.01
+1114,Luxor,Luxor,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",2000,1000,4354.12
+1115,Luxor,Luxor,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),195,180,435.41
+1116,Luxor,Luxor,Restaurants,Domestic Draft Beer (0.5 Liter),112.2,60,186.61
+1117,Luxor,Luxor,Restaurants,Imported Beer (0.33 Liter Bottle),165.8,90,360
+1118,Luxor,Luxor,Restaurants,Cappuccino (Regular Size),70,15,200
+1119,Luxor,Luxor,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",15,15,62.2
+1120,Luxor,Luxor,Restaurants,Bottled Water (0.33 Liter),8.74,5,15
+1121,Luxor,Luxor,Markets,"Milk (Regular, 1 Liter)",45,45,52.74
+1122,Luxor,Luxor,Markets,Fresh White Bread (500 g Loaf),31.22,10,60.66
+1123,Luxor,Luxor,Markets,White Rice (1 kg),33.25,23,100
+1124,Luxor,Luxor,Markets,"Eggs (12, Large Size)",100.37,64,144
+1125,Luxor,Luxor,Markets,Local Cheese (1 kg),155.2,50,400
+1126,Luxor,Luxor,Markets,Chicken Fillets (1 kg),300.37,190,400
+1127,Luxor,Luxor,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),506.86,480,527.45
+1128,Luxor,Luxor,Markets,Apples (1 kg),76.33,52.74,86
+1129,Luxor,Luxor,Markets,Bananas (1 kg),26.46,15,80
+1130,Luxor,Luxor,Markets,Oranges (1 kg),22.33,15.82,25
+1131,Luxor,Luxor,Markets,Tomatoes (1 kg),21.25,13,42.2
+1132,Luxor,Luxor,Markets,Potatoes (1 kg),18.75,9,30
+1133,Luxor,Luxor,Markets,Onions (1 kg),20.2,9,42.2
+1134,Luxor,Luxor,Markets,Lettuce (1 Head),14.71,10,15.82
+1135,Luxor,Luxor,Markets,Bottled Water (1.5 Liter),9.25,6,10.55
+1136,Luxor,Luxor,Markets,Bottle of Wine (Mid-Range),388.72,250,527.45
+1137,Luxor,Luxor,Markets,Domestic Beer (0.5 Liter Bottle),64.73,40,94.19
+1138,Luxor,Luxor,Markets,Imported Beer (0.33 Liter Bottle),90,65.93,120
+1139,Luxor,Luxor,Markets,"Cigarettes (Pack of 20, Marlboro)",80,80,130
+1140,Luxor,Luxor,Transportation,One-Way Ticket (Local Transport),3.5,,
+1141,Luxor,Luxor,Transportation,Taxi Start (Standard Tariff),50,50,50
+1142,Luxor,Luxor,Transportation,Taxi 1 km (Standard Tariff),10.25,10,16
+1143,Luxor,Luxor,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,100,100
+1144,Luxor,Luxor,Transportation,Gasoline (1 Liter),16.5,12,24
+1145,Luxor,Luxor,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1690000
+1146,Luxor,Luxor,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1000000,1000000,1150000
+1147,Luxor,Luxor,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1202.02,566.67,2445.44
+1148,Luxor,Luxor,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",150,100,527.45
+1149,Luxor,Luxor,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",325,310,1100
+1150,Luxor,Luxor,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",500,,
+1151,Luxor,Luxor,Sports And Leisure,Cinema Ticket (International Release),180.49,150,210.98
+1152,Luxor,Luxor,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",5274.47,5274.47,5274.47
+1153,Luxor,Luxor,Childcare,"International Primary School, Annual Tuition per Child",31646.81,31646.81,31646.81
+1154,Luxor,Luxor,Clothing And Shoes,Jeans (Levi's 501 or Similar),1074.01,622.02,1700
+1155,Luxor,Luxor,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1750,1000,2500
+1156,Luxor,Luxor,Clothing And Shoes,Men's Leather Business Shoes,1500,1500,1500
+1157,Luxor,Luxor,Rent Per Month,1 Bedroom Apartment Outside of City Centre,15000,,
+1158,Luxor,Luxor,Salaries And Financing,Average Monthly Net Salary (After Tax),3500,,
+1159,Monufia,Shebin El Kom,Restaurants,Meal at an Inexpensive Restaurant,392.5,285,500
+1160,Monufia,Shebin El Kom,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),300,,
+1161,Monufia,Shebin El Kom,Restaurants,Domestic Draft Beer (0.5 Liter),100,,
+1162,Monufia,Shebin El Kom,Restaurants,Imported Beer (0.33 Liter Bottle),200,,
+1163,Monufia,Shebin El Kom,Restaurants,Cappuccino (Regular Size),150,,
+1164,Monufia,Shebin El Kom,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",150,,
+1165,Monufia,Shebin El Kom,Restaurants,Bottled Water (0.33 Liter),10,,
+1166,Monufia,Shebin El Kom,Markets,"Milk (Regular, 1 Liter)",40,,
+1167,Monufia,Shebin El Kom,Markets,White Rice (1 kg),40,,
+1168,Monufia,Shebin El Kom,Markets,"Eggs (12, Large Size)",48,,
+1169,Monufia,Shebin El Kom,Markets,Local Cheese (1 kg),80,,
+1170,Monufia,Shebin El Kom,Markets,Chicken Fillets (1 kg),120,,
+1171,Monufia,Shebin El Kom,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),400,,
+1172,Monufia,Shebin El Kom,Markets,Apples (1 kg),100,,
+1173,Monufia,Shebin El Kom,Markets,Bananas (1 kg),40,,
+1174,Monufia,Shebin El Kom,Markets,Oranges (1 kg),30,,
+1175,Monufia,Shebin El Kom,Markets,Tomatoes (1 kg),20,,
+1176,Monufia,Shebin El Kom,Markets,Potatoes (1 kg),25,,
+1177,Monufia,Shebin El Kom,Markets,Onions (1 kg),20,,
+1178,Monufia,Shebin El Kom,Markets,Lettuce (1 Head),30,,
+1179,Monufia,Shebin El Kom,Markets,Bottled Water (1.5 Liter),10,,
+1180,Monufia,Shebin El Kom,Markets,Bottle of Wine (Mid-Range),300,,
+1181,Monufia,Shebin El Kom,Markets,Domestic Beer (0.5 Liter Bottle),57.5,50,65
+1182,Monufia,Shebin El Kom,Markets,Imported Beer (0.33 Liter Bottle),100,,
+1183,Monufia,Shebin El Kom,Markets,"Cigarettes (Pack of 20, Marlboro)",120,,
+1184,Monufia,Shebin El Kom,Transportation,One-Way Ticket (Local Transport),40,,
+1185,Monufia,Shebin El Kom,Transportation,Taxi Start (Standard Tariff),20,,
+1186,Monufia,Shebin El Kom,Transportation,Gasoline (1 Liter),20,,
+1187,Monufia,Shebin El Kom,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1200,,
+1188,Monufia,Shebin El Kom,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",100,,
+1189,Monufia,Shebin El Kom,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",400,,
+1190,Monufia,Shebin El Kom,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",300,,
+1191,Monufia,Shebin El Kom,Sports And Leisure,Cinema Ticket (International Release),150,,
+1192,Monufia,Shebin El Kom,Childcare,"International Primary School, Annual Tuition per Child",20000,,
+1193,Monufia,Shebin El Kom,Clothing And Shoes,Jeans (Levi's 501 or Similar),1500,,
+1194,Monufia,Shebin El Kom,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),1600,,
+1195,Monufia,Shebin El Kom,Clothing And Shoes,Nike Running Shoes (Mid-Range),7000,,
+1196,Monufia,Shebin El Kom,Clothing And Shoes,Men's Leather Business Shoes,1000,,
+1197,Minya,Minya,Restaurants,Meal at an Inexpensive Restaurant,150,100,300
+1198,Minya,Minya,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",400,400,3955.85
+1199,Minya,Minya,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),245,200,300
+1200,Minya,Minya,Restaurants,Domestic Draft Beer (0.5 Liter),60,50,150
+1201,Minya,Minya,Restaurants,Imported Beer (0.33 Liter Bottle),150,95,210
+1202,Minya,Minya,Restaurants,Cappuccino (Regular Size),68,30,150
+1203,Minya,Minya,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",19.56,15,30
+1204,Minya,Minya,Restaurants,Bottled Water (0.33 Liter),5.5,5,10
+1205,Minya,Minya,Markets,"Milk (Regular, 1 Liter)",41.67,20,70
+1206,Minya,Minya,Markets,Fresh White Bread (500 g Loaf),10,10,55
+1207,Minya,Minya,Markets,White Rice (1 kg),32.5,23,50
+1208,Minya,Minya,Markets,"Eggs (12, Large Size)",70,60,84
+1209,Minya,Minya,Markets,Local Cheese (1 kg),135,50,200
+1210,Minya,Minya,Markets,Chicken Fillets (1 kg),200,170,249
+1211,Minya,Minya,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),370,340,495
+1212,Minya,Minya,Markets,Apples (1 kg),40,30,100
+1213,Minya,Minya,Markets,Bananas (1 kg),26.67,20,50
+1214,Minya,Minya,Markets,Oranges (1 kg),21.67,10,40
+1215,Minya,Minya,Markets,Tomatoes (1 kg),17.67,5,40
+1216,Minya,Minya,Markets,Potatoes (1 kg),17.5,10,35
+1217,Minya,Minya,Markets,Onions (1 kg),20,15,30
+1218,Minya,Minya,Markets,Lettuce (1 Head),12.4,5,24
+1219,Minya,Minya,Markets,Bottled Water (1.5 Liter),10,7,15
+1220,Minya,Minya,Markets,Bottle of Wine (Mid-Range),225,200,250
+1221,Minya,Minya,Markets,Domestic Beer (0.5 Liter Bottle),72.5,55,90
+1222,Minya,Minya,Markets,Imported Beer (0.33 Liter Bottle),85,85,85
+1223,Minya,Minya,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+1224,Minya,Minya,Transportation,One-Way Ticket (Local Transport),10,5,40
+1225,Minya,Minya,Transportation,Taxi Start (Standard Tariff),14,13,50
+1226,Minya,Minya,Transportation,Taxi 1 km (Standard Tariff),7.5,5,20
+1227,Minya,Minya,Transportation,Taxi 1 Hour Waiting (Standard Tariff),40,40,40
+1228,Minya,Minya,Transportation,Gasoline (1 Liter),17,13,24
+1229,Minya,Minya,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1690000
+1230,Minya,Minya,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1441666.67,1300000,1700000
+1231,Minya,Minya,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",936.55,578,1700
+1232,Minya,Minya,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",316.67,100,500
+1233,Minya,Minya,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",1000,700,2000
+1234,Minya,Minya,Sports And Leisure,Monthly Fitness Club Membership,366.67,300,500
+1235,Minya,Minya,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",250,200,300
+1236,Minya,Minya,Sports And Leisure,Cinema Ticket (International Release),250,150,350
+1237,Minya,Minya,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4833.33,3000,6000
+1238,Minya,Minya,Childcare,"International Primary School, Annual Tuition per Child",123750,95000,150000
+1239,Minya,Minya,Clothing And Shoes,Jeans (Levi's 501 or Similar),500,300,1000
+1240,Minya,Minya,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2000,1500,5000
+1241,Minya,Minya,Clothing And Shoes,Nike Running Shoes (Mid-Range),4250,2500,15000
+1242,Minya,Minya,Clothing And Shoes,Men's Leather Business Shoes,2575,1000,5000
+1243,Minya,Minya,Rent Per Month,1 Bedroom Apartment in City Centre,5000,3000,8000
+1244,Minya,Minya,Rent Per Month,1 Bedroom Apartment Outside of City Centre,3500,2000,6000
+1245,Minya,Minya,Rent Per Month,3 Bedroom Apartment in City Centre,8000,6000,10000
+1246,Minya,Minya,Rent Per Month,3 Bedroom Apartment Outside of City Centre,5333.33,4000,8000
+1247,Minya,Minya,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,25000,20000,30000
+1248,Minya,Minya,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,13500,12000,15000
+1249,Minya,Minya,Salaries And Financing,Average Monthly Net Salary (After Tax),4000,,
+1250,Minya,Minya,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20,15,25
+1251,Cairo,Cairo,Restaurants,Meal at an Inexpensive Restaurant,200,115,500
+1252,Cairo,Cairo,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,2500
+1253,Cairo,Cairo,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),300,250,350
+1254,Cairo,Cairo,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,54,200
+1255,Cairo,Cairo,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,250
+1256,Cairo,Cairo,Restaurants,Cappuccino (Regular Size),64.12,30,120
+1257,Cairo,Cairo,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+1258,Cairo,Cairo,Restaurants,Bottled Water (0.33 Liter),6.53,5,10
+1259,Cairo,Cairo,Markets,"Milk (Regular, 1 Liter)",47.5,43,50
+1260,Cairo,Cairo,Markets,Fresh White Bread (500 g Loaf),36.25,12.5,60
+1261,Cairo,Cairo,Markets,White Rice (1 kg),35,30,40
+1262,Cairo,Cairo,Markets,"Eggs (12, Large Size)",76,36,84
+1263,Cairo,Cairo,Markets,Local Cheese (1 kg),208.12,80,280
+1264,Cairo,Cairo,Markets,Chicken Fillets (1 kg),285,180,375
+1265,Cairo,Cairo,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),460,400,500
+1266,Cairo,Cairo,Markets,Apples (1 kg),72.11,40,100
+1267,Cairo,Cairo,Markets,Bananas (1 kg),33.82,25,50
+1268,Cairo,Cairo,Markets,Oranges (1 kg),27,16,35
+1269,Cairo,Cairo,Markets,Tomatoes (1 kg),19,8,25
+1270,Cairo,Cairo,Markets,Potatoes (1 kg),20,10,30
+1271,Cairo,Cairo,Markets,Onions (1 kg),18.57,10,30
+1272,Cairo,Cairo,Markets,Lettuce (1 Head),10,5,15
+1273,Cairo,Cairo,Markets,Bottled Water (1.5 Liter),10.12,9,12
+1274,Cairo,Cairo,Markets,Bottle of Wine (Mid-Range),300,150,600
+1275,Cairo,Cairo,Markets,Domestic Beer (0.5 Liter Bottle),65,60,90
+1276,Cairo,Cairo,Markets,Imported Beer (0.33 Liter Bottle),92.5,45,160
+1277,Cairo,Cairo,Markets,"Cigarettes (Pack of 20, Marlboro)",100,85,120
+1278,Cairo,Cairo,Transportation,One-Way Ticket (Local Transport),13.5,12,15
+1279,Cairo,Cairo,Transportation,Monthly Public Transport Pass (Regular Price),350,,
+1280,Cairo,Cairo,Transportation,Taxi Start (Standard Tariff),30,20,50
+1281,Cairo,Cairo,Transportation,Taxi 1 km (Standard Tariff),9,8,12
+1282,Cairo,Cairo,Transportation,Taxi 1 Hour Waiting (Standard Tariff),200,100,240
+1283,Cairo,Cairo,Transportation,Gasoline (1 Liter),19.24,15,24
+1284,Cairo,Cairo,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1600000,1800000
+1285,Cairo,Cairo,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1400000,1150000,1700000
+1286,Cairo,Cairo,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",1700,1062.5,1700
+1287,Cairo,Cairo,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",435,300,570
+1288,Cairo,Cairo,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",720.33,450,1000
+1289,Cairo,Cairo,Sports And Leisure,Monthly Fitness Club Membership,1200,,
+1290,Cairo,Cairo,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",100,,
+1291,Cairo,Cairo,Sports And Leisure,Cinema Ticket (International Release),150,150,150
+1292,Cairo,Cairo,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,3000,5000
+1293,Cairo,Cairo,Childcare,"International Primary School, Annual Tuition per Child",111363.64,100000,308661.93
+1294,Cairo,Cairo,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,750,3000
+1295,Cairo,Cairo,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,1500,3000
+1296,Cairo,Cairo,Clothing And Shoes,Nike Running Shoes (Mid-Range),6083.33,4000,7000
+1297,Cairo,Cairo,Clothing And Shoes,Men's Leather Business Shoes,3000,1000,5000
+1298,Cairo,Cairo,Rent Per Month,1 Bedroom Apartment in City Centre,20000,,
+1299,Cairo,Cairo,Rent Per Month,1 Bedroom Apartment Outside of City Centre,15000,,
+1300,Cairo,Cairo,Rent Per Month,3 Bedroom Apartment in City Centre,40000,,
+1301,Cairo,Cairo,Rent Per Month,3 Bedroom Apartment Outside of City Centre,35000,,
+1302,Cairo,Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,50000,,
+1303,Cairo,Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,20000,,
+1304,Cairo,Cairo,Salaries And Financing,Average Monthly Net Salary (After Tax),9500,,
+1305,Cairo,Cairo,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",11.4,9,24
+1306,Cairo,New Cairo,Restaurants,Meal at an Inexpensive Restaurant,200,100,500
+1307,Cairo,New Cairo,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",1200,800,2500
+1308,Cairo,New Cairo,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),300,250,350
+1309,Cairo,New Cairo,Restaurants,Domestic Draft Beer (0.5 Liter),90,54,200
+1310,Cairo,New Cairo,Restaurants,Imported Beer (0.33 Liter Bottle),150,100,250
+1311,Cairo,New Cairo,Restaurants,Cappuccino (Regular Size),95.36,50,140
+1312,Cairo,New Cairo,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",19.92,15,50
+1313,Cairo,New Cairo,Restaurants,Bottled Water (0.33 Liter),7.44,5,20
+1314,Cairo,New Cairo,Markets,"Milk (Regular, 1 Liter)",49.33,43,55
+1315,Cairo,New Cairo,Markets,Fresh White Bread (500 g Loaf),30.35,10,47
+1316,Cairo,New Cairo,Markets,White Rice (1 kg),37.33,34,40
+1317,Cairo,New Cairo,Markets,"Eggs (12, Large Size)",77.28,36,108
+1318,Cairo,New Cairo,Markets,Local Cheese (1 kg),222,50,280
+1319,Cairo,New Cairo,Markets,Chicken Fillets (1 kg),285.83,225,375
+1320,Cairo,New Cairo,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),460,400,550
+1321,Cairo,New Cairo,Markets,Apples (1 kg),91.67,70,100
+1322,Cairo,New Cairo,Markets,Bananas (1 kg),33.67,25,50
+1323,Cairo,New Cairo,Markets,Oranges (1 kg),27,20,30
+1324,Cairo,New Cairo,Markets,Tomatoes (1 kg),19.51,5,25
+1325,Cairo,New Cairo,Markets,Potatoes (1 kg),22.27,10,37
+1326,Cairo,New Cairo,Markets,Onions (1 kg),28.7,9,44.09
+1327,Cairo,New Cairo,Markets,Lettuce (1 Head),9.2,5,15
+1328,Cairo,New Cairo,Markets,Bottled Water (1.5 Liter),12.5,9,20
+1329,Cairo,New Cairo,Markets,Bottle of Wine (Mid-Range),450,300,600
+1330,Cairo,New Cairo,Markets,Domestic Beer (0.5 Liter Bottle),65,,
+1331,Cairo,New Cairo,Markets,Imported Beer (0.33 Liter Bottle),92.5,65,120
+1332,Cairo,New Cairo,Markets,"Cigarettes (Pack of 20, Marlboro)",100,85,110
+1333,Cairo,New Cairo,Transportation,One-Way Ticket (Local Transport),15,10,20
+1334,Cairo,New Cairo,Transportation,Taxi Start (Standard Tariff),30,20,60
+1335,Cairo,New Cairo,Transportation,Taxi 1 km (Standard Tariff),9,5,12
+1336,Cairo,New Cairo,Transportation,Taxi 1 Hour Waiting (Standard Tariff),200,100,300
+1337,Cairo,New Cairo,Transportation,Gasoline (1 Liter),19.24,15,24
+1338,Cairo,New Cairo,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1600000,1690000
+1339,Cairo,New Cairo,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1400000,1150000,1650000
+1340,Cairo,New Cairo,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",2221.49,1062.5,6000
+1341,Cairo,New Cairo,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",488.12,300,1000
+1342,Cairo,New Cairo,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",720.33,450,1200
+1343,Cairo,New Cairo,Sports And Leisure,Monthly Fitness Club Membership,1535.42,600,3000
+1344,Cairo,New Cairo,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",333.33,100,500
+1345,Cairo,New Cairo,Sports And Leisure,Cinema Ticket (International Release),170,150,200
+1346,Cairo,New Cairo,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",8000,6000,13000
+1347,Cairo,New Cairo,Childcare,"International Primary School, Annual Tuition per Child",236498.3,120000,500000
+1348,Cairo,New Cairo,Clothing And Shoes,Jeans (Levi's 501 or Similar),2400,1000,3000
+1349,Cairo,New Cairo,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2866.67,2600,3000
+1350,Cairo,New Cairo,Clothing And Shoes,Nike Running Shoes (Mid-Range),6083.33,5000,7000
+1351,Cairo,New Cairo,Clothing And Shoes,Men's Leather Business Shoes,3000,1000,5000
+1352,Cairo,New Cairo,Rent Per Month,1 Bedroom Apartment in City Centre,16000,12000,20000
+1353,Cairo,New Cairo,Rent Per Month,1 Bedroom Apartment Outside of City Centre,12750,8000,18000
+1354,Cairo,New Cairo,Rent Per Month,3 Bedroom Apartment in City Centre,28500,18000,35000
+1355,Cairo,New Cairo,Rent Per Month,3 Bedroom Apartment Outside of City Centre,18975,14000,25000
+1356,Cairo,New Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,70000,50000,100000
+1357,Cairo,New Cairo,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,36722,35000,40000
+1358,Cairo,New Cairo,Salaries And Financing,Average Monthly Net Salary (After Tax),9833.33,,
+1359,Cairo,New Cairo,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",11.4,9,15.2
+1360,Port Said,Port Said,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+1361,Port Said,Port Said,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+1362,Port Said,Port Said,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,200,360
+1363,Port Said,Port Said,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+1364,Port Said,Port Said,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+1365,Port Said,Port Said,Restaurants,Cappuccino (Regular Size),64.12,30,120
+1366,Port Said,Port Said,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,20
+1367,Port Said,Port Said,Restaurants,Bottled Water (0.33 Liter),6,5,10
+1368,Port Said,Port Said,Markets,"Milk (Regular, 1 Liter)",35.33,21,50
+1369,Port Said,Port Said,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+1370,Port Said,Port Said,Markets,White Rice (1 kg),33.52,26,90
+1371,Port Said,Port Said,Markets,"Eggs (12, Large Size)",61.17,36,72
+1372,Port Said,Port Said,Markets,Local Cheese (1 kg),208.12,70,500
+1373,Port Said,Port Said,Markets,Chicken Fillets (1 kg),166.67,100,250
+1374,Port Said,Port Said,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),426.67,400,500
+1375,Port Said,Port Said,Markets,Apples (1 kg),72.11,40,90
+1376,Port Said,Port Said,Markets,Bananas (1 kg),33.82,25,50
+1377,Port Said,Port Said,Markets,Oranges (1 kg),22.69,10,35
+1378,Port Said,Port Said,Markets,Tomatoes (1 kg),17.04,10,30
+1379,Port Said,Port Said,Markets,Potatoes (1 kg),17.08,7,30
+1380,Port Said,Port Said,Markets,Onions (1 kg),18.57,10,30
+1381,Port Said,Port Said,Markets,Lettuce (1 Head),11.67,5,30
+1382,Port Said,Port Said,Markets,Bottled Water (1.5 Liter),9,7,12
+1383,Port Said,Port Said,Markets,Bottle of Wine (Mid-Range),300,150,500
+1384,Port Said,Port Said,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+1385,Port Said,Port Said,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+1386,Port Said,Port Said,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+1387,Port Said,Port Said,Transportation,Monthly Public Transport Pass (Regular Price),120,,
+1388,Port Said,Port Said,Transportation,Taxi Start (Standard Tariff),15,15,50
+1389,Port Said,Port Said,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+1390,Port Said,Port Said,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,100
+1391,Port Said,Port Said,Transportation,Gasoline (1 Liter),13,11,24
+1392,Port Said,Port Said,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+1393,Port Said,Port Said,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,1700000
+1394,Port Said,Port Said,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1416.67
+1395,Port Said,Port Said,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,500
+1396,Port Said,Port Said,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",360,250,1000
+1397,Port Said,Port Said,Sports And Leisure,Monthly Fitness Club Membership,300,,
+1398,Port Said,Port Said,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+1399,Port Said,Port Said,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",1833.33,1833.33,5000
+1400,Port Said,Port Said,Childcare,"International Primary School, Annual Tuition per Child",30000,30000,308661.93
+1401,Port Said,Port Said,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,3000
+1402,Port Said,Port Said,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,4000
+1403,Port Said,Port Said,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,17000
+1404,Port Said,Port Said,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,5000
+1405,Port Said,Port Said,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,80000,,
+1406,Port Said,Port Said,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,20000,,
+1407,Port Said,Port Said,Salaries And Financing,Average Monthly Net Salary (After Tax),10000,,
+1408,Port Said,Port Said,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
+1409,Qalyubia,Qalyub,Restaurants,Meal at an Inexpensive Restaurant,200,100,500
+1410,Qalyubia,Qalyub,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+1411,Qalyubia,Qalyub,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,200,350
+1412,Qalyubia,Qalyub,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+1413,Qalyubia,Qalyub,Restaurants,Imported Beer (0.33 Liter Bottle),120,90,200
+1414,Qalyubia,Qalyub,Restaurants,Cappuccino (Regular Size),64.12,45,120
+1415,Qalyubia,Qalyub,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,30
+1416,Qalyubia,Qalyub,Restaurants,Bottled Water (0.33 Liter),6.53,5,15
+1417,Qalyubia,Qalyub,Markets,"Milk (Regular, 1 Liter)",43.93,38,55
+1418,Qalyubia,Qalyub,Markets,Fresh White Bread (500 g Loaf),36.54,20,120
+1419,Qalyubia,Qalyub,Markets,White Rice (1 kg),33.52,26,45
+1420,Qalyubia,Qalyub,Markets,"Eggs (12, Large Size)",61.17,36,96
+1421,Qalyubia,Qalyub,Markets,Local Cheese (1 kg),208.12,80,450
+1422,Qalyubia,Qalyub,Markets,Chicken Fillets (1 kg),220.62,120,350
+1423,Qalyubia,Qalyub,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),468.62,400,550
+1424,Qalyubia,Qalyub,Markets,Apples (1 kg),72.11,40,130
+1425,Qalyubia,Qalyub,Markets,Bananas (1 kg),33.82,25,58
+1426,Qalyubia,Qalyub,Markets,Oranges (1 kg),22.69,10,50
+1427,Qalyubia,Qalyub,Markets,Tomatoes (1 kg),17.04,8,35
+1428,Qalyubia,Qalyub,Markets,Potatoes (1 kg),17.08,7,30
+1429,Qalyubia,Qalyub,Markets,Onions (1 kg),18.57,10,33.07
+1430,Qalyubia,Qalyub,Markets,Lettuce (1 Head),14,5,30
+1431,Qalyubia,Qalyub,Markets,Bottled Water (1.5 Liter),10.12,8,15
+1432,Qalyubia,Qalyub,Markets,Bottle of Wine (Mid-Range),300,150,600
+1433,Qalyubia,Qalyub,Markets,Domestic Beer (0.5 Liter Bottle),66,40,120
+1434,Qalyubia,Qalyub,Markets,Imported Beer (0.33 Liter Bottle),109.41,45,160
+1435,Qalyubia,Qalyub,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+1436,Qalyubia,Qalyub,Transportation,One-Way Ticket (Local Transport),20,,
+1437,Qalyubia,Qalyub,Transportation,Taxi Start (Standard Tariff),20,20,50
+1438,Qalyubia,Qalyub,Transportation,Taxi 1 km (Standard Tariff),11,8,30
+1439,Qalyubia,Qalyub,Transportation,Taxi 1 Hour Waiting (Standard Tariff),50,30,100
+1440,Qalyubia,Qalyub,Transportation,Gasoline (1 Liter),19.03,15,24
+1441,Qalyubia,Qalyub,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1500000,1950000
+1442,Qalyubia,Qalyub,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1451578.95,1200000,1700000
+1443,Qalyubia,Qalyub,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,2000
+1444,Qalyubia,Qalyub,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,600
+1445,Qalyubia,Qalyub,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+1446,Qalyubia,Qalyub,Sports And Leisure,Monthly Fitness Club Membership,300,,
+1447,Qalyubia,Qalyub,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",50,,
+1448,Qalyubia,Qalyub,Sports And Leisure,Cinema Ticket (International Release),150,100,350
+1449,Qalyubia,Qalyub,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,8000
+1450,Qalyubia,Qalyub,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,485251.16
+1451,Qalyubia,Qalyub,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,4000
+1452,Qalyubia,Qalyub,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2277.27,800,4000
+1453,Qalyubia,Qalyub,Clothing And Shoes,Nike Running Shoes (Mid-Range),5825,3000,12000
+1454,Qalyubia,Qalyub,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,6000
+1455,Qalyubia,Qalyub,Rent Per Month,1 Bedroom Apartment in City Centre,2500,,
+1456,Qalyubia,Qalyub,Rent Per Month,1 Bedroom Apartment Outside of City Centre,2000,,
+1457,Qalyubia,Qalyub,Rent Per Month,3 Bedroom Apartment in City Centre,4000,,
+1458,Qalyubia,Qalyub,Rent Per Month,3 Bedroom Apartment Outside of City Centre,3500,,
+1459,Qalyubia,Qalyub,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,15000,,
+1460,Qalyubia,Qalyub,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,13000,,
+1461,Qalyubia,Qalyub,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",17.47,8,27.5
+1462,North Sinai,Rafah,Restaurants,Meal at an Inexpensive Restaurant,100,,
+1463,North Sinai,Rafah,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,,
+1464,North Sinai,Rafah,Restaurants,Cappuccino (Regular Size),70,,
+1465,North Sinai,Rafah,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",15,,
+1466,North Sinai,Rafah,Restaurants,Bottled Water (0.33 Liter),7,,
+1467,North Sinai,Rafah,Markets,"Milk (Regular, 1 Liter)",45,,
+1468,North Sinai,Rafah,Markets,Fresh White Bread (500 g Loaf),20,,
+1469,North Sinai,Rafah,Markets,White Rice (1 kg),19,,
+1470,North Sinai,Rafah,Markets,"Eggs (12, Large Size)",72,,
+1471,North Sinai,Rafah,Markets,Local Cheese (1 kg),80,,
+1472,North Sinai,Rafah,Markets,Chicken Fillets (1 kg),200,,
+1473,North Sinai,Rafah,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),430,,
+1474,North Sinai,Rafah,Markets,Apples (1 kg),70,,
+1475,North Sinai,Rafah,Markets,Bananas (1 kg),30,,
+1476,North Sinai,Rafah,Markets,Oranges (1 kg),20,,
+1477,North Sinai,Rafah,Markets,Tomatoes (1 kg),10,,
+1478,North Sinai,Rafah,Markets,Potatoes (1 kg),15,,
+1479,North Sinai,Rafah,Markets,Onions (1 kg),25,,
+1480,North Sinai,Rafah,Markets,Lettuce (1 Head),15,,
+1481,North Sinai,Rafah,Markets,Bottled Water (1.5 Liter),10,,
+1482,North Sinai,Rafah,Markets,"Cigarettes (Pack of 20, Marlboro)",120,,
+1483,North Sinai,Rafah,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",566.67,,
+1484,North Sinai,Rafah,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",200,,
+1485,North Sinai,Rafah,Sports And Leisure,Monthly Fitness Club Membership,250,,
+1486,North Sinai,Rafah,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",400,,
+1487,South Sinai,Sharm El Sheikh,Restaurants,Meal at an Inexpensive Restaurant,400,,
+1488,South Sinai,Sharm El Sheikh,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",1100,1000,1200
+1489,South Sinai,Sharm El Sheikh,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),275,250,300
+1490,South Sinai,Sharm El Sheikh,Restaurants,Domestic Draft Beer (0.5 Liter),150,100,200
+1491,South Sinai,Sharm El Sheikh,Restaurants,Imported Beer (0.33 Liter Bottle),250,,
+1492,South Sinai,Sharm El Sheikh,Restaurants,Cappuccino (Regular Size),90,60,120
+1493,South Sinai,Sharm El Sheikh,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.5,15,18
+1494,South Sinai,Sharm El Sheikh,Restaurants,Bottled Water (0.33 Liter),23.33,10,50
+1495,South Sinai,Sharm El Sheikh,Markets,"Milk (Regular, 1 Liter)",45,,
+1496,South Sinai,Sharm El Sheikh,Markets,White Rice (1 kg),25,,
+1497,South Sinai,Sharm El Sheikh,Markets,"Eggs (12, Large Size)",62.6,58,67.2
+1498,South Sinai,Sharm El Sheikh,Markets,Chicken Fillets (1 kg),200,,
+1499,South Sinai,Sharm El Sheikh,Markets,Apples (1 kg),80,,
+1500,South Sinai,Sharm El Sheikh,Markets,Bananas (1 kg),25,,
+1501,South Sinai,Sharm El Sheikh,Markets,Oranges (1 kg),25,,
+1502,South Sinai,Sharm El Sheikh,Markets,Tomatoes (1 kg),15,,
+1503,South Sinai,Sharm El Sheikh,Markets,Domestic Beer (0.5 Liter Bottle),80,,
+1504,South Sinai,Sharm El Sheikh,Markets,"Cigarettes (Pack of 20, Marlboro)",112.5,85,140
+1505,South Sinai,Sharm El Sheikh,Transportation,One-Way Ticket (Local Transport),5,,
+1506,South Sinai,Sharm El Sheikh,Transportation,Gasoline (1 Liter),23,17,24
+1507,South Sinai,Sharm El Sheikh,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,,
+1508,South Sinai,Sharm El Sheikh,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1150000,,
+1509,South Sinai,Sharm El Sheikh,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",620.17,,
+1510,South Sinai,Sharm El Sheikh,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",1550.43,,
+1511,South Sinai,Sharm El Sheikh,Rent Per Month,1 Bedroom Apartment in City Centre,19302.57,18605.15,20000
+1512,South Sinai,Sharm El Sheikh,Rent Per Month,1 Bedroom Apartment Outside of City Centre,14501.43,12000,16000
+1513,South Sinai,Sharm El Sheikh,Rent Per Month,3 Bedroom Apartment in City Centre,33004.29,31008.58,35000
+1514,South Sinai,Sharm El Sheikh,Rent Per Month,3 Bedroom Apartment Outside of City Centre,28953.86,27907.72,30000
+1515,South Sinai,Sharm El Sheikh,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,52714.59,,
+1516,South Sinai,Sharm El Sheikh,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,37210.3,,
+1517,South Sinai,Sharm El Sheikh,Salaries And Financing,Average Monthly Net Salary (After Tax),8000,,
+1518,South Sinai,Sharm El Sheikh,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",26.5,,
+1519,Giza,Sheikh Zayed,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+1520,Giza,Sheikh Zayed,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",800,500,1500
+1521,Giza,Sheikh Zayed,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),225,200,250
+1522,Giza,Sheikh Zayed,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,300
+1523,Giza,Sheikh Zayed,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,200
+1524,Giza,Sheikh Zayed,Restaurants,Cappuccino (Regular Size),64.12,30,120
+1525,Giza,Sheikh Zayed,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",16.38,15,60
+1526,Giza,Sheikh Zayed,Restaurants,Bottled Water (0.33 Liter),6.53,5,25
+1527,Giza,Sheikh Zayed,Markets,"Milk (Regular, 1 Liter)",43.93,38,50
+1528,Giza,Sheikh Zayed,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+1529,Giza,Sheikh Zayed,Markets,White Rice (1 kg),30,26,40
+1530,Giza,Sheikh Zayed,Markets,"Eggs (12, Large Size)",61.17,36,72
+1531,Giza,Sheikh Zayed,Markets,Local Cheese (1 kg),208.12,80,400
+1532,Giza,Sheikh Zayed,Markets,Chicken Fillets (1 kg),220.62,180,260
+1533,Giza,Sheikh Zayed,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),470.26,400,500
+1534,Giza,Sheikh Zayed,Markets,Apples (1 kg),72.11,40,100
+1535,Giza,Sheikh Zayed,Markets,Bananas (1 kg),32.5,25,50
+1536,Giza,Sheikh Zayed,Markets,Oranges (1 kg),22.69,10,35
+1537,Giza,Sheikh Zayed,Markets,Tomatoes (1 kg),17.04,10,25
+1538,Giza,Sheikh Zayed,Markets,Potatoes (1 kg),17.08,7,30
+1539,Giza,Sheikh Zayed,Markets,Onions (1 kg),18.57,10,30
+1540,Giza,Sheikh Zayed,Markets,Lettuce (1 Head),14,5,30
+1541,Giza,Sheikh Zayed,Markets,Bottled Water (1.5 Liter),9,8,12
+1542,Giza,Sheikh Zayed,Markets,Bottle of Wine (Mid-Range),300,150,500
+1543,Giza,Sheikh Zayed,Markets,Domestic Beer (0.5 Liter Bottle),50,50,90
+1544,Giza,Sheikh Zayed,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+1545,Giza,Sheikh Zayed,Markets,"Cigarettes (Pack of 20, Marlboro)",84,80,150
+1546,Giza,Sheikh Zayed,Transportation,One-Way Ticket (Local Transport),13.5,12,15
+1547,Giza,Sheikh Zayed,Transportation,Taxi Start (Standard Tariff),28,20,50
+1548,Giza,Sheikh Zayed,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+1549,Giza,Sheikh Zayed,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,100
+1550,Giza,Sheikh Zayed,Transportation,Gasoline (1 Liter),18.25,15,24
+1551,Giza,Sheikh Zayed,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1600000,1600000,1800000
+1552,Giza,Sheikh Zayed,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,1800000
+1553,Giza,Sheikh Zayed,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,2200
+1554,Giza,Sheikh Zayed,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,600
+1555,Giza,Sheikh Zayed,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+1556,Giza,Sheikh Zayed,Sports And Leisure,Monthly Fitness Club Membership,2000,2000,2000
+1557,Giza,Sheikh Zayed,Sports And Leisure,"Tennis Court Rental (1 Hour, Weekend)",500,,
+1558,Giza,Sheikh Zayed,Sports And Leisure,Cinema Ticket (International Release),150,100,200
+1559,Giza,Sheikh Zayed,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,7000
+1560,Giza,Sheikh Zayed,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,308661.93
+1561,Giza,Sheikh Zayed,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,3000
+1562,Giza,Sheikh Zayed,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,4000
+1563,Giza,Sheikh Zayed,Clothing And Shoes,Nike Running Shoes (Mid-Range),6500,3500,12000
+1564,Giza,Sheikh Zayed,Clothing And Shoes,Men's Leather Business Shoes,2750,700,5000
+1565,Giza,Sheikh Zayed,Rent Per Month,1 Bedroom Apartment in City Centre,10000,,
+1566,Giza,Sheikh Zayed,Rent Per Month,1 Bedroom Apartment Outside of City Centre,4000,,
+1567,Giza,Sheikh Zayed,Rent Per Month,3 Bedroom Apartment in City Centre,26000,22000,30000
+1568,Giza,Sheikh Zayed,Rent Per Month,3 Bedroom Apartment Outside of City Centre,10000,,
+1569,Giza,Sheikh Zayed,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,55000,,
+1570,Giza,Sheikh Zayed,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,30000,,
+1571,Giza,Sheikh Zayed,Salaries And Financing,Average Monthly Net Salary (After Tax),7000,,
+1572,Giza,Sheikh Zayed,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
+1573,Monufia,Shebin El Kom,Restaurants,Meal at an Inexpensive Restaurant,200,120,500
+1574,Monufia,Shebin El Kom,Restaurants,"Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",600,500,1500
+1575,Monufia,Shebin El Kom,Restaurants,Combo Meal at McDonald's (or Equivalent Fast-Food Meal),250,200,300
+1576,Monufia,Shebin El Kom,Restaurants,Domestic Draft Beer (0.5 Liter),72.5,60,110
+1577,Monufia,Shebin El Kom,Restaurants,Imported Beer (0.33 Liter Bottle),150,90,300
+1578,Monufia,Shebin El Kom,Restaurants,Cappuccino (Regular Size),64.12,30,120
+1579,Monufia,Shebin El Kom,Restaurants,"Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",15,15,20
+1580,Monufia,Shebin El Kom,Restaurants,Bottled Water (0.33 Liter),6,5,10
+1581,Monufia,Shebin El Kom,Markets,"Milk (Regular, 1 Liter)",43.93,38,50
+1582,Monufia,Shebin El Kom,Markets,Fresh White Bread (500 g Loaf),39.57,20,120
+1583,Monufia,Shebin El Kom,Markets,White Rice (1 kg),33.52,26,40
+1584,Monufia,Shebin El Kom,Markets,"Eggs (12, Large Size)",61.17,36,72
+1585,Monufia,Shebin El Kom,Markets,Local Cheese (1 kg),208.12,80,400
+1586,Monufia,Shebin El Kom,Markets,Chicken Fillets (1 kg),220.62,180,250
+1587,Monufia,Shebin El Kom,Markets,Beef Round or Equivalent Back Leg Red Meat (1 kg),470.26,400,500
+1588,Monufia,Shebin El Kom,Markets,Apples (1 kg),72.11,40,90
+1589,Monufia,Shebin El Kom,Markets,Bananas (1 kg),33.82,25,50
+1590,Monufia,Shebin El Kom,Markets,Oranges (1 kg),22.69,10,35
+1591,Monufia,Shebin El Kom,Markets,Tomatoes (1 kg),17.04,10,25
+1592,Monufia,Shebin El Kom,Markets,Potatoes (1 kg),17.08,7,30
+1593,Monufia,Shebin El Kom,Markets,Onions (1 kg),18.57,10,30
+1594,Monufia,Shebin El Kom,Markets,Lettuce (1 Head),14,5,30
+1595,Monufia,Shebin El Kom,Markets,Bottled Water (1.5 Liter),10.12,8,12
+1596,Monufia,Shebin El Kom,Markets,Bottle of Wine (Mid-Range),300,150,500
+1597,Monufia,Shebin El Kom,Markets,Domestic Beer (0.5 Liter Bottle),66,60,90
+1598,Monufia,Shebin El Kom,Markets,Imported Beer (0.33 Liter Bottle),140,45,160
+1599,Monufia,Shebin El Kom,Markets,"Cigarettes (Pack of 20, Marlboro)",100,80,150
+1600,Monufia,Shebin El Kom,Transportation,Taxi Start (Standard Tariff),30,20,50
+1601,Monufia,Shebin El Kom,Transportation,Taxi 1 km (Standard Tariff),22.5,10,30
+1602,Monufia,Shebin El Kom,Transportation,Taxi 1 Hour Waiting (Standard Tariff),100,70,100
+1603,Monufia,Shebin El Kom,Transportation,Gasoline (1 Liter),19.03,15,24
+1604,Monufia,Shebin El Kom,Transportation,Volkswagen Golf 1.5 (or Equivalent New Compact Car),1690000,1690000,1800000
+1605,Monufia,Shebin El Kom,Transportation,Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car),1506250,1200000,1700000
+1606,Monufia,Shebin El Kom,Utilities (Monthly),"Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",669.6,470,1000
+1607,Monufia,Shebin El Kom,Utilities (Monthly),"Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",335.79,150,500
+1608,Monufia,Shebin El Kom,Utilities (Monthly),"Broadband Internet (Unlimited Data, 60 Mbps or Higher)",533.64,250,1000
+1609,Monufia,Shebin El Kom,Sports And Leisure,Cinema Ticket (International Release),150,100,150
+1610,Monufia,Shebin El Kom,Childcare,"Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",4155.56,2500,5000
+1611,Monufia,Shebin El Kom,Childcare,"International Primary School, Annual Tuition per Child",111363.64,70000,308661.93
+1612,Monufia,Shebin El Kom,Clothing And Shoes,Jeans (Levi's 501 or Similar),1503.57,600,3000
+1613,Monufia,Shebin El Kom,Clothing And Shoes,Summer Dress in a Chain Store (e.g. Zara or H&M),2300,800,4000
+1614,Monufia,Shebin El Kom,Clothing And Shoes,Nike Running Shoes (Mid-Range),6545.45,3500,12000
+1615,Monufia,Shebin El Kom,Clothing And Shoes,Men's Leather Business Shoes,2877.78,700,5000
+1616,Monufia,Shebin El Kom,Salaries And Financing,"Annual Mortgage Interest Rate (20-Year Fixed, in %)",20.5,14,24
