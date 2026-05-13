@@ -1,0 +1,257 @@
+================================================================================
+  REAL ESTATE & MARKET INTELLIGENCE ERD
+  Relational Schema Mapping Documentation
+================================================================================
+  Source: "Understanding a Location to Make Smarter Decisions"
+  Mapping Method: Standard EERD-to-Relational Mapping (Steps 1–7)
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 1 — RELATIONAL TABLES (Full Schema)
+────────────────────────────────────────────────────────────────────────────────
+
+1. LOCATION
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Location_ID       INT           PRIMARY KEY                      │
+   │ Governorate       VARCHAR                                        │
+   │ City              VARCHAR                                        │
+   │ Region            VARCHAR                                        │
+   │ Latitude          DECIMAL(10,6)                                  │
+   │ Longitude         DECIMAL(10,6)                                  │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: Central entity. All other entities relate to Location either
+          directly (via FK) or indirectly (via Property).
+
+────────────────────────────────────────────────────────────────────────────────
+
+2. DEMOGRAPHICS
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Location_ID       INT           PRIMARY KEY + FOREIGN KEY        │
+   │                                 → LOCATION(Location_ID)         │
+   │ Population_Total  INT                                            │
+   │ Population_Male   INT                                            │
+   │ Population_Female INT                                            │
+   │ Youth_Percentage  DECIMAL                                        │
+   │ Avg_Monthly_Income DECIMAL                                       │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: 1:1 relationship with LOCATION. Location_ID serves dual role
+          as both PK and FK — no surrogate key needed.
+
+────────────────────────────────────────────────────────────────────────────────
+
+3. UNIVERSITY_STUDENTS
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Uni_Student_ID    INT           PRIMARY KEY                      │
+   │ Location_ID       INT           FOREIGN KEY → LOCATION           │
+   │ University        VARCHAR                                        │
+   │ University_Type   VARCHAR                                        │
+   │ Num_Male          INT                                            │
+   │ Num_Female        INT                                            │
+   │ Total_Students    INT                                            │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: 1:N relationship with LOCATION (one location hosts many
+          university records).
+
+────────────────────────────────────────────────────────────────────────────────
+
+4. LABOR_FORCE
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Labor_ID          INT           PRIMARY KEY                      │
+   │ Location_ID       INT           FOREIGN KEY → LOCATION           │
+   │ Num_Male          INT                                            │
+   │ Num_Female        INT                                            │
+   │ Total_Labor_Force INT                                            │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: 1:N relationship with LOCATION (one location contains many
+          labor force records).
+
+────────────────────────────────────────────────────────────────────────────────
+
+5. EMPLOYMENT_BY_INDUSTRY
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Employment_ID     INT           PRIMARY KEY                      │
+   │ Location_ID       INT           FOREIGN KEY → LOCATION           │
+   │ Industry          VARCHAR                                        │
+   │ Num_Male          INT                                            │
+   │ Num_Female        INT                                            │
+   │ Total_Employed    INT                                            │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: 1:N relationship with LOCATION (one location has many
+          industry employment records).
+
+────────────────────────────────────────────────────────────────────────────────
+
+6. COST_OF_LIVING
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Cost_ID           INT           PRIMARY KEY                      │
+   │ Location_ID       INT           FOREIGN KEY → LOCATION           │
+   │ Category          VARCHAR                                        │
+   │ Item              VARCHAR                                        │
+   │ Avg_Price_EGP     DECIMAL                                        │
+   │ Min_Price_EGP     DECIMAL                                        │
+   │ Max_Price_EGP     DECIMAL                                        │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: 1:N relationship with LOCATION. All prices stored in EGP.
+
+────────────────────────────────────────────────────────────────────────────────
+
+7. BUSINESS_TYPE
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ BusinessType_ID   INT           PRIMARY KEY                      │
+   │ Type_Name         VARCHAR                                        │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: Lookup/reference table. Categorizes competitors.
+
+────────────────────────────────────────────────────────────────────────────────
+
+8. COMPETITOR
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Competitor_ID     INT           PRIMARY KEY                      │
+   │ Location_ID       INT           FOREIGN KEY → LOCATION           │
+   │ BusinessType_ID   INT           FOREIGN KEY → BUSINESS_TYPE      │
+   │ Business_Name     VARCHAR                                        │
+   │ Category          VARCHAR                                        │
+   │ Rating            DECIMAL                                        │
+   │ Reviews_Count     INT                                            │
+   │ Price_Level       VARCHAR                                        │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: Has two FKs — one to LOCATION (where they operate) and one
+          to BUSINESS_TYPE (what kind of business they are).
+
+────────────────────────────────────────────────────────────────────────────────
+
+9. PROPERTY
+   ┌──────────────────────────────────────────────────────────────────┐
+   │ Property_ID       INT           PRIMARY KEY                      │
+   │ Location_ID       INT           FOREIGN KEY → LOCATION           │
+   │ Property_Type     VARCHAR                                        │
+   │   (Apartment, Shop, Clinic, Villa, Land, Office)                │
+   │ Size_sqm          DECIMAL                                        │
+   │ Latitude          DECIMAL(10,6)                                  │
+   │ Longitude         DECIMAL(10,6)                                  │
+   └──────────────────────────────────────────────────────────────────┘
+   Notes: 1:N with LOCATION. Has its own Lat/Lon for precise property
+          coordinates (distinct from the location-level coordinates).
+
+────────────────────────────────────────────────────────────────────────────────
+
+10. LISTING
+    ┌──────────────────────────────────────────────────────────────────┐
+    │ Listing_ID        INT           PRIMARY KEY                      │
+    │ Property_ID       INT           FOREIGN KEY → PROPERTY           │
+    │ Listing_Type      VARCHAR                                        │
+    │   (Rental, Sale, Commercial_Rent)                               │
+    │ Price_EGP         DECIMAL                                        │
+    │ Price_Per_Sqm     DECIMAL                                        │
+    │ Price_Period      VARCHAR  (monthly, total)                      │
+    │ Title             VARCHAR                                        │
+    │ Date_Listed       DATE                                           │
+    └──────────────────────────────────────────────────────────────────┘
+    Notes: 1:N with PROPERTY. One property can have multiple listings
+           (e.g., re-listed over time or different listing types).
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 2 — RELATIONSHIP SUMMARY TABLE
+────────────────────────────────────────────────────────────────────────────────
+
+  Relationship                         │ Type │ FK Placement
+  ─────────────────────────────────────┼──────┼────────────────────────────────
+  LOCATION — has → DEMOGRAPHICS        │  1:1 │ Location_ID as PK+FK in DEMOGRAPHICS
+  LOCATION — hosts → UNIV_STUDENTS     │  1:N │ Location_ID FK in UNIV_STUDENTS
+  LOCATION — contains → LABOR_FORCE    │  1:N │ Location_ID FK in LABOR_FORCE
+  LOCATION — has → EMPL_BY_INDUSTRY    │  1:N │ Location_ID FK in EMPLOYMENT_BY_INDUSTRY
+  LOCATION — has → COST_OF_LIVING      │  1:N │ Location_ID FK in COST_OF_LIVING
+  LOCATION — hosts → COMPETITOR        │  1:N │ Location_ID FK in COMPETITOR
+  LOCATION — contains → PROPERTY       │  1:N │ Location_ID FK in PROPERTY
+  BUSINESS_TYPE — categorizes → COMP.  │  1:N │ BusinessType_ID FK in COMPETITOR
+  PROPERTY — has → LISTING             │  1:N │ Property_ID FK in LISTING
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 3 — MAPPING DECISIONS & NOTES
+────────────────────────────────────────────────────────────────────────────────
+
+A. 1:1 RELATIONSHIP (Location ↔ Demographics)
+   - Location_ID acts as BOTH Primary Key and Foreign Key in DEMOGRAPHICS.
+   - No separate surrogate key needed.
+   - This ensures exactly one demographics record per location.
+
+B. 1:N RELATIONSHIPS
+   - All 1:N relationships are resolved by placing the FK on the "many" side.
+   - Example: One Location → Many University_Student records.
+     → Location_ID is added as FK to UNIVERSITY_STUDENTS.
+
+C. ENUMERATED ATTRIBUTES (stored as VARCHAR with CHECK constraints)
+   - Property_Type: Apartment | Shop | Clinic | Villa | Land | Office
+   - Listing_Type:  Rental | Sale | Commercial_Rent
+   - Price_Period:  monthly | total
+
+D. DUAL COORDINATES
+   - LOCATION has Latitude/Longitude representing the general area.
+   - PROPERTY also has Latitude/Longitude for the specific property location.
+   - Both use DECIMAL(10,6) for high precision (as noted in original ERD).
+
+E. DUAL FK IN COMPETITOR
+   - COMPETITOR references both LOCATION (where?) and BUSINESS_TYPE (what?).
+   - This avoids redundancy — business types are normalized into their own table.
+
+F. NO WEAK ENTITIES
+   - No weak entities were identified in this ERD.
+   - All entities have their own primary keys.
+
+G. NO MULTI-VALUED ATTRIBUTES
+   - No attribute requires a separate decomposition table.
+   - Property_Type and Listing_Type are single-valued (one per record).
+
+H. "REAL ESTATE MARKET" ANNOTATION
+   - The dashed-border "Real Estate Market" box in the original ERD is a
+     design annotation / story note — NOT an entity.
+   - It was NOT mapped to a table.
+
+I. ALL PRICES IN EGP
+   - As noted in the original ERD, all numeric prices are stored in EGP.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 4 — COMPACT SCHEMA NOTATION
+────────────────────────────────────────────────────────────────────────────────
+
+LOCATION(Location_ID [PK], Governorate, City, Region, Latitude, Longitude)
+
+DEMOGRAPHICS(Location_ID [PK, FK→LOCATION], Population_Total,
+             Population_Male, Population_Female, Youth_Percentage,
+             Avg_Monthly_Income)
+
+UNIVERSITY_STUDENTS(Uni_Student_ID [PK], Location_ID [FK→LOCATION],
+                    University, University_Type, Num_Male, Num_Female,
+                    Total_Students)
+
+LABOR_FORCE(Labor_ID [PK], Location_ID [FK→LOCATION], Num_Male,
+            Num_Female, Total_Labor_Force)
+
+EMPLOYMENT_BY_INDUSTRY(Employment_ID [PK], Location_ID [FK→LOCATION],
+                       Industry, Num_Male, Num_Female, Total_Employed)
+
+COST_OF_LIVING(Cost_ID [PK], Location_ID [FK→LOCATION], Category, Item,
+               Avg_Price_EGP, Min_Price_EGP, Max_Price_EGP)
+
+BUSINESS_TYPE(BusinessType_ID [PK], Type_Name)
+
+COMPETITOR(Competitor_ID [PK], Location_ID [FK→LOCATION],
+           BusinessType_ID [FK→BUSINESS_TYPE], Business_Name,
+           Category, Rating, Reviews_Count, Price_Level)
+
+PROPERTY(Property_ID [PK], Location_ID [FK→LOCATION], Property_Type,
+         Size_sqm, Latitude, Longitude)
+
+LISTING(Listing_ID [PK], Property_ID [FK→PROPERTY], Listing_Type,
+        Price_EGP, Price_Per_Sqm, Price_Period, Title, Date_Listed)
+
+
+================================================================================
+  END OF DOCUMENT
+  Total tables: 10
+  Total relationships mapped: 9
+================================================================================
